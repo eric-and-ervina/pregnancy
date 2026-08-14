@@ -245,24 +245,25 @@ Let me draw you the whole vicious loop, and then I'll show you exactly where you
 
 ## The Cycle — Mermaid Flowchart
 
+```mermaid
 flowchart TD
-    A["🧠 FEAR / THREAT PERCEPTION'Something is wrong''I can't do this''I'm being watched / judged'"]
+    A["🧠 <b>FEAR / THREAT PERCEPTION</b><br/>'Something is wrong'<br/>'I can't do this'<br/>'I'm being watched / judged'"]
 
-    B["⚡ SYMPATHETIC NERVOUS SYSTEMACTIVATESFight-or-flight response engaged"]
+    B["⚡ <b>SYMPATHETIC NERVOUS SYSTEM<br/>ACTIVATES</b><br/>Fight-or-flight response engaged"]
 
-    C["💉 ADRENALINE &NORADRENALINE FLOODStress hormones surge"]
+    C["💉 <b>ADRENALINE &<br/>NORADRENALINE FLOOD</b><br/>Stress hormones surge"]
 
-    D["🔒 MUSCLE TENSION• Cervix tightens & resists opening• Jaw clenches• Shoulders rise• Pelvic floor contracts upward• Uterine fibers contract  in disorganized pattern"]
+    D["🔒 <b>MUSCLE TENSION</b><br/>• Cervix tightens & resists opening<br/>• Jaw clenches<br/>• Shoulders rise<br/>• Pelvic floor contracts upward<br/>• Uterine fibers contract<br/>  in disorganized pattern"]
 
-    E["🩸 REDUCED BLOOD FLOWTO UTERUSVasoconstriction → ischemia(oxygen-starved muscle tissue)"]
+    E["🩸 <b>REDUCED BLOOD FLOW<br/>TO UTERUS</b><br/>Vasoconstriction → ischemia<br/>(oxygen-starved muscle tissue)"]
 
-    F["📉 OXYTOCIN SUPPRESSEDContractions become weaker,irregular, less productiveLabor slows or stalls"]
+    F["📉 <b>OXYTOCIN SUPPRESSED</b><br/>Contractions become weaker,<br/>irregular, less productive<br/>Labor slows or stalls"]
 
-    G["🚫 ENDORPHINS BLOCKEDBody's natural pain relieffails to rise"]
+    G["🚫 <b>ENDORPHINS BLOCKED</b><br/>Body's natural pain relief<br/>fails to rise"]
 
-    H["🔥 INCREASED PAINIschemic pain + uncoordinatedcontractions + no endorphinbuffer = intense suffering"]
+    H["🔥 <b>INCREASED PAIN</b><br/>Ischemic pain + uncoordinated<br/>contractions + no endorphin<br/>buffer = intense suffering"]
 
-    I["😰 PAIN CONFIRMS FEAR'See? Something IS wrong.''This is too much.''My body is failing me.'"]
+    I["😰 <b>PAIN CONFIRMS FEAR</b><br/>'See? Something IS wrong.'<br/>'This is too much.'<br/>'My body is failing me.'"]
 
     A -->|"Triggers"| B
     B -->|"Releases"| C
@@ -272,8 +273,8 @@ flowchart TD
     C -->|"Inhibits"| G
     D -->|"Contributes to"| H
     E -->|"Contributes to"| H
-    F -->|"Prolongs labor →exhaustion"| H
-    G -->|"Removes naturalpain relief"| H
+    F -->|"Prolongs labor →<br/>exhaustion"| H
+    G -->|"Removes natural<br/>pain relief"| H
     H -->|"Feeds back into"| I
     I -->|"Amplifies"| A
 
@@ -286,6 +287,7 @@ flowchart TD
     style G fill:#f39c12,color:#fff,stroke:#b7950b,stroke-width:2px
     style H fill:#e74c3c,color:#fff,stroke:#922b21,stroke-width:2px
     style I fill:#ff6b6b,color:#fff,stroke:#c0392b,stroke-width:2px
+```
 
 ---
 
@@ -296,7 +298,6 @@ flowchart TD
 This is where it all starts. And here's what's critical: **your brain does not distinguish between a real threat and an imagined one.** A lion chasing you and the thought *"what if I need an emergency C-section?"* activate the **exact same neural pathway** — the amygdala fires, the hypothalamus signals the adrenal glands, and the cascade begins.
 
 Common triggers in labor:
-
 - Feeling observed or judged
 - Bright lights, cold rooms, unfamiliar sounds
 - Time pressure ("you need to dilate faster")
@@ -309,7 +310,7 @@ Common triggers in labor:
 Your autonomic nervous system has two modes:
 
 | **Sympathetic (Fight/Flight)** | **Parasympathetic (Rest/Digest)** |
-| ------ |------ |
+|---|---|
 | "Danger! Mobilize!" | "Safe. Restore." |
 | Heart rate up, blood to limbs | Heart rate steady, blood to organs |
 | Sphincters CLOSE | Sphincters OPEN |
@@ -343,7 +344,6 @@ Adrenaline causes **vasoconstriction** — your blood vessels narrow. Blood is d
 ### Node F — Oxytocin Suppressed
 
 Oxytocin is the **master hormone of birth**. It:
-
 - Drives rhythmic, coordinated contractions
 - Causes the cervix to efface and dilate
 - Triggers the Ferguson reflex (the urge to push)
@@ -361,7 +361,6 @@ Adrenaline blocks this. So the woman in fear gets **all the pain with none of th
 ### Node H — Increased Pain
 
 Now you have the perfect storm:
-
 - Ischemic, oxygen-starved uterine muscle (burning)
 - Uncoordinated, inefficient contractions (more work, less progress)
 - No endorphin buffer (full pain perception)
@@ -382,6 +381,7 @@ And here's the cruelest part of the cycle: **the pain validates the original fea
 
 Now here's the beautiful part. **This cycle has at least six points where you can interrupt it.** You don't need to break all of them. You only need to break **one** to collapse the entire loop.
 
+```mermaid
 flowchart TD
     A["🧠 FEAR / THREAT PERCEPTION"]
     B["⚡ SYMPATHETIC ACTIVATION"]
@@ -400,12 +400,12 @@ flowchart TD
     C --> G --> H
     H --> I --> A
 
-    X1["🟢 EXIT 1: COGNITIVE REFRAMEChange the story.'This is opening, not breaking.''This sensation IS progress.'"]
-    X2["🟢 EXIT 2: ENVIRONMENT DESIGNDim lights. Warmth. Privacy.Remove observers. Soft voices.Familiar scents. Your own space."]
-    X3["🟢 EXIT 3: BREATH & BODYExtended exhale (4 in / 8 out).Vocalization (low moaning).Movement: rocking, swaying,hands-and-knees, birth ball."]
-    X4["🟢 EXIT 4: JAW & PELVIC RELEASEUnclench jaw. Drop shoulders.Open hands. Soften belly.'Melt the pelvic floor down.'Warm compress on perineum."]
-    X5["🟢 EXIT 5: OXYTOCIN BOOSTSkin-to-skin with partner.Nipple stimulation. Kisses.Warm water immersion.Feeling loved & safe."]
-    X6["🟢 EXIT 6: PAIN REINTERPRETATION'This is the feeling of mycervix opening.' Sensation isinformation, not damage.Each wave brings baby closer."]
+    X1["🟢 <b>EXIT 1: COGNITIVE REFRAME</b><br/>Change the story.<br/>'This is opening, not breaking.'<br/>'This sensation IS progress.'"]
+    X2["🟢 <b>EXIT 2: ENVIRONMENT DESIGN</b><br/>Dim lights. Warmth. Privacy.<br/>Remove observers. Soft voices.<br/>Familiar scents. Your own space."]
+    X3["🟢 <b>EXIT 3: BREATH & BODY</b><br/>Extended exhale (4 in / 8 out).<br/>Vocalization (low moaning).<br/>Movement: rocking, swaying,<br/>hands-and-knees, birth ball."]
+    X4["🟢 <b>EXIT 4: JAW & PELVIC RELEASE</b><br/>Unclench jaw. Drop shoulders.<br/>Open hands. Soften belly.<br/>'Melt the pelvic floor down.'<br/>Warm compress on perineum."]
+    X5["🟢 <b>EXIT 5: OXYTOCIN BOOST</b><br/>Skin-to-skin with partner.<br/>Nipple stimulation. Kisses.<br/>Warm water immersion.<br/>Feeling loved & safe."]
+    X6["🟢 <b>EXIT 6: PAIN REINTERPRETATION</b><br/>'This is the feeling of my<br/>cervix opening.' Sensation is<br/>information, not damage.<br/>Each wave brings baby closer."]
 
     X1 -.->|"Interrupts"| A
     X2 -.->|"Prevents"| B
@@ -431,6 +431,7 @@ flowchart TD
     style X4 fill:#27ae60,color:#fff,stroke:#1e8449,stroke-width:2px
     style X5 fill:#27ae60,color:#fff,stroke:#1e8449,stroke-width:2px
     style X6 fill:#27ae60,color:#fff,stroke:#1e8449,stroke-width:2px
+```
 
 ---
 
@@ -443,7 +444,7 @@ flowchart TD
 **How:** You change the *meaning* you assign to the sensation. This is not positive thinking. This is **accurate thinking.**
 
 | Fear thought | Reframe |
-| ------ |------ |
+|---|---|
 | "This pain means something is wrong" | "This sensation means my cervix is opening" |
 | "I can't handle this" | "I have handled every contraction so far. This one will also end." |
 | "My body is failing" | "My body is doing the most sophisticated thing it has ever done" |
@@ -542,7 +543,7 @@ And then you breathe. Long exhale. Soft jaw. Open hands.
 ## The Summary — Your Cheat Sheet
 
 | **Exit** | **Where it breaks the cycle** | **What it does** | **When to use it** |
-| ------ |------ |------ |------ |
+|---|---|---|---|
 | 1. Cognitive Reframe | Node A (Fear) | Changes the meaning of sensation | Before & during labor |
 | 2. Environment Design | Node B (Sympathetic activation) | Prevents the alarm from firing | Before labor begins |
 | 3. Breath & Movement | Nodes B & D | Forces parasympathetic switch; releases tension | Every contraction |
@@ -795,3 +796,151 @@ You've got this, mama. And I'll be right here. 💛
 ---
 
 *This is educational information for birth preparation, not medical advice. Always work with your qualified prenatal care provider for your individual health needs. The studies referenced include: Wuitchik et al. (1989), Pain; Adams et al. (2012), BJOG; Laursen et al. (2008), Acta Obstetricia et Gynecologica Scandinavica; Melender (2002), Journal of Psychosomatic Obstetrics & Gynecology; Alehagen et al. (2001), Acta Obstetricia et Gynecologica Scandinavica; O'Connell et al. (2008), Midwifery; Hodnett et al. (2013), Cochrane Database of Systematic Reviews; Beckmann & Stock (2013), Cochrane Database of Systematic Reviews; Wijma et al. (1998), Journal of Psychosomatic Obstetrics & Gynecology; Söderquist et al. (2009), Archives of Women's Mental Health; WHO (2018), WHO recommendations: Intrapartum care for a positive childbirth experience.*
+
+---
+
+# A 5-Minute Script for the Anxious Nights
+
+*Read this aloud. Slowly. In your own voice. Not a performance — a conversation with yourself. Where you see* **[pause]**, *stop. Breathe. Let the words land. Where you see* **[breathe]**, *take a full inhale and a long, slow exhale before continuing.*
+
+---
+
+## The Script
+
+---
+
+I notice the fear is here.
+
+**[pause]**
+
+I don't need to fix it. I don't need to be angry at it. I don't need to pretend it isn't real. It's here. It's knocking. And that's okay. Fear is allowed to visit. It doesn't get to stay. It doesn't get to drive. But it can sit in the passenger seat for a moment, and I can say, *"I see you. And I'm still going where I'm going."*
+
+**[breathe]**
+
+Now I'm going to put my hand on my belly. Right here. Over the baby. I can feel the warmth. I can feel the small movements. A knee. An elbow. A little foot pressing against my palm.
+
+**[pause]**
+
+My baby is here. Right now. Alive. Growing. Practicing. My baby has been rehearsing for this moment since ten weeks old — little breathing movements, little swallowing, little turns. My baby knows what to do. My baby has *always* known what to do.
+
+**[breathe]**
+
+And now I'm going to breathe. Not to perform. Not to do it "right." Just to let my body remember what it already knows.
+
+In through my nose... two... three... four.
+
+And out through my mouth... two... three... four... five... six... seven... eight.
+
+**[pause]**
+
+Again. In... two... three... four.
+
+And out... two... three... four... five... six... seven... eight.
+
+**[pause]**
+
+I feel my shoulders dropping. I feel my jaw going slack. I feel my hands opening. I feel my belly softening under my palm. I feel my pelvic floor releasing — melting downward — like a sigh, but in the deepest part of me.
+
+**[breathe]**
+
+And here is what I know. Not what I *hope.* Not what I *wish.* What I *know,* because it is written in my cells, in my hormones, in three hundred thousand years of women who came before me:
+
+My body is not a machine that will break. It is a living, intelligent, ancient system. It has been building this birth since the day I conceived. My cervix has been preparing. My pelvis has been softening. My hormones have been rehearsing their choreography. My uterus has been practicing its contractions for months. Nothing about this is new to my body. Nothing about this is a surprise. My body has been *getting ready* for twenty-five weeks, and it will keep getting ready until the day my baby arrives.
+
+**[pause]**
+
+The fear tells me: *"What if the pain is too much?"*
+
+And I answer: *"The pain is not damage. The pain is opening. The pain is my cervix thinning and stretching and making room. And my body has a built-in answer for it — endorphins, rising with every wave, a natural morphine that my own brain will pour over me when I let it. I don't need to earn it. I don't need to be brave enough. I just need to not fight the wave. And then the relief comes. It always comes."*
+
+**[breathe]**
+
+The fear tells me: *"What if I lose control?"*
+
+And I answer: *"I won't lose control. I will surrender it. And those are different things. Losing control is a car accident. Surrendering control is floating on my back in the ocean. I am still me. I am still conscious. I am still choosing. I am choosing to stop managing the waves and start riding them. And that is not weakness. That is the deepest strength I have."*
+
+**[pause]**
+
+The fear tells me: *"What if something goes wrong?"*
+
+And I answer: *"The odds are overwhelmingly in my favor. My body was made for this. My baby was made for this. And even in the rare event that something unexpected happens, I will not be alone. I will have skilled hands. I will have a team. I will have options. I will handle it. I have handled every hard thing that has ever come to me, and I will handle this too. I don't need to solve it tonight. I don't need to solve it now. I just need to trust that future me — the me in that room, with my baby's heartbeat strong and steady — will know what to do. And she will."*
+
+**[breathe]**
+
+The fear tells me: *"What if I'm not enough?"*
+
+And I answer: *"I am already enough. I have been enough since the day this baby was conceived. I grew a placenta. I grew amniotic fluid. I grew a human being from a single cell. I have been enough for twenty-five weeks, and I will be enough for twenty-five more, and I will be enough on the day my baby is born, and I will be enough every single day after that. I do not need to be perfect. I need to be present. And I am already here."*
+
+**[pause]**
+
+**[breathe]**
+
+I am going to say this now, and I am going to mean it, even if my voice shakes:
+
+*I trust my body.*
+
+**[pause]**
+
+*I trust my baby.*
+
+**[pause]**
+
+*I trust the process.*
+
+**[pause]**
+
+*I was made for this. I was made for this. I was made for this.*
+
+**[breathe]**
+
+The fear can go now. It has been heard. It has been honored. But it does not get to stay. This is my body. This is my birth. This is my baby. And I am ready — not because I feel ready, but because I *am* ready, whether I feel it or not.
+
+**[pause]**
+
+One more breath. In... two... three... four.
+
+And out... two... three... four... five... six... seven... eight.
+
+**[pause]**
+
+I open. I release. I trust.
+
+**[pause]**
+
+I am safe. My baby is safe. And we are going to meet each other.
+
+And it is going to be *magnificent.*
+
+---
+
+*[End of script.]*
+
+---
+
+## How to Use This
+
+- **Read it aloud.** Not silently. Your own voice, in your own ears, is a grounding tool. It activates the vagus nerve. It tells your nervous system: *"Someone is here. Someone is speaking to me. I am not alone."*
+- **Read it slowly.** This is not a race. Let the pauses be real. Let the breaths be full. Five minutes is five minutes. Give yourself that.
+- **Read it when the fear comes.** At 2 a.m. when your mind is racing. In the parking lot before a prenatal appointment. When a friend tells you a horror story and you can't shake it. When you're lying in bed and your hand is on your belly and the "what ifs" start whispering.
+- **Read it until you don't need to.** After a while, the words will live in your body. You'll catch the fear at the door and say, *"I see you. And I'm still going where I'm going."* And you'll breathe. And the fear will pass through you like weather.
+- **You can change the words.** If something doesn't land, rewrite it. Make it yours. This is *your* script. You are the author of your own birth story, and that starts now.
+
+---
+
+One last thing, mama.
+
+You don't have to be fearless to have a beautiful birth. You just have to be *willing.* Willing to breathe. Willing to soften. Willing to trust that the animal wisdom in you is older and wiser than the fear in you.
+
+And you are already willing. You're here. You're reading this. You're preparing. You're asking the right questions.
+
+That's not anxiety. That's *love.*
+
+Now go put your hand on your belly. Feel that little foot press back.
+
+And breathe.
+
+You've got this. 💛
+
+---
+
+*This is a personal birth preparation tool, not medical advice. If your anxiety about birth feels overwhelming or persistent, please reach out to your prenatal care provider or a perinatal mental health professional. You deserve support.*
