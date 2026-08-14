@@ -1,7 +1,7 @@
 # 🤰 Comprehensive Natural Birth Preparation Program
 ## Week 25 → Week 40 | "Easy, Fast & Smooth" Framework
 
-> **Current Status:** 25 weeks 2 days | **Due Date:** ~40 weeks | **Time Remaining:** ~15 weeks
+> **How to Use:** This is a week-by-week guide. Start at Week 25 and progress one week at a time — adapt each week to where you actually are in your pregnancy.
 
 ---
 
@@ -25,26 +25,26 @@ This program is built on five pillars that work synergistically:
 
 ---
 
-### WEEK 25 (Current Week)
+### WEEK 25 (Starting Week)
 
 **🏋️ Physical (5 days/week)**
 - **Daily walking:** 20–30 minutes at comfortable pace (builds cardiovascular stamina for labor)
 - **Prenatal yoga (3x/week):** Focus on hip openers — butterfly pose, pigeon pose, supported squats
-- **Pelvic floor awareness:** Practice "elevator" — gently contract (up) and fully RELEASE (down) the pelvic floor, 10 reps × 3 sets daily. The *release* is more important than the squeeze for birth [[19]]
-- **Cat-Cow stretch:** 10 reps daily on all fours — mobilizes the pelvis and encourages baby into good position [[51]]
+- **Pelvic floor awareness:** Practice "elevator" — gently contract (up) and fully RELEASE (down) the pelvic floor, 10 reps × 3 sets daily. The *release* is more important than the squeeze for birth
+- **Cat-Cow stretch:** 10 reps daily on all fours — mobilizes the pelvis and encourages baby into good position
 
 **🧠 Mental/Emotional**
 - Begin a **5-minute daily breathing practice:** Inhale 4 counts → Hold 4 → Exhale 6–8 counts (activates parasympathetic nervous system)
 - Start a **gratitude/affirmation journal:** Write 3 positive birth affirmations daily (e.g., "My body knows how to birth my baby")
-- Begin researching **hypnobirthing** — the method combines self-hypnosis, visualization, positive affirmations, and deep breathing [[43]]
+- Begin researching **hypnobirthing** — the method combines self-hypnosis, visualization, positive affirmations, and deep breathing
 
 **📚 Education**
-- Enroll in a **comprehensive childbirth education class** (Lamaze, HypnoBirthing, or Bradley Method) — ideally a 5-session course [[45]]
+- Enroll in a **comprehensive childbirth education class** (Lamaze, HypnoBirthing, or Bradley Method) — ideally a 5-session course
 - Read: *"Ina May's Guide to Childbirth"* and *"The Birth Partner"* (for husband)
-- Start following **Spinning Babies** daily activities for pregnancy comfort and optimal positioning [[17]]
+- Start following **Spinning Babies** daily activities for pregnancy comfort and optimal positioning
 
 **🥗 Nutrition**
-- Begin **Red Raspberry Leaf Tea:** 1 cup/day (tones uterine muscle) [[30]]
+- Begin **Red Raspberry Leaf Tea:** 1 cup/day (tones uterine muscle)
 - Ensure adequate **iron, magnesium, calcium, omega-3 (DHA)** intake
 - Hydration: minimum 2.5–3 liters water daily
 - Focus on whole foods: leafy greens, lean protein, whole grains, healthy fats
@@ -61,14 +61,14 @@ This program is built on five pillars that work synergistically:
 **🏋️ Physical**
 - Walking: increase to **30 minutes, 5x/week**
 - **Strength training (2x/week):** Bodyweight squats (hold 30 sec), wall push-ups, seated rows with resistance band, step-ups
-- **Hip circles on birth ball:** Sit on a Swiss/birthing ball, make slow circles — 2 minutes each direction daily. This opens the pelvis and encourages baby's optimal position [[19]]
-- **Child's Pose:** Hold 60 seconds daily — lengthens pelvic floor muscles and eases lower back tension [[18]]
+- **Hip circles on birth ball:** Sit on a Swiss/birthing ball, make slow circles — 2 minutes each direction daily. This opens the pelvis and encourages baby's optimal position
+- **Child's Pose:** Hold 60 seconds daily — lengthens pelvic floor muscles and eases lower back tension
 - Continue pelvic floor release work
 
 **🧠 Mental/Emotional**
 - Breathing practice: extend to **10 minutes daily**
 - Add **visualization:** Spend 5 min visualizing a smooth, positive birth — see the cervix opening like a flower, baby moving down easily
-- Begin **HypnoBirthing audio tracks** (relaxation scripts) — listen 3x/week before sleep [[47]]
+- Begin **HypnoBirthing audio tracks** (relaxation scripts) — listen 3x/week before sleep
 
 **📚 Education**
 - Childbirth class session 2: Stages of labor
@@ -87,7 +87,7 @@ This program is built on five pillars that work synergistically:
 **🏋️ Physical**
 - Walking: 30 min, 5x/week
 - **Prenatal yoga (3x/week):** Add warrior poses, goddess squats, deep hip openers
-- **Squats (supported):** Hold a deep squat (heels down, use wall or partner for support) for 30–60 seconds × 3 reps daily. Squatting expands the pelvic outlet [[16]]
+- **Squats (supported):** Hold a deep squat (heels down, use wall or partner for support) for 30–60 seconds × 3 reps daily. Squatting expands the pelvic outlet
 - **Pelvic tilts:** Standing and on all fours, 15 reps × 2 sets
 - **Swimming or water walking** (1x/week if accessible): Relieves joint pressure, builds stamina
 
@@ -99,10 +99,10 @@ This program is built on five pillars that work synergistically:
 **📚 Education**
 - Childbirth class session 3: Pain management & comfort measures
 - Research and **interview doulas** (if considering one)
-- Learn about **the "Fantastic Four"** from Spinning Babies: Forward-Leaning Inversion, Side-lying Release, Abdominal Release, Pelvic Floor Release [[28]]
+- Learn about **the "Fantastic Four"** from Spinning Babies: Forward-Leaning Inversion, Side-lying Release, Abdominal Release, Pelvic Floor Release
 
 **🥗 Nutrition**
-- Raspberry leaf tea: increase to **2 cups/day** [[32]]
+- Raspberry leaf tea: increase to **2 cups/day**
 - Ensure 80–100g protein daily (supports tissue elasticity)
 - Vitamin C-rich foods (supports collagen/tissue health)
 
@@ -114,8 +114,8 @@ This program is built on five pillars that work synergistically:
 - Walking: 30–35 min, 5x/week
 - **Strength (2x/week):** Add lunges (forward & lateral), deadlifts with light dumbbells, banded clamshells
 - **Birth ball routine (daily 10 min):** Hip circles, figure-8s, gentle bouncing
-- **Forward-Leaning Inversion:** Begin practicing (kneel on couch, hands on floor, lower forearms to ground, hold 30 sec) — helps baby settle into optimal anterior position [[28]][[52]]
-- **Curb walking:** Walk with one foot on the curb, one on the road — 5 min each side (opens pelvis asymmetrically) [[50]]
+- **Forward-Leaning Inversion:** Begin practicing (kneel on couch, hands on floor, lower forearms to ground, hold 30 sec) — helps baby settle into optimal anterior position
+- **Curb walking:** Walk with one foot on the curb, one on the road — 5 min each side (opens pelvis asymmetrically)
 
 **🧠 Mental/Emotional**
 - HypnoBirthing practice: 15–20 min daily (breathing + relaxation script)
@@ -150,7 +150,7 @@ This program is built on five pillars that work synergistically:
 - Walking: **35 min, 5–6x/week** (add gentle hills if comfortable)
 - **Strength (3x/week):** Squats (bodyweight or light goblet), Romanian deadlifts, lateral band walks, incline push-ups
 - **Prenatal yoga (2x/week):** Focus on sustained hip openers (5+ breath holds)
-- **Daily Spinning Babies routine:** Forward-Leaning Inversion (30 sec × 3), pelvic floor release, cat-cow [[23]]
+- **Daily Spinning Babies routine:** Forward-Leaning Inversion (30 sec × 3), pelvic floor release, cat-cow
 - **Deep squat hold:** Work toward 90 seconds daily
 - **Stair climbing:** 2–3 flights slowly (opens pelvis, builds leg endurance)
 
@@ -165,7 +165,7 @@ This program is built on five pillars that work synergistically:
 - Learn **labor comfort measures:** counter-pressure, hip squeeze, double hip squeeze, sacral pressure
 
 **🥗 Nutrition**
-- Raspberry leaf tea: **2–3 cups/day** [[33]]
+- Raspberry leaf tea: **2–3 cups/day**
 - Add **bone broth** daily (glycine supports tissue elasticity)
 - Pineapple (contains bromelain — mild cervical softening properties)
 - Stay well-hydrated: 3+ liters water
@@ -184,8 +184,8 @@ This program is built on five pillars that work synergistically:
 - **Strength (3x/week):** Add step-ups, single-leg balance work, overhead press (light)
 - **Birth ball:** 15 min daily — bouncing, circles, figure-8s, pelvic rocks
 - **Lunges with rotation:** Step forward into lunge, rotate torso toward front leg — opens pelvis rotationally, 8 each side
-- **Forward-Leaning Inversion:** 30 sec × 3 daily [[28]]
-- **Side-lying Release:** Lie on side, partner gently releases hip/IT band tension (learn from Spinning Babies video) [[25]]
+- **Forward-Leaning Inversion:** 30 sec × 3 daily
+- **Side-lying Release:** Lie on side, partner gently releases hip/IT band tension (learn from Spinning Babies video)
 
 **🧠 Mental/Emotional**
 - HypnoBirthing: 20 min daily
@@ -194,8 +194,8 @@ This program is built on five pillars that work synergistically:
 - **Couple's relaxation:** Partner reads a relaxation script to her (practice for labor)
 
 **📚 Education**
-- Learn about **optimal fetal positioning (OFP):** Baby should be head-down, facing mother's spine (OA position) [[50]]
-- Understand **the "Three Balances"** from Spinning Babies for labor [[24]]
+- Learn about **optimal fetal positioning (OFP):** Baby should be head-down, facing mother's spine (OA position)
+- Understand **the "Three Balances"** from Spinning Babies for labor
 - Research **water birth** options if interested
 - Discuss **birth team:** doula, midwife, OB, partner roles
 
@@ -218,7 +218,7 @@ This program is built on five pillars that work synergistically:
   - Deep squat hold × 60 sec
   - Forward-leaning inversion × 30 sec × 3
   - Pelvic floor full release (5 min, diaphragmatic breathing into the pelvic floor)
-- **Curb walking:** 10 min total [[50]]
+- **Curb walking:** 10 min total
 
 **🧠 Mental/Emotional**
 - HypnoBirthing: 20–25 min daily
@@ -237,7 +237,7 @@ This program is built on five pillars that work synergistically:
 
 **🥗 Nutrition**
 - Raspberry leaf tea: 3 cups/day
-- **Dates:** Begin eating **4–6 Medjool dates (or 70g) daily** starting around week 36 — but you can start building the habit now [[41]]
+- **Dates:** Begin eating **4–6 Medjool dates (or 70g) daily** starting around week 36 — but you can start building the habit now
 - Iron-rich foods + vitamin C for absorption
 - Continue magnesium, omega-3, prenatal vitamin
 
@@ -249,7 +249,7 @@ This program is built on five pillars that work synergistically:
 - Walking: 40 min (add gentle intervals)
 - **Strength (3x/week):** Maintain — squats, deadlifts, carries, band work
 - **Birth ball routine:** 15–20 min daily
-- **Spinning Babies "Fantastic Four" routine:** 3–4x/week [[28]]
+- **Spinning Babies "Fantastic Four" routine:** 3–4x/week
   1. Forward-Leaning Inversion (30 sec × 3)
   2. Side-lying Release (each side)
   3. Abdominal Release (gentle)
@@ -316,7 +316,7 @@ This program is built on five pillars that work synergistically:
 - Understand **when to call the hospital/midwife** (contraction timing: 5-1-1 rule)
 
 **🥗 Nutrition**
-- Raspberry leaf tea: 3 cups/day [[33]]
+- Raspberry leaf tea: 3 cups/day
 - Dates: 4–6 daily
 - Evening primrose oil: 2,600 mg (confirm with provider)
 - Focus on **easy-to-digest, energy-rich foods** (labor is athletic)
@@ -344,17 +344,17 @@ This program is built on five pillars that work synergistically:
 - **Partner:** Learn to read her cues, when to talk vs. be silent, when to offer water vs. counter-pressure
 
 **📚 Education**
-- **Perineal massage begins this week** (or Week 35): 3–4 times per week, 5 minutes per session [[14]][[10]]
+- **Perineal massage begins this week** (or Week 35): 3–4 times per week, 5 minutes per session
   - Use vitamin E oil, coconut oil, or perineal massage oil
   - Insert thumbs 1–1.5 inches into vagina, press downward toward rectum, stretch in a U-shape
   - Hold stretch 60–90 seconds, massage sides
-  - Goal: Desensitize tissue, increase elasticity, reduce tearing risk [[12]]
+  - Goal: Desensitize tissue, increase elasticity, reduce tearing risk
 - **Confirm birth plan with provider**
 - **Install infant car seat, set up nursery**
 
 **🥗 Nutrition**
 - Raspberry leaf tea: 3 cups/day
-- Dates: 6 daily (Medjool) or 70g [[36]]
+- Dates: 6 daily (Medjool) or 70g
 - **Increase iron** (blood volume peaks)
 - **Electrolytes:** Coconut water, banana, a pinch of sea salt in water
 - Small, frequent meals (stomach compressed)
@@ -366,11 +366,11 @@ This program is built on five pillars that work synergistically:
 **🏋️ Physical**
 - Walking: 30–40 min daily (listen to body, reduce if fatigued)
 - **Birth Prep Circuit daily** (modified for comfort)
-- **Perineal massage: 4–5x/week** [[13]]
+- **Perineal massage: 4–5x/week**
 - **Focus on REST between activities** — don't overdo it
 - **Gentle stretching daily:** Hip flexors, hamstrings, inner thighs, chest
 - **Birth ball:** 15 min daily (gentle bouncing, circles)
-- **Forward-Leaning Inversion:** Continue daily [[28]]
+- **Forward-Leaning Inversion:** Continue daily
 
 **🧠 Mental/Emotional**
 - HypnoBirthing: 30 min daily (this is peak practice time)
@@ -391,7 +391,7 @@ This program is built on five pillars that work synergistically:
 
 **🥗 Nutrition**
 - Raspberry leaf tea: 3 cups/day
-- Dates: 6 daily [[38]]
+- Dates: 6 daily
 - **Evening primrose oil:** 2,600 mg (or as directed)
 - **Focus on easy labor-day snacks:** Honey sticks, coconut water, fruit, energy balls
 - Stay hydrated
@@ -403,7 +403,7 @@ This program is built on five pillars that work synergistically:
 **🏋️ Physical**
 - Walking: 30 min daily (gentle, enjoyable)
 - **Birth Prep Circuit:** 5x/week (reduce intensity, focus on mobility)
-- **Perineal massage: daily** (5 min) [[13]]
+- **Perineal massage: daily** (5 min)
 - **Deep squat:** 2 min daily (or as comfortable)
 - **Pelvic floor release:** 5 min daily (diaphragmatic breathing, "mool bandh" release)
 - **Gentle prenatal yoga:** 3x/week
@@ -413,11 +413,11 @@ This program is built on five pillars that work synergistically:
 - HypnoBirthing: 30 min daily (maintain consistency)
 - **Daily birth visualization**
 - **Practice "letting go" meditation:** 10 min — imagine each exhale releasing tension from jaw, shoulders, pelvic floor
-- **Tight jaw = tight pelvic floor:** Practice keeping jaw loose, mouth slightly open during stretches [[50]]
+- **Tight jaw = tight pelvic floor:** Practice keeping jaw loose, mouth slightly open during stretches
 - **Partner:** Final coaching rehearsal — he should know all breathing patterns, positions, mantras, when to advocate
 
 **📚 Education**
-- **Start eating 6 dates (Medjool) or 70g dates daily** if not already — research shows this significantly reduces need for induction/augmentation and shortens labor [[36]][[35]]
+- **Start eating 6 dates (Medjool) or 70g dates daily** if not already — research shows this significantly reduces need for induction/augmentation and shortens labor
 - **Finalize hospital bag**
 - **Confirm birth plan** with OB/midwife — file in medical records
 - **Install car seat, wash baby clothes, set up feeding station**
@@ -425,7 +425,7 @@ This program is built on five pillars that work synergistically:
 
 **🥗 Nutrition**
 - Raspberry leaf tea: 3 cups/day
-- **Dates: 6 Medjool daily (critical window: weeks 36–40)** [[41]][[40]]
+- **Dates: 6 Medjool daily (critical window: weeks 36–40)**
 - Evening primrose oil: continue
 - **Prep labor-day nutrition:** Honey, coconut water, dates, easy snacks
 - **Freeze postpartum meals** (soups, stews, energy balls)
@@ -473,7 +473,7 @@ This program is built on five pillars that work synergistically:
 
 **🥗 Nutrition**
 - Raspberry leaf tea: 3 cups/day
-- **Dates: 6 daily (continue!)** [[36]]
+- **Dates: 6 daily (continue!)**
 - Evening primrose oil: continue
 - **Eat well-rested, nourishing meals** — you're fueling for an athletic event
 - **Stay hydrated**
@@ -714,11 +714,11 @@ IF CESAREAN BECOMES NECESSARY:
 
 1. **Always get clearance from OB/midwife** before starting any new exercise, supplement, or technique.
 2. **Stop any exercise** if you experience: bleeding, dizziness, chest pain, calf swelling, decreased fetal movement, or contractions before 37 weeks.
-3. **Perineal massage** should NOT be done if you have active vaginal infection, herpes outbreak, or placenta previa [[10]].
-4. **Red raspberry leaf tea** — some providers advise caution with history of preterm labor or very strong Braxton Hicks. Confirm with your provider [[31]].
+3. **Perineal massage** should NOT be done if you have active vaginal infection, herpes outbreak, or placenta previa .
+4. **Red raspberry leaf tea** — some providers advise caution with history of preterm labor or very strong Braxton Hicks. Confirm with your provider .
 5. **Evening primrose oil** — do NOT use if you have placenta previa or unexplained bleeding.
-6. **Dates** — if you have gestational diabetes, discuss with your provider before consuming 6 daily [[37]].
-7. **Forward-Leaning Inversion** — do NOT do if you have high blood pressure, heartburn, or if baby is in a frank breech position without provider guidance [[28]].
+6. **Dates** — if you have gestational diabetes, discuss with your provider before consuming 6 daily .
+7. **Forward-Leaning Inversion** — do NOT do if you have high blood pressure, heartburn, or if baby is in a frank breech position without provider guidance .
 8. This program is a **guide, not a prescription.** Listen to your body. Rest when needed. Modify as pregnancy progresses.
 
 ---
@@ -728,7 +728,7 @@ IF CESAREAN BECOMES NECESSARY:
 | Principle | Why It Works |
 |-----------|-------------|
 | **Stay upright & mobile in labor** | Gravity helps baby descend; pelvis opens up to 30% more than lying down |
-| **Keep jaw & throat relaxed** | Jaw tension = pelvic floor tension (the "sphincter law") [[50]] |
+| **Keep jaw & throat relaxed** | Jaw tension = pelvic floor tension (the "sphincter law")  |
 | **Breathe LOW and SLOW** | Activates parasympathetic system, reduces adrenaline, allows oxytocin to flow |
 | **Baby in optimal position (OA)** | Anterior position = smallest diameter through pelvis = faster labor |
 | **Fearlessness** | Fear → adrenaline → inhibits oxytocin → stalls labor. Calm = progress |
@@ -744,7 +744,7 @@ IF CESAREAN BECOMES NECESSARY:
 - **Apps:** *The Bloom Method* (prenatal fitness) | *Hypnobirthing App* | *Contraction Timer*
 - **YouTube:** *Spinning Babies* (techniques) | *Mama Natural* (birth prep) | *Birth Boot Camp*
 - **Podcasts:** *The Birth Hour* | *Free Birth Podcast* | *Down to Birth*
-- **Course:** HypnoBirthing International 5-session course [[45]] | Spinning Babies Certified Parent Educator [[27]]
+- **Course:** HypnoBirthing International 5-session course  | Spinning Babies Certified Parent Educator
 
 ---
 

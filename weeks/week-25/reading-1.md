@@ -674,7 +674,7 @@ But here's the key: **you don't need to solve the "what if" before labor.** You 
 
 ### What the fear whispers:
 
-*"What if the baby is缺氧 (oxygen-deprived)? What if I push too hard? What if I don't push hard enough? What if the baby comes out and isn't breathing? What if I drop the baby? What if I don't bond? What if I look at my baby and feel nothing? What if I'm not a good mother from the very first second?"*
+*"What if the baby is oxygen-deprived? What if I push too hard? What if I don't push hard enough? What if the baby comes out and isn't breathing? What if I drop the baby? What if I don't bond? What if I look at my baby and feel nothing? What if I'm not a good mother from the very first second?"*
 
 This fear is often the **most hidden** and the **most shameful**, because it feels like a betrayal of the baby. *"I should be excited. I should be joyful. Why am I terrified I'll hurt my own child?"*
 
