@@ -1,0 +1,66 @@
+# 🤰 Natural Birth Preparation Program
+
+**Weeks 25 → 40 | "Easy, Fast & Smooth" Framework**
+
+A week-by-week preparation program covering physical readiness, optimal fetal positioning, mental/emotional calm, tissue preparation, and partner support.
+
+---
+
+## 📂 Project Structure
+
+```
+README.md                        ← you are here (index)
+program/
+  PROGRAM.md                     ← The master program: all weeks, routines, checklists
+  STUDY.md                       ← AI study sessions replacing the "read this book" assignments
+weeks/
+  week-25/
+    reading-1.md                 ← Birth mindset (Ina May–style)
+    reading-2.md                 ← The Birth Partner's Field Guide
+    physical.md                  ← Prenatal yoga & exercise instructions
+  week-26/
+    reading.md                   ← Physiology of labor
+    physical.md                  ← Exercise & yoga guide
+  week-27/
+    reading.md                   ← Pain management toolkit
+    physical.md                  ← Exercise & yoga guide
+  week-28/
+    reading.md                   ← Interventions: when, why, how to navigate
+    physical.md                  ← Exercise & yoga guide
+```
+
+---
+
+## 🗺️ Where to Start
+
+| I want to… | Go here |
+|-----------|---------|
+| See the full program (weeks 25–40) | [`program/PROGRAM.md`](program/PROGRAM.md) |
+| Do this week's AI study session | [`program/STUDY.md`](program/STUDY.md) |
+| Start this week's physical routine | [Week 25](weeks/week-25/physical.md) → and so on for later weeks |
+| Do this week's reading | [Week 25](weeks/week-25/reading-1.md) → and so on for later weeks |
+
+---
+
+## 📅 Weekly Content Index
+
+### Week 25
+- 📖 [Reading 1 — The Birth Mindset](weeks/week-25/reading-1.md)
+- 📖 [Reading 2 — The Birth Partner's Field Guide](weeks/week-25/reading-2.md)
+- 🏋️ [Physical — Yoga & Exercise](weeks/week-25/physical.md)
+
+### Week 26
+- 📖 [Reading — The Physiology of Labor](weeks/week-26/reading.md)
+- 🏋️ [Physical — Exercise & Yoga](weeks/week-26/physical.md)
+
+### Week 27
+- 📖 [Reading — Pain Management Toolkit](weeks/week-27/reading.md)
+- 🏋️ [Physical — Exercise & Yoga](weeks/week-27/physical.md)
+
+### Week 28
+- 📖 [Reading — Interventions: When, Why & How to Navigate Them](weeks/week-28/reading.md)
+- 🏋️ [Physical — Exercise & Yoga](weeks/week-28/physical.md)
+
+---
+
+*This program is for educational and supportive purposes. Always follow the guidance of your qualified prenatal care provider.*
