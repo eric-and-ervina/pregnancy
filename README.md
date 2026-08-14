@@ -27,6 +27,9 @@ weeks/
   week-28/
     reading.md                   ← Interventions: when, why, how to navigate
     physical.md                  ← Exercise & yoga guide
+tracking/
+  calendar.md                    ← Week-by-week pregnancy calendar (LMP → EDD)
+  costs.md                       ← Week-by-week cost estimates (SGD)
 ```
 
 ---
@@ -39,6 +42,15 @@ weeks/
 | Do this week's AI study session | [`program/STUDY.md`](program/STUDY.md) |
 | Start this week's physical routine | [Week 25](weeks/week-25/physical.md) → and so on for later weeks |
 | Do this week's reading | [Week 25](weeks/week-25/reading-1.md) → and so on for later weeks |
+| Track dates, milestones & gestational age | [`tracking/calendar.md`](tracking/calendar.md) |
+| Plan costs & budget week-by-week | [`tracking/costs.md`](tracking/costs.md) |
+
+---
+
+## 📊 Tracking & Budget
+
+- 📆 [Pregnancy Calendar Tracker](tracking/calendar.md) — week-by-week calendar, milestones & check-in template (LMP 25 Jan 2026 → EDD 1 Nov 2026)
+- 💰 [Week-by-Week Cost Estimates](tracking/costs.md) — KKH public hospital (B2 ward) budget plan in SGD
 
 ---
 
