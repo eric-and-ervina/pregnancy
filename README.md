@@ -75,6 +75,10 @@ tracking/
 - 📖 [Reading — Interventions: When, Why & How to Navigate Them](weeks/week-28/reading.md)
 - 🏋️ [Physical — Exercise & Yoga](weeks/week-28/physical.md)
 
+### Week 29
+- 📖 [Reading — Optimal Fetal Positioning](weeks/week-29/reading.md)
+- 🏋️ [Physical — Exercise & Yoga](weeks/week-29/physical.md)
+
 ---
 
 *This program is for educational and supportive purposes. Always follow the guidance of your qualified prenatal care provider.*
