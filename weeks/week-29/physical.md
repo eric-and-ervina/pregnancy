@@ -138,7 +138,7 @@ Supported, heels down, 60–90 seconds total (can split into two holds). Breathe
 On all fours or standing holding a counter: sway the hips side to side, then trace slow figure-8s. Asymmetrical movement opens one side of the pelvis at a time.
 
 ### Step 5 — Pelvic Floor Release Breathing (3 min)
-Sit comfortably. Inhale — imagine the pelvic floor softening and widening. Exhale long and slow — let go completely. This is *release* work, not Kegel work.
+Sit comfortably. Inhale — imagine the pelvic floor softening and widening. Exhale long and slow — let go completely. This is *release* work, not Kegel work. Full step-by-step in Section 7 below.
 
 ---
 
@@ -154,9 +154,45 @@ Do this after the positioning routine, or in the evening before bed.
 
 **Why:** This balances the two sides of the pelvis, which helps a baby that favors one side (or sits slightly asynclitic) find a straighter, more centered path.
 
+**Solo alternative:** Lie on your side and place a small massage ball (or rolled-up towel) under the upper hip, letting your weight sink into it for 30–60 seconds per side. Move it slowly along the outer hip and thigh.
+
 ---
 
-# 🪜 6. Stair Climbing (2–3 flights, slow)
+# 👐 6. Abdominal Release (2–3 min per side)
+
+**What it does:** Gently releases tension in the tissue around your belly — the light-touch, fascia-release counterpart to the Side-Lying Release. It softens the "pull" that can twist the uterus or tip the baby off-center.
+
+**When to do it:** When your belly feels tight or lopsided, or daily before the positioning routine.
+
+**Partner-assisted:**
+1. Lie on your side (or sit comfortably propped up). Partner sits beside you, facing your belly.
+2. Partner places one flat hand on the fullest/tightest side of your belly — often where the baby's back or bottom presses. The other hand rests on top.
+3. Partner applies **light, steady pressure** — just the weight of the hands, like a warm towel. *Not* deep massage, *not* pressing into the baby.
+4. You breathe slowly into the belly. On each exhale, feel the tissue under their hands soften and widen.
+5. Hold **2–3 minutes** on the tight side, then 1 minute on the other side for balance.
+6. Partner lifts hands slowly; take a few normal breaths before moving.
+
+**Solo alternative:** Lie on your side with a small cushion or rolled-up towel tucked under the fullest side of the belly. Breathe into that spot for 2–3 minutes, letting the belly rest heavy on the support.
+
+**Stop and reposition (or skip the day) if:** you feel pressure on the baby, discomfort, or any contraction-like tightening.
+
+---
+
+# 🌬️ 7. Pelvic Floor Release Breathing (daily, 5 minutes)
+
+This is the *release* side of pelvic floor work — the partner to the "elevator squeeze" you practiced in earlier weeks. For birth, release matters more: a soft, long pelvic floor gives the head a sloped landing pad instead of a braced shelf.
+
+1. **Position:** Sit comfortably (cushion, chair edge, or birth ball) or lie on your side. Long spine, soft shoulders and jaw.
+2. **Inhale** slowly through the nose. Imagine the breath traveling down: lungs → belly → pelvic floor. As it arrives, picture the pelvic floor **softening, widening, bulging gently downward** — a hammock being loaded, not tensed.
+3. **Exhale** long and slow through the mouth (6–8 counts). Keep the pelvic floor soft and open — *no Kegel*. If you catch yourself squeezing, consciously let go.
+4. **Repeat 3–5 minutes.** With each exhale add more release: jaw drops, shoulders drop, sit bones widen.
+5. **Finish:** Normal breath, gentle hip wiggle. Notice how the pelvic floor feels heavier and more relaxed than when you started.
+
+**Release check:** One hand on your belly, one under your sit bones. On the inhale you should feel the belly rise and the pelvic floor soften against your hand. If you feel a lift/squeeze instead, exhale and drop it — "let it go like a heavy elevator to the ground floor."
+
+---
+
+# 🪜 8. Stair Climbing (2–3 flights, slow)
 
 - Use a sturdy railing. Step up slowly, one step at a time, breathing normally.
 - **2–3 flights total**, a few times a week (or on your walking route).
@@ -174,13 +210,15 @@ Do this after the positioning routine, or in the evening before bed.
 - [ ] Forward-Leaning Inversion: 30 sec × 3 (if not contraindicated)
 - [ ] Deep squat hold: 60–90 sec total
 - [ ] Side-to-side / figure-8 hip rocks: 2 min
-- [ ] Pelvic floor release breathing: 3–5 min
+- [ ] Pelvic floor release breathing: 3–5 min (Section 7)
+- [ ] Desk protocol if working: stand/rock every 30–45 min
 - [ ] HypnoBirthing practice: 20 min (mental pillar)
 
 **Weekly:**
 - [ ] Strength: 3 sessions (A / B / A)
 - [ ] Yoga: 2 sessions (Hip Opening + Lower Back)
 - [ ] Side-lying Release with partner: most evenings
+- [ ] Abdominal Release: when belly feels tight/lopsided (Section 5b)
 - [ ] Stair climbing or step-ups: 2–3 flights, 2–3×/week
 - [ ] Fear-release exercise: write it, read it aloud, tear/burn it
 - [ ] Watch one positive natural birth video or practice comfort measures with your partner

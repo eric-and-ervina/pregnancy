@@ -114,18 +114,87 @@ Sit on the edge of a chair, feet flat on the floor, and slide a folded towel und
 
 ---
 
-## 6. The "Fantastic Four" — Your Week 29 Daily Routine
+## 6. The "Fantastic Four" — Full Instructions
 
-These are the four techniques from your study session and physical guide. Full step-by-step form is in the physical guide; here's the "why" of each:
+These are the four techniques from your study session and physical guide. Here is the complete how-to for each; the physical guide folds them into your daily routine.
 
-| Technique | What it does | When |
-|---|---|---|
-| **1. Forward-Leaning Inversion** | Uses gravity to open the lower uterus, letting the baby's heaviest part (the back) fall forward and encouraging the chin to tuck | Once or twice daily, 30 sec × 3, on an empty-ish stomach |
-| **2. Side-lying Release** | Partner gently releases tension along your upper hip/IT band, balancing the two sides of the pelvis | Daily, a few minutes each side |
-| **3. Abdominal Release** | Gentle, hands-on release of the tissue around your belly — softening tension that can pull the uterus into a twist | When belly feels tight or lopsided |
-| **4. Pelvic Floor Release** | Diaphragmatic breathing *down* into the pelvic floor — the release (not the squeeze) makes room for the head to descend | Daily, 5 minutes |
+> **Contraindications for the Forward-Leaning Inversion:** high blood pressure, severe heartburn/reflux, recent heavy meal, dizziness, or provider advice to avoid it. When in doubt, skip it and do the gentler variations instead.
 
-**Contraindications for the Forward-Leaning Inversion:** high blood pressure, severe heartburn/reflux, recent heavy meal, dizziness, or provider advice to avoid it. When in doubt, skip it and do the gentler variations instead.
+---
+
+### Technique 1 — Forward-Leaning Inversion
+
+**What it does:** Uses gravity to open the lower uterus, letting the baby's heaviest part (the back) fall forward and encouraging the chin to tuck.
+
+**When to do it:** Once or twice daily, on an empty-ish stomach (not right after a meal).
+
+**Step by step:**
+1. **Setup:** Kneel on the edge of a couch, firm bed, or low table. Place your hands (or forearms) on the floor in front of you.
+2. **Lower:** Slowly walk your hands forward and lower your chest and head toward the floor. Let your belly hang heavy and relaxed — do not brace or suck in.
+3. **Hold:** Breathe deeply for **30 seconds**. Your head is lower than your hips, but your knees stay higher — this is not a full headstand.
+4. **Rest:** Walk your hands back up to kneeling. Rest 30–60 seconds. Repeat **3 times total**.
+
+**Gentler alternatives (if the full version isn't comfortable):**
+- **Standing forward-lean:** Stand facing a chair or counter, hinge forward from the hips, and rest your forearms on the surface so your torso is parallel to the floor.
+- **Open-knee chest-to-floor:** On all fours, lower your chest toward the floor without raising your hips — a mini version with less inversion.
+
+**Skip if:** high blood pressure, severe heartburn/reflux, recent heavy meal, dizziness, or provider says not to. Have your partner spot you the first few times.
+
+---
+
+### Technique 2 — Side-Lying Release
+
+**What it does:** Balances the two sides of the pelvis and releases tension in the upper hip/IT band, giving the baby a straighter, more centered path.
+
+**When to do it:** Daily, a few minutes per side — after the positioning routine or before bed.
+
+**Step by step (partner-assisted):**
+1. **You:** Lie on your side with your bottom leg straight, top knee bent, head on a pillow, and a pillow under your belly if that feels better.
+2. **Partner:** Sit behind you. Place one hand on your top hip (iliac crest) to anchor.
+3. **Partner:** With the other hand, use gentle but firm pressure to slowly "walk" down along the side of your upper hip and outer thigh — from the top of the pelvis toward the knee — releasing tension as they go.
+4. **You:** Breathe slowly and let the hip soften. The pressure should be *firm and slow*, never painful.
+5. **Switch sides** and repeat for the same length of time.
+
+**Solo alternative:** Lie on your side and place a small massage ball (or a rolled-up towel) under the upper hip, letting your body weight sink into it for 30–60 seconds per side. Move it slowly along the outer hip and thigh.
+
+---
+
+### Technique 3 — Abdominal Release
+
+**What it does:** Gently releases tension in the tissue around your belly, softening the "pull" that can twist the uterus or tip the baby off-center. It's a fascia-release technique — light touch, not deep pressure.
+
+**When to do it:** When your belly feels tight or lopsided, or as a daily 5-minute practice.
+
+**Step by step (partner-assisted):**
+1. **Setup:** You lie on your side (or sit comfortably propped up). Your partner sits beside you, facing your belly.
+2. **Find the release spot:** Your partner places one flat hand on the side of your belly where it feels fullest or tightest — often the side the baby's back or bottom is pressing against. The other hand rests gently on top of the first.
+3. **Lean in gently:** Your partner applies light, steady pressure — just enough to feel the weight of their hands, *not* enough to press into the baby. Think of the hands as a warm towel resting there.
+4. **Breathe into it:** You take slow, deep breaths into the belly. On each exhale, feel the tissue under your partner's hands soften and widen.
+5. **Hold 2–3 minutes** on the tight side, then 1 minute on the other side for balance.
+6. **Release:** Your partner lifts their hands slowly, and you take a few normal breaths before moving.
+
+**Solo alternative:** Lie on your side with a small cushion or rolled-up towel tucked under the fullest side of your belly. Breathe into that spot for 2–3 minutes, letting the belly rest heavy on the support.
+
+**Key rule:** The release is *light and slow*, never deep massage. If you feel pressure on the baby, discomfort, or any contraction-like tightening, stop and reposition — or skip it that day.
+
+---
+
+### Technique 4 — Pelvic Floor Release
+
+**What it does:** Uses diaphragmatic breathing to relax and *lengthen* the pelvic floor — the release (not the squeeze) is what makes room for the head to descend.
+
+**When to do it:** Daily, 5 minutes — as part of your positioning routine, at the end of yoga, or before bed.
+
+**Step by step:**
+1. **Position:** Sit comfortably (on a cushion, the edge of a chair, or a birth ball) or lie on your side. Keep your spine long and your shoulders and jaw soft.
+2. **Inhale:** Breathe in slowly through your nose. Imagine the breath traveling all the way down: lungs → belly → pelvic floor. As it arrives, picture the pelvic floor (the sling of muscles between your sit bones) **softening, widening, and bulging gently downward** — like a hammock being loaded, not tensed.
+3. **Exhale:** Breathe out long and slow through your mouth (6–8 counts). Let the pelvic floor stay soft and open — this is *not* the time for a Kegel. If you notice yourself squeezing, consciously let go.
+4. **Repeat:** Continue for 3–5 minutes. With each exhale, add a little more release: jaw drops, shoulders drop, sit bones widen.
+5. **Finish:** Take a normal breath, wiggle your hips gently, and notice how the pelvic floor feels heavier and more relaxed than when you started.
+
+**How to check you're releasing (not squeezing):** Place one hand on your belly and one under your sit bones. On the inhale, you should feel the belly rise and the pelvic floor soften against your hand. If you feel a lift/squeeze instead, exhale and consciously drop the tension — "let it go like a heavy elevator to the ground floor."
+
+**Why it matters for positioning:** A tight, braced pelvic floor creates a "shelf" that can tip the baby's head into an awkward angle. A released pelvic floor gives the head a soft, sloped landing pad to engage with — chin tucked, centered, ready to descend.
 
 ---
 
@@ -161,6 +230,68 @@ The evidence is honest: **no single technique guarantees a turn**, and your baby
 Your baby is not a passive passenger. Your baby is an active participant who *responds* to space, gravity, and your calm. Every time you tilt your pelvis forward, take a walk, or breathe your pelvic floor open, you are quietly telling your baby: *"There's room here. Take your time. I'm ready when you are."*
 
 Positioning work is not another thing to get right. It's permission to let your body and baby find their way — with you as the warm, spacious environment, not the project manager.
+
+---
+
+## 10. Follow-Up Q&A
+
+### "I sit at a desk 8 hours a day. Give me a specific desk protocol."
+
+**Your workstation setup:**
+- **Seat:** Sit on the edge of your chair with a folded cushion or towel under your sit bones so your **knees sit lower than your hips**. If your chair tilts, tip it slightly forward.
+- **Feet:** Flat on the floor, hip-width apart — not tucked under the chair, not on tiptoes.
+- **Screen:** At eye level so you don't slouch or crane your neck.
+- **If you have a birth ball:** Swap the chair for the ball for 10–15 minutes at a time (great for micro-movement). No ball? Do the pelvic rocks below in your chair.
+
+**Your hourly rhythm (set a timer for every 30–45 minutes):**
+1. **Stand up** — even 30 seconds breaks the "fixed pelvis" pattern.
+2. **Seated pelvic rocks:** Sit tall, feet flat. Rock your pelvis forward (chest lifts, lower back lengthens) and back (tailbone tucks) for 30 seconds. Then trace slow circles both directions.
+3. **Standing hip circles:** Stand at your desk, hands on hips (or on the desk), and circle your hips 1 minute each direction — your birth-ball substitute.
+4. **Walk to the water cooler / toilet / window:** 1–2 minutes of walking resets the pelvis better than any stretch.
+5. **Optional desk lunge:** Step one foot back into a gentle lunge against your desk, 20–30 seconds per side, to open the front of the hip.
+
+**Why this matters more than any single pose:** An 8-hour sit is not defeated by one heroic stretch — it's defeated by *frequency*. Every time you stand, rock, or walk, you give the baby a fresh set of space options.
+
+---
+
+### "My baby feels like it's on my right side. What does that mean? Should I do anything?"
+
+**What it usually means:** Babies often favor one side — the side your placenta is on, the side you sleep on, the side you lean toward at your desk. A baby "on the right" simply means its back (the heaviest part) is resting against your right side. In itself, this is normal and not a problem.
+
+**When it matters:** If the baby is *persistently* twisted or asynclitic, a one-sided resting habit can reinforce that. The goal isn't to "move the baby to the left" — it's to **balance the space on both sides** so the baby can straighten and center itself.
+
+**What to do:**
+- **Sleep/rest more on your left side** (or at least alternate) — this gently encourages the baby to roll toward your belly instead of staying parked on the right.
+- **Do the Side-lying Release** with extra attention to the *left* side (the side you're not favoring) to balance the pelvis.
+- **Abdominal Release** on the fullest/tightest side — usually where the back is pressing — 2–3 minutes.
+- **Walk and do asymmetrical movements** (lunges, figure-8s, curb walking) so the pelvis isn't stuck in one tilt.
+- **Don't obsess over it.** Favoring a side is a *tendency*, not a diagnosis. Most babies rotate freely in the final weeks. If your provider ever flags a concern (e.g., persistent transverse lie), they'll guide you — the daily routine is exactly the right preparation either way.
+
+---
+
+### "Explain the 'Three Balances' for labor."
+
+The **Three Balances** is the Spinning Babies framework for what the uterus and pelvis need to be in balance for an easier birth. They're phrased as questions to check during labor:
+
+**1. Balance of Ligaments (Uterine Tone)**
+*"Does the uterus have balanced tension on both sides?"*
+- The uterus hangs on two round ligaments. If one side is tighter (from habitual sitting, a twist, or one-sided sleeping), the uterus tips, and the baby has a tilted "floor" to work with.
+- **In labor:** When contractions feel one-sided or the belly looks lopsided, your doula/partner can use the **Side-lying Release** (to balance the hips) or the **Abdominal Release** (to soften the tight side).
+- **The labor cue:** *"Which side feels tight? Release that side first."*
+
+**2. Balance of Muscles (Muscular Release)**
+*"Are the muscles of the pelvis and pelvic floor releasing, not bracing?"*
+- The pelvic floor and hip muscles must *lengthen* for the head to descend. A braced pelvic floor is the "shelf" that tips the head into an awkward angle or stalls descent.
+- **In labor:** The **Pelvic Floor Release** breathing is the tool — long exhales, jaw dropped, sit bones widening, imagining the floor softening with every wave.
+- **The labor cue:** *"Breathe down. Let go. Open."*
+
+**3. Balance of Space (Fetal Position)**
+*"Is there room for the baby to rotate and descend?"*
+- The baby needs balanced space in the pelvis to tuck its chin, rotate from posterior to anterior, and move down the curve. Asymmetrical space (from a tight ligament or braced muscle) makes that turn harder.
+- **In labor:** **Position changes** — lunges, side-lying release, hands-and-knees, figure-8s, rebozo sifting if available — create space on one side at a time so the baby can navigate.
+- **The labor cue:** *"Change the angle. Open one side. Let the baby turn."*
+
+**The one-line summary your partner can remember at 3 a.m.:** *Balanced ligaments (release the tight side) → balanced muscles (release the pelvic floor) → balanced space (change position so baby can turn).* You've been practicing all three since Week 29 — labor is just the exam where the practice pays off.
 
 ---
 
