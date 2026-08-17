@@ -231,6 +231,8 @@ Your baby is not a passive passenger. Your baby is an active participant who *re
 
 Positioning work is not another thing to get right. It's permission to let your body and baby find their way — with you as the warm, spacious environment, not the project manager.
 
+**This week's visualization upgrade (from the program's mental pillar):** Spend a few minutes visualizing each stage of labor as a separate, winnable chapter — early labor calm and manageable, active labor powerful and productive, transition intense but brief, pushing triumphant. Picture your baby rotating to OA and descending with each wave. You're not rehearsing the whole birth at once; you're practicing the shift between stages, so no single phase feels like the whole story.
+
 ---
 
 ## 10. Follow-Up Q&A

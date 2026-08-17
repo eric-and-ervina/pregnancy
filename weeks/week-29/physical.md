@@ -158,6 +158,32 @@ Do this after the positioning routine, or in the evening before bed.
 
 ---
 
+# 👨 5b. Partner's Week 29 Practice: Hip Squeeze & Counter-Pressure
+
+These are the program's Week 29 partner skills — practice them now so they're automatic at 3 a.m. during labor. They work best as a *practice session*, not just a read: try each on a cushion or chair first, then on your partner.
+
+**Double hip squeeze (for back labor / transition):**
+1. Stand behind her (or beside her if she's on all fours/leaning forward).
+2. Place the heels of your hands on the bony points of her hips (the iliac crests).
+3. During a practice "surge," squeeze **inward and slightly upward** with steady, firm pressure.
+4. Ask: *"Harder?"* — the answer is almost always yes. You cannot squeeze too hard; use your body weight, not just your hands.
+5. Hold through the whole surge, then release slowly between surges.
+
+**Sacral counter-pressure (for deep lower-back pressure):**
+1. Find the flat triangular bone at the base of her spine (the sacrum).
+2. Press the **heel of your hand** (or a tennis ball) firmly into it during a practice surge.
+3. Lean your body weight in steadily — don't push with your thumb (you'll cramp).
+4. Release slowly between surges.
+
+**Practice drill (5–10 min, 2–3× this week):**
+- She sits or kneels leaning forward on a chair/birth ball. You do 3 practice "surges" (she says "start" / "stop") with the hip squeeze, then 3 with sacral pressure.
+- Switch: she tells you which pressure, where, and how hard feels right. Her feedback now is the instruction manual for labor day.
+- Shake out your hands between reps — counter-pressure cramps the hands; alternate hands or use a tennis ball.
+
+**Why it matters:** These are the same comfort measures listed in the Week 29 program (and taught in detail in the Week 27 reading). Practicing now means on birth day you're not learning — you're remembering.
+
+---
+
 # 👐 6. Abdominal Release (2–3 min per side)
 
 **What it does:** Gently releases tension in the tissue around your belly — the light-touch, fascia-release counterpart to the Side-Lying Release. It softens the "pull" that can twist the uterus or tip the baby off-center.
@@ -213,15 +239,17 @@ This is the *release* side of pelvic floor work — the partner to the "elevator
 - [ ] Pelvic floor release breathing: 3–5 min (Section 7)
 - [ ] Desk protocol if working: stand/rock every 30–45 min
 - [ ] HypnoBirthing practice: 20 min (mental pillar)
+- [ ] Visualization upgrade: walk through the 4 stages of labor (mental pillar)
 
 **Weekly:**
 - [ ] Strength: 3 sessions (A / B / A)
 - [ ] Yoga: 2 sessions (Hip Opening + Lower Back)
 - [ ] Side-lying Release with partner: most evenings
-- [ ] Abdominal Release: when belly feels tight/lopsided (Section 5b)
+- [ ] Abdominal Release: when belly feels tight/lopsided (Section 6)
+- [ ] Partner practice: hip squeeze + sacral counter-pressure (Section 5b)
 - [ ] Stair climbing or step-ups: 2–3 flights, 2–3×/week
 - [ ] Fear-release exercise: write it, read it aloud, tear/burn it
-- [ ] Watch one positive natural birth video or practice comfort measures with your partner
+- [ ] Watch one positive natural birth video (education pillar)
 
 ---
 

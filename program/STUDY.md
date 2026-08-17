@@ -132,6 +132,8 @@ Great instinct. Expecting a couple to devour *Ina May's Guide to Childbirth* (35
 
 ### Week 29 — Session 6: Optimal Fetal Positioning Deep Dive (replaces Spinning Babies study)
 
+> **Prep (5 min):** Read the [Week 29 positioning guide](../weeks/week-29/reading.md) and skim the [Week 29 physical routine](../weeks/week-29/physical.md) before the session. The prompt below covers the same ground; the session lets you go deeper and ask your own follow-ups.
+
 > **Prompt:**
 >
 > You are a Spinning Babies Certified Parent Educator and a pelvic floor physiotherapist. I'm 29 weeks pregnant. Teach me everything about optimal fetal positioning:
