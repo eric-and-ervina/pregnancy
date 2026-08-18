@@ -78,6 +78,7 @@ tracking/
 ### Week 29
 - 📖 [Reading — Optimal Fetal Positioning](weeks/week-29/reading.md)
 - 🏋️ [Physical — Exercise & Yoga](weeks/week-29/physical.md)
+- 🏋️ [Physical — Back-Pain-Safe Version](weeks/week-29/physical-back-pain.md) — gentle alternative for days when severe back pain makes the usual routine impossible
 - 💆 [Back Soreness Guide (for the partner)](weeks/week-29/back-soreness-guide.md) — no-skill massage, counter-pressure, daily routines & when to call
 
 ---
