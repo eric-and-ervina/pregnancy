@@ -5,7 +5,7 @@
 
 > **👶 Baby this week (per [`THIRD-TRIMESTER-GUIDE.md`](../../program/THIRD-TRIMESTER-GUIDE.md)):** ~3 lb / 1.4 kg (cabbage) · practicing breathing movements · hair growing · brain folds forming rapidly · strong, regular kick patterns.
 
-You have been breathing for five weeks. Four counts in, four held, six to eight out. That was the foundation. Week 30 is where that breathing becomes a **skill you can trust at 3 a.m. with contractions 3 minutes apart** — not because you memorized it, but because your nervous system has rehearsed it hundreds of times.
+You have been breathing for five weeks. Four counts in, four held, six to eight out — that was the foundation (Weeks 25–29). This week we refine it: Sleep Breathing drops the hold, Slow/Surge Breathing shortens it to a 2-count pause, and J-Breathing becomes a continuous open-glottis exhale. Week 30 is where that breathing becomes a **skill you can trust at 3 a.m. with contractions 3 minutes apart** — not because you memorized it, but because your nervous system has rehearsed it hundreds of times.
 
 This week is not about learning more. It's about going **deeper into less**: fewer techniques, practiced until they are automatic. The star of the show is surrender — the mental shift from *controlling* labor to *allowing* it.
 
@@ -29,7 +29,7 @@ HypnoBirthing interrupts that loop at the first link. Slow, rhythmic breathing a
 
 You are not unconscious. You are in a **focused, inward, highly suggestible state** — the same state you enter when you are absorbed in a film, or driving a familiar route and arriving without remembering the turns. In that state, your conscious mind (the worrier) quiets, and your subconscious (which already knows how to birth) takes the lead.
 
-The evidence: Randomized trials and Cochrane reviews find that hypnosis-based birth preparation is associated with **less self-reported pain, shorter labors, less need for augmentation, and higher satisfaction** — not because the contractions are different, but because your *relationship* to them is different. You are not fighting the wave; you are surfing it.
+The evidence: Some randomized trials suggest hypnosis-based birth preparation **may reduce use of pharmacological pain relief and improve satisfaction/coping** (low-certainty evidence per Cochrane reviews); evidence for shorter labours or less need for augmentation is mixed/low-certainty — not because the contractions are different, but because your *relationship* to them is different. You are not fighting the wave; you are surfing it.
 
 ### The linguistic reframe is not just semantics
 
@@ -70,7 +70,7 @@ You already know the 4-4-6/8 pattern. Here it is expanded into the full HypnoBir
 
 - As the surge starts, take a deep, grounding inhale (4 counts)
 - As you exhale (6–8 counts, "ahhhh"), **visualize the breath traveling down**: lungs → belly → pelvic floor → cervix opening
-- Keep your **jaw loose and mouth slightly open** — the sphincter law: a tight jaw = a tight pelvic floor. An open, soft mouth signals the pelvic floor to release
+- Keep your **jaw loose and mouth slightly open** — a helpful cue often called the "sphincter law": softening the jaw helps cue the pelvic floor to release. An open, soft mouth signals the pelvic floor to release
 - Eyes can stay closed or softly focused on one spot
 - End each surge with a big, audible release sigh and a conscious unclenching: jaw, shoulders, hands, pelvic floor — all soften at once
 
@@ -128,7 +128,7 @@ Practice the transition this week: do 2 minutes of Slow Breathing, then without 
 
 *Bring your breath down now to your pelvic floor ... that hammock of muscle between your sit bones ... on your next inhale, imagine the breath traveling all the way down ... lungs to belly to pelvic floor ... and as it arrives, picture the pelvic floor softening ... widening ... bulging gently downward like a hammock being given weight ... [pause] ...*
 
-*On the exhale, keep it soft ... no squeeze ... no lift ... just release ... jaw soft, pelvic floor soft ... they mirror each other ... [pause] ...*
+*On the exhale, keep it soft ... no squeeze ... no lift ... just release ... jaw soft, pelvic floor soft — think of them mirroring each other as a helpful cue ... [pause] ...*
 
 *Now picture your cervix ... a beautiful, closed flower ... safe and firm, holding your baby ... with each wave, the petals soften ... with each breath, they open a little more ... not forced ... not pulled ... simply releasing ... one layer at a time ... [pause] ...*
 

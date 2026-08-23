@@ -215,7 +215,7 @@ This is *release* work — the opposite of a Kegel. For birth, a soft, long pelv
 
 **Check:** One hand on belly, one under sit bones. On inhale, belly should rise and pelvic floor soften against the hand. If you feel a lift/squeeze, exhale and drop it.
 
-Pair this with the mental work in the reading: jaw soft = pelvic floor soft (the sphincter law). Practice keeping the mouth open and the sound low during the exhale.
+Pair this with the mental work in the reading: jaw soft helps cue pelvic floor soft — a helpful cue often called the "sphincter law." Practice keeping the mouth open and the sound low during the exhale.
 
 ---
 
