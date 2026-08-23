@@ -70,7 +70,7 @@ You already know the 4-4-6/8 pattern. Here it is expanded into the full HypnoBir
 
 - As the surge starts, take a deep, grounding inhale (4 counts)
 - As you exhale (6–8 counts, "ahhhh"), **visualize the breath traveling down**: lungs → belly → pelvic floor → cervix opening
-- Keep your **jaw loose and mouth slightly open** — a helpful cue often called the "sphincter law": softening the jaw helps cue the pelvic floor to release. An open, soft mouth signals the pelvic floor to release
+- Keep your **jaw loose and mouth slightly open** — a helpful cue often called the "sphincter law": softening the jaw signals the pelvic floor to release
 - Eyes can stay closed or softly focused on one spot
 - End each surge with a big, audible release sigh and a conscious unclenching: jaw, shoulders, hands, pelvic floor — all soften at once
 
