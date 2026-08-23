@@ -28,6 +28,12 @@ weeks/
   week-28/
     reading.md                   ← Interventions: when, why, how to navigate
     physical.md                  ← Exercise & yoga guide
+  week-29/
+    reading.md                   ← Optimal fetal positioning
+    physical.md                  ← Exercise & yoga guide
+  week-30/
+    reading.md                   ← HypnoBirthing deep practice
+    physical.md                  ← Exercise & yoga guide (intervals + rotation)
 tracking/
   calendar.md                    ← Week-by-week pregnancy calendar (LMP → EDD)
   costs.md                       ← Week-by-week cost estimates (SGD)
@@ -80,6 +86,10 @@ tracking/
 - 🏋️ [Physical — Exercise & Yoga](weeks/week-29/physical.md)
 - 🏋️ [Physical — Back-Pain-Safe Version](weeks/week-29/physical-back-pain.md) — gentle alternative for days when severe back pain makes the usual routine impossible
 - 💆 [Back Soreness Guide (for the partner)](weeks/week-29/back-soreness-guide.md) — no-skill massage, counter-pressure, daily routines & when to call
+
+### Week 30
+- 📖 [Reading — HypnoBirthing Deep Practice](weeks/week-30/reading.md)
+- 🏋️ [Physical — Exercise & Yoga](weeks/week-30/physical.md)
 
 ---
 
