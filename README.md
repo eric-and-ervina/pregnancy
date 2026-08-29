@@ -14,6 +14,7 @@ program/
   PROGRAM.md                     ← The master program: all weeks, routines, checklists
   STUDY.md                       ← AI study sessions replacing the "read this book" assignments
   THIRD-TRIMESTER-GUIDE.md       ← Complete 3rd-trimester guide: symptoms, appointments, prep
+  LABOUR-DAY-GUIDE.md            ← ⭐ Labour-day reference for the husband: case-by-case playbook for a natural birth at Thomson Medical
 weeks/
   week-25/
     reading-1.md                 ← Birth mindset (Ina May–style)
@@ -48,6 +49,7 @@ tracking/
 | See the full program (weeks 25–40) | [`program/PROGRAM.md`](program/PROGRAM.md) |
 | Do this week's AI study session | [`program/STUDY.md`](program/STUDY.md) |
 | Read the complete 3rd-trimester guide | [`program/THIRD-TRIMESTER-GUIDE.md`](program/THIRD-TRIMESTER-GUIDE.md) |
+| **Read the labour-day husband's playbook (Thomson Medical)** | [`program/LABOUR-DAY-GUIDE.md`](program/LABOUR-DAY-GUIDE.md) |
 | Start this week's physical routine | [Week 25](weeks/week-25/physical.md) → and so on for later weeks |
 | Do this week's reading | [Week 25](weeks/week-25/reading-1.md) → and so on for later weeks |
 | Track dates, milestones & gestational age | [`tracking/calendar.md`](tracking/calendar.md) |
