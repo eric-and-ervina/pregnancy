@@ -3,7 +3,7 @@
 > **Where you are:** Week 31 (30 Aug – 5 Sep 2026) · 31w 0d → 31w 6d (D217–223) · ~63 → 57 days to EDD (1 Nov)
 > **Program reference:** [`PROGRAM.md`](../../program/PROGRAM.md) Week 31 + [`THIRD-TRIMESTER-GUIDE.md`](../../program/THIRD-TRIMESTER-GUIDE.md)
 > **👶 Baby:** ~3.3 lb / 1.5 kg (coconut) — all five senses working, rapid weight gain begins; kick counts continue (know her normal pattern).
-> This guide adapts the Week 31 prescription for home use — no gym, no ball, no bands: body weight, a wall, a sturdy chair, and a couch. It doubles as the physical rehearsal for [`reading.md`](reading.md), this week's labor-positions study.
+> This guide adapts the Week 31 prescription for home use — no gym and no equipment required: body weight, a wall, a sturdy chair, and a couch. If you *do* have a birth ball, feel free to use it for the ball-based options noted below; the routine works fine without it. It doubles as the physical rehearsal for [`reading.md`](reading.md), this week's labor-positions study.
 
 **Safety first:** Clear this routine with your OB/midwife. Stop any movement and call your provider if you have bleeding, fluid leakage, regular contractions before 37 weeks, dizziness, chest pain, calf swelling (especially one-sided), decreased baby movement, or severe headache/visual changes. Never lie flat on your back for long periods. Breathe continuously — exhale on effort, never hold your breath. Squats are progressive: if 60 seconds is too much, hold 30 and build. If you have severe back pain on a given day, use the gentler version in [`week-29/physical-back-pain.md`](../week-29/physical-back-pain.md).
 
@@ -21,7 +21,7 @@
 | **Day 6** | Easy walk + Curb walking + Labor Dance + Daily Pelvic Routine | ~45 min |
 | **Day 7** | Rest / gentle stretching + breathing practice | 15–20 min |
 
-**Weekly totals to aim for:** Walking 40 min, 5–6× · Full-body circuits 3× · Yoga 2× · Daily Pelvic Routine 7× · Curb walking 10 min total · Labor dance with partner 1–2×.
+**Weekly totals to aim for:** Walking 40 min, 5–6× · Full-body circuits 3× · Yoga 2× · Daily Pelvic Routine 7× · Curb walking 10 min (in one walk) · Labor dance with partner 1–2× · Birth ball 15 min daily *if* you have one (optional).
 
 > **Honest note for Week 31:** This week is about **rehearsal, not gains**. You are at the point where the best exercise for labor is practicing the actual labor movements — squatting, lunging, kneeling, swaying, breathing in position. If a full strength circuit feels like too much on any given day, do the Daily Pelvic Routine + 20 minutes walking and call it a win. Consistency beats intensity; by the end of this week, every position on the labor menu (reading Section 3) should feel like something you've already done, because you have.
 
@@ -62,6 +62,8 @@ No gym, no bands: squat, hinge, push, pull, carry — the five movement pillars,
 ### Circuit C — Day 5 (Full-Body Finish)
 
 Repeat A1, B1, and A2 as a 3-exercise circuit, 2 rounds: 12 squats → 8 side lunges each side → 12 chair rows, minimal rest between, 60–90 sec rest between rounds. This is your "active labor" conditioning — work, brief recovery, work — which is exactly the surge/rest rhythm of labor.
+
+> **Birth-ball bonus (if you have one):** swap the daily 60-sec deep squat hold for 10–15 min of ball work — sitting, gentle bouncing, hip circles, figure-8s, leaning forward over the ball. This is the PROGRAM.md Week 31 birth-ball option and the closest home rehearsal for active-labor ball use. No ball? The squat + pelvic routine below covers the same joints.
 
 ---
 
@@ -122,10 +124,11 @@ That's it. This is the birth-day pain-management tool disguised as a slow dance,
 
 ## ✅ Week 31 Quick Checklist
 
-- [ ] 40-minute walks 5–6× (one with 10 min curb walking)
+- [ ] 40-minute walks 5–6× (one walk includes 10 min curb walking)
 - [ ] Full-body circuit 3× (A, B, C)
 - [ ] Yoga 2× (hip opening + length/release)
 - [ ] Daily Pelvic Routine 7× (cat-cow, squat 60 sec, FLI ×3, side-lying, pelvic-floor release)
+- [ ] Birth ball 15 min daily (if you have one — optional)
 - [ ] Labor dance with partner 1–2× with vocalization
 - [ ] 3 surge-length breaths in supported squat (pushing rehearsal)
 - [ ] Forward-Leaning Inversion daily (with spotter)

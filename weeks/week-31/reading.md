@@ -17,20 +17,20 @@ So read this once as education, then treat Sections 3–7 as a **menu you rehear
 
 The pelvis is not one solid bone — it is four bones (two ilia, sacrum, coccyx) joined by flexible ligaments, loosened further by relaxin. When you change position, the **diameters** of the pelvic inlet and outlet literally change:
 
-- **Squatting / kneeling forward** swings the ilia outward and flexes the sacrum back, **widening the outlet**. Classic radiographic work (Russell, 1969) measured roughly 1–1.5 cm more transverse diameter upright vs. supine — birth-education literature often quotes up to a ~28% larger outlet area in a deep squat. The exact number matters less than the mechanism: **your position can make the exit bigger.**
+- **Squatting / kneeling forward** swings the ilia outward and flexes the sacrum back, **widening the outlet**. Classic radiographic work (Russell, 1969, updated 1982) measured the squatting position increasing the outlet by ~1 cm in the transverse diameter and ~2 cm in the antero-posterior diameter — roughly a **28% larger outlet area** than supine. The exact number matters less than the mechanism: **your position can make the exit bigger.**
 - **Lying flat on your back** presses the sacral base into the bed and tilts the inlet so baby has to climb "uphill" against gravity while navigating the *narrowest* configuration of the ring.
 - **Lithotomy (back, legs in stirrups)** is the worst of it: the sacrum is pinned against the mattress (no posterior swing), gravity is subtracted entirely, the outlet is at its smallest, and the birth canal is forced into an upward curve. It survives in hospitals for provider convenience during assisted delivery — not because it helps you.
 
 ### What the evidence actually says
 
-The Cochrane review of maternal positions during second stage (Lawrence et al., updated 2017) found that upright positions (sitting, squatting, kneeling) versus lying down were associated with:
+The Cochrane review of maternal positions during second stage ([Gupta et al., 2017](https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD002006.pub4/full)) found that upright positions (sitting, squatting, kneeling) versus lying down were associated with:
 
-- a **somewhat shorter second stage** (roughly 10 minutes on average across studies),
-- **fewer instrumental (vacuum/forceps) deliveries**,
+- a **slightly shorter second stage** (~6 minutes on average — a small, low-certainty effect that disappears when higher-bias trials are excluded),
+- **fewer instrumental (vacuum/forceps) deliveries** (~25% relative reduction, moderate-certainty),
 - **fewer episiotomies**,
-- but slightly **more second-degree tears** and possibly more measured blood loss.
+- but more **blood loss >500 mL** and a possible increase in **second-degree tears** (both findings of low-to-moderate certainty, and upright does not raise the risk of third/fourth-degree tears).
 
-Read that honestly: upright is not magic and it is not free. It trades a bit of tearing risk for less intervention — and for a natural-birth plan, keeping the vacuum and forceps off the table is usually the trade you want. (Perineal massage from Week 34, in [`PROGRAM.md`](../../program/PROGRAM.md), is the planned answer to the tearing side of the ledger.)
+Read that honestly: upright is not magic and it is not free. It trades a bit of bleeding/tearing risk for less intervention — and for a natural-birth plan, keeping the vacuum and forceps off the table is usually the trade you want. (Perineal massage from Week 34, in [`PROGRAM.md`](../../program/PROGRAM.md), is the planned answer to the tearing side of the ledger.)
 
 ### Position is also pain management
 
@@ -100,7 +100,7 @@ The old image — flat on back, legs in stirrups, counting to ten, purple-faced 
 | **Upright squat** (supported, bar or partner) | Widest outlet + gravity + shortest pushes | Legs tire fast; use in bursts |
 | **Hands-and-knees** | Great for big babies / back labor; perineum relaxes; tears may be fewer | Midwife access for exams awkward (she will manage) |
 | **Side-lying** | Restful; slow controlled delivery of the head; gentle on the perineum | No gravity assist — fine, pushing is mostly uterus now |
-| **Semi-reclined** (head of bed up ~45°, " Supported throne") | Familiar, good for slow landings with the partner behind | Keep it *semi* — not flat |
+| **Semi-reclined** (head of bed up ~45°, "supported throne") | Familiar, good for slow landings with the partner behind | Keep it *semi* — not flat |
 
 Two rules beat any position choice: **push with the urge, not the count** (spontaneous pushing is gentler on the perineum and just as effective), and **change position if you stall** — a stall in pushing is often solved by a move, not by more force.
 
@@ -124,10 +124,10 @@ Confirm with the hospital what is actually available (put it on the birth-prefer
 
 | Tool | What it's for | How it's used |
 |------|---------------|---------------|
-| **Birth ball** | Sitting, circles, leaning | Inflate firm; feet wide; a burst ball, not a gym ball. Circles during active labor; lean-over during back labor |
+| **Birth ball** | Sitting, circles, leaning | Inflate firm; feet wide; a birthing ball, not a gym ball. Circles during active labor; lean-over during back labor |
 | **Peanut ball** | Resting with the pelvis open | Between knees/ankles in side-lying — the transition and epidural-companion MVP |
 | **Squat bar** | Supported pushing | Mounts on the bed; you pull into the squat, arms take the leg effort out |
-| **Rebozo** (long woven cloth) | Hip support & jiggle | Partner uses it to gently sifting/shake the hips (releases tension), or to support the belly in hands-and-knees. Ask a doula to demo — 3 techniques in 10 minutes |
+| **Rebozo** (long woven cloth) | Hip support & gentle shaking | Partner uses it to gently sift/shake the hips (releases tension), or to support the belly in hands-and-knees. Ask a doula to demo — 3 techniques in 10 minutes |
 | **Shower** | Warm water analgesia | Direct the stream at the sacrum (back labor) or belly; stay for several surges, partner manages towels |
 | **Tub** | Immersion comfort | Evidence suggests immersion in active labor reduces pain and epidural use. Get in when surges are well established (~5–6 cm is common guidance); get out if monitoring is needed, labor slows, or you feel faint |
 
@@ -185,7 +185,7 @@ Reading is not rehearsal. This week, fold positions into what you are already do
 
 1. **During deep-squat holds** — practice one surge's worth of slow breathing (Week 30 pattern C) *in* the squat. Squat + surge breath is your pushing rehearsal.
 2. **During hip circles / curb walking** — add the low "oooooh"/"aaaaah" vocalization. Jaw relaxed, sound low and open.
-3. **Hands-and-knees for 2 minutes daily** — during the cat-cow block, stay up and breathe through three "surge-length" minutes (60-second waves).
+3. **Hands-and-knees for 2 minutes daily** — during the cat-cow block, stay up and breathe through two "surge-length" minutes (60-second waves).
 4. **Side-lying with pillows between the knees** — once this week, lie there for 10 minutes doing Sleep Breathing. This is your transition position; make it familiar now.
 5. **The labor dance with your partner** — put on one slow song, sway, hip circles, figure-8s. Three minutes. It will feel silly. Do it anyway; the silliness is why you'll remember it.
 6. **Draft the flowchart card** (Section 7) — print it or copy it onto one page and put it in the hospital bag. Have your partner read it once aloud; that single read-through is most of his prep for positions.
@@ -198,7 +198,7 @@ Reading is not rehearsal. This week, fold positions into what you are already do
 
 - [ ] Can name the position that widens the outlet most (squat) and the one that narrows it (flat/lithotomy)
 - [ ] Practiced squat + surge-breathing at least 3×
-- [ ] Did hands-and-knees surge rehearsal (3 minutes) daily routine
+- [ ] Did hands-and-knees surge rehearsal (2 minutes) daily routine
 - [ ] One slow-song labor dance with partner (sway, circles, figure-8s)
 - [ ] Vocalization ("oooooh"/"aaaaah") tried during squats or curb walking
 - [ ] 10 minutes side-lying + pillows + Sleep Breathing (transition rehearsal)
