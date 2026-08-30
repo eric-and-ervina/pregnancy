@@ -93,6 +93,10 @@ tracking/
 - 📖 [Reading — HypnoBirthing Deep Practice](weeks/week-30/reading.md)
 - 🏋️ [Physical — Exercise & Yoga](weeks/week-30/physical.md)
 
+### Week 31
+- 📖 [Reading — Labor Positions & Movement](weeks/week-31/reading.md)
+- 🏋️ [Physical — Exercise & Yoga](weeks/week-31/physical.md)
+
 ---
 
 *This program is for educational and supportive purposes. Always follow the guidance of your qualified prenatal care provider.*
