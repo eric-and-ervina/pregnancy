@@ -97,6 +97,10 @@ tracking/
 - 📖 [Reading — Labor Positions & Movement](weeks/week-31/reading.md)
 - 🏋️ [Physical — Exercise & Yoga](weeks/week-31/physical.md)
 
+### Week 32
+- 📖 [Reading — The Golden Hour & The First Latch](weeks/week-32/reading.md)
+- 🏋️ [Physical — Exercise & Yoga](weeks/week-32/physical.md)
+
 ---
 
 *This program is for educational and supportive purposes. Always follow the guidance of your qualified prenatal care provider.*
