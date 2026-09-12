@@ -101,6 +101,10 @@ tracking/
 - 📖 [Reading — The Golden Hour & The First Latch](weeks/week-32/reading.md)
 - 🏋️ [Physical — Exercise & Yoga](weeks/week-32/physical.md)
 
+### Week 33
+- 📖 [Reading — The Complete Labor Timeline](weeks/week-33/reading.md)
+- 🏋️ [Physical — Exercise & Yoga (Birth Prep Circuit)](weeks/week-33/physical.md)
+
 ---
 
 *This program is for educational and supportive purposes. Always follow the guidance of your qualified prenatal care provider.*
