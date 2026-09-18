@@ -105,6 +105,10 @@ tracking/
 - 📖 [Reading — The Complete Labor Timeline](weeks/week-33/reading.md)
 - 🏋️ [Physical — Exercise & Yoga (Birth Prep Circuit)](weeks/week-33/physical.md)
 
+### Week 34
+- 📖 [Reading — Perineal Preparation & Tissue Health](weeks/week-34/reading.md)
+- 🏋️ [Physical — Exercise & Yoga (Tissue Block + Circuit Add-Ons)](weeks/week-34/physical.md)
+
 ---
 
 *This program is for educational and supportive purposes. Always follow the guidance of your qualified prenatal care provider.*
