@@ -12,7 +12,7 @@
 
 # ⏱️ PART 0 — FILL THIS IN THIS WEEK (15 minutes)
 
-PART 0 is the part that actually fails you at 3am if it's empty. Fill every blank, then print this document and keep the printout with the antenatal booklet.
+PART 0 is the part that actually fails you at 3am if it's empty. Fill every blank, then print **this filled table plus PART 11** and keep the printout with the antenatal booklet.
 
 | Item | Value |
 |---|---|
@@ -23,7 +23,7 @@ PART 0 is the part that actually fails you at 3am if it's empty. Fill every blan
 | **OBGYN clinic phone (office hours)** | _______________________ |
 | **OBGYN after-hours / delivery-on-call line** | _______________________ |
 | **Wife's EDD** | **1 Nov 2026** (full term 11 Oct 2026) |
-| **Gestation at booking / GBS status (positive or negative)** | _______________________ |
+| **GBS status** (from the week-35 swab — positive / negative) | _______________________ |
 | **Birth type booked** | Natural / vaginal, private, with epidural option |
 | **Room booked** | _______________________ (e.g. single room) |
 | **Pre-admitted with TMC?** | ☐ Yes ☐ No — **if No, do it now** (see §1.1) |
@@ -32,16 +32,19 @@ PART 0 is the part that actually fails you at 3am if it's empty. Fill every blan
 | **Your reporting person / boss (mobile)** | _______________________ |
 | **Wife's employer HR contact** | _______________________ |
 | **Backup support person (name + mobile)** | _______________________ |
+| **After discharge — TMC number for questions (maternity ward / paediatric)** | _______________________ (write the ward's number on your discharge summary) |
 | **Emergency ICE contact** | _______________________ |
 | **Taxi/Grab** | Grab app, home + "Thomson Medical Centre" saved. Ambulance: **995** |
 
 > 🛎️ **Do this one call:** ring **TMC Pre-admission / Maternity** this week and confirm (a) the exact 24-hour number to call when labour starts, (b) whether pre-admission can be completed electronically, (c) the deposit they'll expect from you as a foreign patient, and (d) how many support people are allowed in the labour room. Write the answers above.
+>
+> ℹ️ TMC's 24-hour line answers as "Labour Ward", "Delivery Suite" or "Maternity" depending on who picks up — **it's the same number.** That's the number you call when labour starts.
 
 ---
 
 # ✅ PART 1 — GET READY (from ~Week 34 to 36)
 
-Done properly, labour day becomes routine. Nothing here needs to be done twice.
+Do these before the day. Done properly, labour day becomes routine.
 
 ## 1.1 Pre-admission & paperwork
 - [ ] **Pre-admit with TMC** (finances + registration in advance) — TMC Pre-admission office. This is the single biggest time-saver on the night.
@@ -153,7 +156,7 @@ This phase can last **6–24 hours** — often, deliberately, at home. Don't bur
 6. She's in loose, comfortable clothes; nothing tight.
 
 ## 3.2 At TMC Admissions
-- Go to **TMC Admissions/Registration** (confirm floor at §1.1 call — usually the ground level below the lobby). Present:
+- Go to **TMC Admissions/Registration** (ask for the exact floor during your PART 0 call — usually the ground level below the lobby). Present:
   - Both **passports + passes + FIN numbers**
   - Her **antenatal booklet** and the **one-page birth plan**
   - Your **pre-admission confirmation** and payment method
@@ -252,8 +255,8 @@ This phase can last **6–24 hours** — often, deliberately, at home. Don't bur
 ## 8.2 Registering your baby (foreign parents — do this promptly)
 Your baby born in Singapore to two work-pass holders is **not a Singapore citizen.** The paperwork chain has a hard deadline, and it's not optional:
 
-1. **Birth registration** with **ICA** (via the hospital's free notification service if available) — Singapore requires births to be registered within **42 days**. You'll get the birth certificate.
-2. **Baby's passport from your home country's embassy/high commission** — per your cost plan, the **Indonesian embassy (KBRI)**. This needs the birth certificate and both parents' passports — start it early; bookings can take days.
+1. **Birth registration** with **ICA** — TMC notifies the birth, and you complete the registration (some hospitals offer a one-stop counter service; ask). Singapore requires births to be registered within **42 days**, whatever the parents' nationality. You'll get the birth certificate. ICA general line **6391 6100**, or **ica.gov.sg**.
+2. **Baby's passport from your home country's embassy/high commission** — your earlier prep folder names the **Indonesian embassy (KBRI)**. This needs the birth certificate and both parents' passports — start it early; appointment slots can be days out.
 3. **A pass for the baby to stay in Singapore** (Dependant's Pass / LTVP via **MOM**), applied for **within 42 days** of birth — the baby needs a valid passport to be granted it.
 4. Then, in the weeks after: baby's own insurance/visa-errands, and her 6-week postnatal check.
 
@@ -280,12 +283,13 @@ Your baby born in Singapore to two work-pass holders is **not a Singapore citize
 ## 9.1 Paying for a private delivery as a foreign patient
 - **MediSave is not available to you.** MediSave is a CPF account and applies to **Singapore Citizens and PRs** using their own account (or, in some cases, a CPF-member spouse's). As EP/S Pass holders with no CPF, plan on **no MediSave offset** — *unless* one of you is a PR/SC, in which case ask CPF/MOH directly.
 - **Therefore: cash/card it is.** Get the **estimated bill in writing** from TMC Pre-admission before the day, ask what **deposit** they require on admission, and confirm which payment methods they accept at 3am (card limits!).
-- A private natural delivery with a 2-day stay commonly lands in the **S$4,000–7,000+** range at TMC before complications; an epidural, a longer stay, induction drugs, or special-care nursery time each add cost. **Your existing cost plan (KKH public B2 estimates) does not apply — re-quote for TMC.**
+- A private natural delivery with a 2-day stay commonly lands in the **S$4,000–7,000+** range at TMC before complications; an epidural, a longer stay, induction drugs, or special-care nursery time each add cost. **Budget numbers for a public hospital do not apply here — get TMC's own written estimate.**
 - **Insurance:** check *before* the day whether any maternity/private-hospital rider is actually active, what it needs (pre-authorisation? a letter of guarantee? original receipts?) and who to call. Most Singapore insurers **will not cover a maternity event that began before the policy's waiting period** — assume "no" until proven otherwise, and be pleasantly surprised.
 - **Litmus test:** if the bill is higher than expected, ask Admissions for an **itemised bill** and the social worker/financial-counselling contact.
 
 ## 9.2 Leave — the part that has an unpleasant answer
 - **Government-Paid Paternity Leave (GPPL):** the current entitlement is **4 weeks** for eligible working fathers (mandatory for employers since 1 Apr 2025), capped at **$2,500/week** — and it **requires the child to be a Singapore Citizen**. A baby born here to two work-pass holders is not a citizen, so **you are most likely NOT eligible for GPPL**. Shared Parental Leave has the same citizenship requirement.
+- **Her leave is separate and better:** as an S Pass holder she is covered by the **Employment Act**, so with a non-citizen child she is entitled to **12 weeks of maternity leave**, with the **first 8 weeks paid by her employer** (if she has worked there at least 3 months before the birth) and the last 4 unpaid. The 16-week Government-Paid Maternity Leave does **not** apply to a non-citizen child. **Confirm with her HR**, and ask when she must give notice.
 - **What you probably do have:** whatever your **own employment contract / company policy** gives — paternity or compassionate leave. Some EP contracts include it, many don't. **Find your contract and read it this week.**
 - **Unpaid leave** is your realistic fallback for the first week or two. Ask HR now, in writing, what the options are — including whether you can take annual leave at short notice and whether you can work from home for the first fortnight.
 - **Verify, don't assume:** check **mom.gov.sg** and **your HR** — rules change, and eligibility depends on your contract and the child's citizenship. Write the confirmed answer into your notes, not into hope.
@@ -365,7 +369,7 @@ Likely around **41 weeks**, or earlier for low fluid, blood pressure, growth con
 
 ## CASE ⑫ — Instrumental delivery (vacuum or forceps)
 - Sometimes recommended when the pushing stage has gone on too long, she's exhausted, or the baby needs to come out quickly. It's done **in the delivery room**, with a paediatrician present.
-- **What to expect:** she'll be asked to push hard and simultaneously; an **episiotomy** (a deliberate cut) may be needed to make room; the baby may have a raised mark or bruising on the head/face that fades in days.
+- **What to expect:** she'll be asked to push hard, in step with the doctor's pull; an **episiotomy** (a deliberate cut) may be needed to make room; the baby may have a raised mark or bruising on the head/face that fades in days.
 - **Your job:** be her coach for the pushes (the midwife will call the timing), support her legs and back, and stay calm — this is the moment she most needs a confident voice.
 - **After:** she may have more stitches and more swelling than a straightforward birth. Expect her to need more help with sitting, walking and feeding for the first days. That's normal, not a setback.
 
@@ -393,7 +397,7 @@ Call TMC's 24-hour line (or **995** if severe) for any of these — you are her 
 - **Low mood that is deepening** rather than lifting — talk to the OBGYN or a GP; this is medical, not moral
 
 ## CASE ⑯ — First two weeks: newborn red flags (and the jaundice talk)
-**Call TMC's paediatric/24-hour line or go to a children's A&E (KKH Children's Emergency, 995 if severe) if the baby:**
+**Call the TMC paediatric/24-hour number from PART 0 — or go straight to a children's A&E (KKH Children's Emergency is the dedicated one) — if the baby:**
 - **Temperature ≥38°C or under 36°C**
 - **Isn't feeding** — too sleepy to wake for feeds, or refusing feeds
 - **Fewer wet nappies** — after day 5, under ~6 wet nappies in 24 hours
@@ -407,7 +411,7 @@ Call TMC's 24-hour line (or **995** if severe) for any of these — you are her 
 
 ---
 
-# 🧾 PART 11 — One-page quick reference (print this and nothing else)
+# 🧾 PART 11 — Quick reference (print this page, plus your filled PART 0 table)
 
 ## 🟢 GO NOW — no waiting
 - Contractions **5 min apart × 1 min long × 1 hour**
