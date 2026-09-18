@@ -1,310 +1,457 @@
-# 🚑 Labour Day Reference Guide — Thomson Medical Centre
+# 🚑 Labour Day Guide — Thomson Medical Centre
 
 ## The Husband's Case-by-Case Playbook (Natural Birth)
 
-> **Who this is for:** You (husband, Employment Pass) as the birth partner/coach for your wife (S Pass), planning a **natural (vaginal, unmedicated-as-possible) birth** at **Thomson Medical Centre (TMC)**, Singapore.
+> **Who this is for:** You (husband, Employment Pass) as the birth partner/coach for your wife (S Pass), planning a **natural (vaginal, unmedicated-as-possible) birth** at **Thomson Medical Centre (TMC)**, Singapore. **EDD: Sunday 1 November 2026. Full term: Sunday 11 October 2026.**
 >
-> **How to use:** Do the **GET READY (before the day)** section now, well ahead of the EDD. On the actual day, start at **"PHASE 1: Am I in real labour?"** and follow the case-by-case flow. The "CASE" sections are the decisions/scenarios you'll actually face — skim them now so they're familiar, then read the one that matches the situation in the moment.
+> **This is your only document.** It is deliberately self-contained — you do not need any other file on the night. Read **PART 0 and PART 1 now** (this week), skim the cases once so they feel familiar, then on the day start at **PART 2**.
 >
-> ⚠️ **Most important job: be calm, be the anchor.** The medical team (nurses, midwives, OBGYN) has done this thousands of times. Your job is logistics, comfort, advocacy, and paperwork — not medicine.
+> ⚠️ **Your most important job: be calm, be the anchor.** The team (nurses, midwives, OBGYN) has done this thousands of times. Your job is logistics, comfort, advocacy and paperwork — not medicine.
 
 ---
 
-## 🔑 At-a-Glance: Numbers You Must Know
+# ⏱️ PART 0 — FILL THIS IN THIS WEEK (15 minutes)
+
+PART 0 is the part that actually fails you at 3am if it's empty. Fill every blank, then print this document and keep the printout with the antenatal booklet.
 
 | Item | Value |
 |---|---|
 | **Hospital** | Thomson Medical Centre, 339 Thomson Rd, Singapore 307677 |
-| **Maternity admission / Labour Ward (24/7)** | Call first — see below |
-| **OBGYN's clinic** | _______________________ (write name) |
-| **OBGYN's clinic phone (day)** | _______________________ |
+| **TMC main switchboard** | +65 6250 1666 |
+| **TMC 24-hour Labour Ward / Maternity (call this when labour starts)** | _______________________ ← **confirm with TMC Pre-admission** |
+| **OBGYN's name** | _______________________ |
+| **OBGYN clinic phone (office hours)** | _______________________ |
 | **OBGYN after-hours / delivery-on-call line** | _______________________ |
-| **Wife's EDD** | _______________________ |
-| **Booking type** | Natural / vaginal birth, private, with epidural option (decide in advance) |
-| **Room type booked** | ______________________ (e.g. single room) |
-| **Pre-admission done?** | ☐ Yes / ☐ No |
-| **EP / S Pass ICA contact** | 6391 6100 (ICA general) |
-| **Employer HR contact** | _______________________ |
+| **Wife's EDD** | **1 Nov 2026** (full term 11 Oct 2026) |
+| **Gestation at booking / GBS status (positive or negative)** | _______________________ |
+| **Birth type booked** | Natural / vaginal, private, with epidural option |
+| **Room booked** | _______________________ (e.g. single room) |
+| **Pre-admitted with TMC?** | ☐ Yes ☐ No — **if No, do it now** (see §1.1) |
+| **Deposit / estimated bill quoted by TMC** | S$ _______ (ask Pre-admission — see PART 9) |
+| **Employer HR contact (yours)** | _______________________ |
+| **Your reporting person / boss (mobile)** | _______________________ |
+| **Wife's employer HR contact** | _______________________ |
+| **Backup support person (name + mobile)** | _______________________ |
+| **Emergency ICE contact** | _______________________ |
+| **Taxi/Grab** | Grab app, home + "Thomson Medical Centre" saved. Ambulance: **995** |
 
-**TMC main switchboard:** +65 6250 1666
-**TMC 24-hour Maternity (go-to ward) number:** confirm and write here → _____________________
-
-> 🛎️ **Verify with TMC:** Call TMC Maternity/Pre-admission the week before your EDD and confirm the exact 24-hour number to call when labour starts, and whether you can "pre-admit" electronically to speed up check-in on the night. Write the confirmed numbers above.
-
----
-
-# ✅ PHASE 0 — GET READY (Do this from ~Week 34 onward)
-
-Do these *before* the day. Done properly, labour day becomes routine.
-
-### 0.1 Pre-admission & paperwork
-- [ ] **Pre-admission** with TMC (finances + paperwork done in advance) — ask TMC Pre-admission office. This drastically shortens the night-of registration.
-- [ ] **ADMIT/Registration documents ready** (put in one folder):
-  - Wife's and your **passports** + **EP / S Pass cards**
-  - **NRIC/Fin number sheets** for both of you
-  - Wife's **Antenatal booklet / pregnancy records**
-  - **Marriage certificate** (for baby registration steps / verification if needed)
-  - **Employment letters / passes** (for HR + MOM-related leave later)
-  - If applicable: proof of **immigration status** for baby's birth registration timeline
-- [ ] **Contact list** written down (or in phone, printed backup): OBGYN clinic, OBGYN on-call, TMC maternity, taxi/grab, HR, ICE (in case of emergency) contact.
-- [ ] Confirm **who to call at HR** to report the birth and start leave.
-
-### 0.2 Hospital bag — packed and by the door from week 36
-- [ ] **Insurance cards / files** (see "💰 FINANCE & LEAVE" section)
-- [ ] Wife's toiletries, long phone charger, headphones, glasses, **comfortable going-home outfit**, nursing bra, maternity/nursing pads, extra underwear
-- [ ] **Delivery comforts:** lip balm, cooling towel, massage oil/lotion, hair ties, socks, birthing ball if allowed (check TMC), **music/playlist**, eye mask
-- [ ] **Snacks & electrolyte drinks** for her (once in labour sometimes limited — ask TMC policy), and snacks/water for YOU
-- [ ] **Baby's going-home outfit** (onesie, swaddle/muslin, mittens, socks) — carry this separately
-- [ ] Baby car seat **safely installed and standards-compliant** before the day
-- [ ] Phone chargers ×2, **power bank**, small cash, your own toothbrush
-- [ ] Documents folder from §0.1
-
-### 0.3 Logistics
-- [ ] **Know 2+ routes to TMC** including backup; test one drive
-- [ ] **Car fueled** / transport apps (Grab/Taxi) ready with saved home + TMC address
-- [ ] **Who watches you at the hospital** — TMC typically allows 1–2 support people; confirm visitor/support-person policy for the birth suite the week before
-- [ ] Backup support person ready in case you cannot be there (e.g. you get sick) — agree on her mother/friend
-- [ ] Phones fully charged each evening after week 36; power bank charged
-
-### 0.4 Birth plan (write on ONE page, keep with antenatal booklet)
-Write her choices and bring 2 copies:
-- [ ] Pain relief preference (natural/no epidural first, epidural okay later? — be flexible & decide triggers with her)
-- [ ] Partner at birth suite during delivery ☐ yes ☐ no
-- [ ] Who cuts the cord (if being offered) / delayed cord clamping preference
-- [ ] Skin-to-skin right after birth preference
-- [ ] Breastfeeding initiation preference
-- [ ] GBS (Group B Strep) status and IV-antibiotics plan if positive
-- [ ] Induction cutoff (e.g. at 41 weeks) — discussed with OBGYN
+> 🛎️ **Do this one call:** ring **TMC Pre-admission / Maternity** this week and confirm (a) the exact 24-hour number to call when labour starts, (b) whether pre-admission can be completed electronically, (c) the deposit they'll expect from you as a foreign patient, and (d) how many support people are allowed in the labour room. Write the answers above.
 
 ---
 
-# 📱 PHASE 1 — "I think labour is starting." Let's confirm.
+# ✅ PART 1 — GET READY (from ~Week 34 to 36)
 
-## 1.1 The three true labour signs (vs. false alarms)
+Done properly, labour day becomes routine. Nothing here needs to be done twice.
 
-Use this table to decide if this is real labour.
+## 1.1 Pre-admission & paperwork
+- [ ] **Pre-admit with TMC** (finances + registration in advance) — TMC Pre-admission office. This is the single biggest time-saver on the night.
+- [ ] **One document folder**, carried always:
+  - Both **passports** + **EP / S Pass cards**
+  - **FIN / NRIC number sheets** for both of you
+  - Her **antenatal booklet** (all pregnancy records)
+  - **Marriage certificate**
+  - **Employment letters / passes** (for HR + MOM matters later)
+  - Insurance policy + card (see PART 9)
+- [ ] **Contact list** written down *and* printed as backup (OBGYN clinic, OBGYN on-call, TMC maternity, backup support, HR, ICE).
+- [ ] Agree **who at HR** you call to report the birth and start leave.
 
-| Signal | Real Labour ("calculate, time it") | Braxton Hicks / false alarm | Who to call |
+## 1.2 Hospital bag — packed and by the door from week 36
+**For her**
+- [ ] Toiletries, glasses, hair ties, lip balm, face mist, eye mask
+- [ ] Long phone charger, headphones, bluetooth speaker + her relaxation playlist
+- [ ] Button-front nightgown/robe, nursing bra, maternity pads, extra underwear
+- [ ] Comfortable going-home outfit + socks + slippers
+- [ ] Delivery comforts: massage/lotion oil, cooling towel, warm pack, birth ball **if TMC allows (ask)**
+- [ ] Snacks + electrolyte drinks (honey sticks, dates, coconut water) — **ask TMC what's allowed in labour**
+- [ ] Her own water bottle with a straw
+
+**For you**
+- [ ] Change of clothes, toothbrush, deodorant, snacks + water, **power bank**, phone charger ×2, small cash, cards
+- [ ] Camera/phone cleared to make room for photos
+
+**For baby (separate small bag)**
+- [ ] Going-home outfit (onesie, mittens, socks, hat), swaddle/muslin, blanket, nappy for the ride
+- [ ] Car seat **installed and correctly fitted before the day** — no seat, no discharge
+
+**Documents:** the folder from §1.1, plus **2 printed copies** of the one-page birth plan (§1.4).
+
+## 1.3 Logistics
+- [ ] **Know 2+ routes to TMC**; drive one of them once
+- [ ] Car fuelled; Grab/taxi ready; know where TMC parking is and roughly what it costs for 2–3 days
+- [ ] Backup support person briefed and on standby (in your phone as **"Backup birth support"**)
+- [ ] Phones charged every evening after week 36; power bank charged
+- [ ] Freezer stocked with a few meals for the first week home
+
+## 1.4 Birth plan — ONE page, 2 copies, with the antenatal booklet
+Write her actual choices; keep it short enough that a busy midwife can read it in 20 seconds:
+- [ ] Pain relief: unmedicated first; **epidural available on request at any time** (agree the trigger together — see §5.4)
+- [ ] You present at the birth suite: ☐ yes
+- [ ] Mobile in labour, use of shower/tub if available (ask TMC), birth ball
+- [ ] Delayed cord clamping / who cuts the cord
+- [ ] **Skin-to-skin immediately**, minimum 1 hour undisturbed, baby stays with her (rooming-in)
+- [ ] First feed within the first hour; no formula unless medically indicated
+- [ ] **GBS status** and the IV-antibiotic plan if she's positive → if positive, you go in *earlier* once labour starts (antibiotics need ~4 hours before delivery to work)
+- [ ] Vitamin K / eye ointment timing
+- [ ] Induction discussion if she reaches 41 weeks
+- [ ] If a C-section becomes necessary: you stay with her, skin-to-skin in theatre if possible
+
+---
+
+# 📱 PART 2 — "I think labour is starting." Let's confirm.
+
+## 2.1 The true-labour signs vs. false alarms
+
+| Signal | Real labour (time it) | False alarm / Braxton Hicks | Who to call |
 |---|---|---|---|
-| **Contractions** | Regular, 5 min apart, 1 min long, ~1 hr, getting stronger & closer; not relieved by changing position/resting | Irregular, don't get closer, ease with walking/rest, focus on belly not lower back | OBGYN when 5-1-1 |
-| **Water breaks (membrane rupture)** | Gush OR continuous trickle of fluid (feels like unending leak, smells slightly sweet). **Go in regardless of contractions.** | Not applicable — see §1.3 | **TMC Maternity immediately** |
-| **Bloody show / mucus plug** | Pinkish/bloody mucus — normal as cervix opens. Watch, usually not immediate labour | Normal days/hours before | Inform at next check; go in only if heavy bleeding |
-| **Uncertain about anything?** | When in doubt, the safer choice is always to **call or go in** — a false alarm is the right call | | |
+| **Contractions** | Regular, ~5 min apart, ~1 min long, ~1 hour, getting stronger & closer; talking gets hard; not relieved by rest or changing position | Irregular, don't get closer, ease with walking/rest, felt in the belly rather than lower back | OBGYN when 5-1-1 |
+| **Water breaks** | Gush **or** continuous trickle — feels like an unending leak, slightly sweet smell. **Go in regardless of contractions** | — | **TMC Maternity immediately** |
+| **Bloody show / mucus plug** | Pinkish/bloody mucus, normal as the cervix opens; labour may still be hours or days away | Normal days before labour | Mention at the next check; go in only for heavy bleeding |
+| **Backache / period-type cramps** | Rhythmic, building with each wave | Constant, unrelated to a rhythm | OBGYN if it becomes regular |
+| **Not sure?** | **When in doubt, call.** A false alarm is always the right call | | |
 
-## 1.2 The rules of thumb on "when to go in"
+## 2.2 When to go in — the rules
+- **5-1-1:** contractions every **5 minutes**, each **~1 minute** long, for **1 hour** → go in.
+- **Go earlier (don't wait for 5-1-1) if:** she's **GBS positive**, her waters have broken, the contractions are already strong and close together, she's in a lot of pain early, or you live far from TMC (30+ min).
+- **<37 weeks = PRE-TERM:** any regular contractions before 37 weeks, **any** bleeding, **any** fluid leak, or reduced movement → **call and go in immediately.** Do not wait.
+- **Reduced fetal movement:** off her normal pattern, or she senses the baby is quiet → **call or go in.** Never ignore this, never wait for the next appointment.
+- **Trust your gut.** If something feels wrong, go in. You are allowed to be wrong.
 
-- **Contractions rule (5-1-1):** Contractions every **5 minutes**, each lasting **1 minute**, sustained for **1 hour** → **go in.** If she's already 37+ weeks and labour feels strong/fast, trust your gut — go in earlier.
-- **<37 weeks = PRE-TERM:** Any regular contractions before 37 weeks (4–6+/hour and building), any bleeding, any fluid leak → **call/go in immediately.** Do NOT wait.
-- **Water breaks:** Always go in, even with no contractions (risk of infection ~24h). Note the **time and colour** of the fluid (see §1.3).
-- **Reduced fetal movement:** Off her normal pattern, <10 kicks/movements in a couple hours, or she senses the baby is quiet → **call or go in.** Never ignore this. Do not wait.
+## 2.3 When her water breaks — your first 5 actions
+1. **Note the time** — write it down.
+2. **Check the colour:** clear or slightly pink trickle = normal → stay calm. **Green/brown** = possible meconium → tell TMC/OBGYN and come in. **Bright red bleeding** = emergency → **CASE ①**.
+3. **Gush or trickle?** Both count. Put on a pad, put nothing inside the vagina.
+4. **No bath, no sex, nothing inserted** once the waters are broken (infection risk). Showers are fine.
+5. **Call TMC Maternity / OBGYN on-call** even before contractions start, then get moving as PART 3 directs.
 
-## 1.3 When her water breaks — first 5 actions (YOUR checklist)
+> Water can break as a trickle that's easy to mistake for leaking urine. If you're unsure: put on a pad — if it keeps coming, it's fluid → go in.
 
-1. **Check & note the time** immediately (write it down).
-2. **Check the colour/quality:** Clear or slightly pink trickle = normal → proceed calmly. **Green/brown** fluid = baby may have passed meconium (poop) → tell TMC/OBGYN, follow their instruction to come in. **Bright red bleeding** = emergency → go straight to **PART B → CASE ①**.
-3. **Does it gush or trickle?** Both count; pad up, don't put anything in the vagina.
-4. **Don't have a bath/sex** once water has broken (infection risk).
-5. **Call TMC Maternity / OBGYN on-call** even before contractions — confirm go-in timing. Then get to the hospital as **Phase 2** directs.
+## 2.4 Early (latent) labour at home — your playbook for the long wait
 
-> Water can break with just a small trickle that's easy to confuse with leaking urine. If in doubt — put on a pad, if it keeps coming it's fluid → go in.
+This phase can last **6–24 hours** — often, deliberately, at home. Don't burn the day.
 
----
-
-# 🚗 PHASE 2 — Getting to the Hospital
-
-## Your pre-departure checklist (in order)
-1. **Grab the documents folder** (§0.1) — never leave it.
-2. **Grab the hospital bag(s)** (§0.2) including the baby going-home bag & car seat.
-3. **Wife: change into comfy clothes, no tight anything.**
-4. **Call TMC Maternity** to tell them you're coming (they'll prepare; gives the OBGYN's team a heads-up).
-5. **Call the OBGYN's on-call line** (if not already in touch) so they know her case is arriving.
-6. **Transport:** If contractions are strong, **don't self-drive** — take a Grab/taxi or ambulance. If you drive and she's labouring hard, you're the driver AND coach and it's unsafe. Ambulance (995) only for emergencies (PART B).
-7. **Phone your backup support person** to update.
-
-## At TMC Admissions (usually Ground/1st floor, below Lobby — confirm)
-- Check in at **TMC Admissions/Registration**; have Fin numbers + passport ready for both.
-- If you **pre-admitted**, it's fast. If not, staff will register you on the spot.
-- Present the **antenatal booklet** and your **one-page birth plan**.
-- They will direct you to the **Labour Ward / Delivery Suite** OR triage. Follow the nursing team — they're in charge here.
-
-> **Go directly to the labour ward if:** strong contractions, water broken, bleeding, or reduced movement. Admissions can often send you straight up; let the triage nurse take over.
+- **Do not rush to TMC.** Early arrival is how "we went in too soon" turns into hours of monitors, an exhausted wife, and a cascade of interventions. Unless a rule in §2.2 applies, **stay home** until 5-1-1.
+- **Her job: rest.** Sleep if she can. This is training for an endurance event, and the night ahead may be long. Dark room, eye mask, phone on silent.
+- **Eat and drink.** Light, easy food (toast, rice, fruit) and small sips of water/electrolyte. Vomiting in transition is harder on an empty tank.
+- **Warm shower or bath** — often the single best pain relief in early labour.
+- **Move gently:** walking, swaying, slow dancing, sitting/leaning on a birth ball, hands-and-knees if the back aches.
+- **You time contractions periodically** (every 20–30 min is enough early on) and write them down — see §5.3.
+- **Keep the room dim and quiet.** No guests, no "any news yet?" — you're the gatekeeper. Answer the phone, not her.
+- **Update the backup person** once so they're awake and ready.
+- **Have the bag and folder at the door** before you need them.
+- **Ask yourself every hour:** water broken? bleeding? reduced movement? contractions now 5-1-1? If any yes → go.
 
 ---
 
-# 🧭 PHASE 3 — ARRIVAL: Who does what at TMC
+# 🚗 PART 3 — Getting to TMC
 
-## What's about to happen (so you're not surprised)
-- **Triage:** A nurse/midwife checks her — contraction monitor (CTG), baby heartbeat, cervical dilation check, confirms true labour.
-- **Vaginal exam** = yes, this happens; it's routine, she stays comfortable.
-- If she's in **active labour**, she's admitted to the **delivery suite** — a private labour room.
-- You (the support person) are typically allowed with her during labour **and delivery.** Confirm the current TMC partner policy (usually 1–2 support people).
+## 3.1 Pre-departure checklist, in order
+1. **Documents folder** (§1.1) — never leave it. Phone, wallet, keys.
+2. **Bags** — hers, yours, **baby's**, car seat.
+3. **Call TMC Maternity** to say you're coming; **call the OBGYN's on-call line** so they know she's arriving.
+4. **Transport:** if contractions are strong, **do not self-drive** — Grab/taxi (or 995 in an emergency). You cannot be both driver and coach.
+5. **Call your boss** (2am is fine and expected — see §8.4), then the backup person.
+6. She's in loose, comfortable clothes; nothing tight.
 
-## YOUR checklist once admitted
-- [ ] Register; give documents
-- [ ] Put birth plan + antenatal booklet where the nurse can see
-- [ ] Ask: "When is the OBGYN coming / who is the attending on delivery?" so you set expectations
-- [ ] Set up her comforts: music, dim lights if allowed, oils, your coaching position
-- [ ] **Timing contractions** (see §4.3) — use a stopwatch or app
-- [ ] Update HR only once she's admitted & comfortable — not in the car.
+## 3.2 At TMC Admissions
+- Go to **TMC Admissions/Registration** (confirm floor at §1.1 call — usually the ground level below the lobby). Present:
+  - Both **passports + passes + FIN numbers**
+  - Her **antenatal booklet** and the **one-page birth plan**
+  - Your **pre-admission confirmation** and payment method
+- If you pre-admitted, this is quick. If not, they'll register on the spot.
+- **Go straight to the Labour Ward if:** water has broken, any bleeding, strong contractions, or reduced movement. Admissions will send you up; the nursing team takes over.
 
 ---
 
-# 🧘 PHASE 4 — Labour support (your full-time job)
+# 🧭 PART 4 — Arrival: what happens, and what you do
 
-## 4.1 Your mindset rules
-1. **Stay calm.** Your calm IS the drug. If you panic, she feels it.
-2. **Do what she asks, not what you think.** During a contraction = quiet & supportive. Between = offer options.
-3. **Never leave her alone for long.** If you must step out, tell the nurse first.
-4. **Trust the midwives.** They coach her through pushing. You support.
-5. **You are her voice:** if she can't talk, you ask the staff "is everything ok?" / "can she have x?" — nicely.
+## 4.1 What's about to happen (so nothing surprises you)
+- **Triage:** a midwife checks her — contraction monitor (CTG), baby's heartbeat, a **vaginal exam** to see how dilated she is, and whether it's true labour. The vaginal exam is routine; she stays as comfortable as possible.
+- If she's in **established labour**, she's admitted to the **delivery suite** — a private labour room.
+- You are normally allowed with her through labour **and** delivery. Confirm the current policy (how many support people) — this is one of your PART 0 calls.
 
-## 4.2 Comfort & coping techniques (you-do-these roles)
-| Need | You do |
+## 4.2 Your checklist once admitted
+- [ ] Register; hand over documents; ask where to keep the folder
+- [ ] Put the **birth plan + antenatal booklet where the nurse can see them**
+- [ ] Ask: **"Who is the OBGYN on call, and when will my wife's doctor arrive?"** — set the expectation early
+- [ ] Ask: **"Is there anything we should know about her GBS status / antibiotics?"** if she's positive
+- [ ] Set up her space: playlist, dim lights if allowed, oils, your position at her side
+- [ ] **Start timing contractions** (§5.3) and tell the midwife the pattern
+- [ ] Update HR **after** she's admitted and settled — never from the car
+
+> **If triage says "you're too early, go home"** — that's normal and not a rejection. See **CASE ⑨**.
+
+---
+
+# 🧘 PART 5 — Labour support (your full-time job)
+
+## 5.1 Mindset rules
+1. **Stay calm.** Your calm is the drug. If you panic, she feels it.
+2. **Do what she asks, not what you planned.** During a contraction: quiet, present, no talking unless she wants it. Between contractions: offer options.
+3. **Never leave her alone for long.** If you must step out, tell the nurse first and say how long.
+4. **Trust the midwives.** They coach the pushing. You support.
+5. **You are her voice.** If she can't speak, ask the staff — "Is everything okay?", "Can she have X?", "What are the options?" — politely and persistently.
+6. **Eat, drink, pee.** You're no use as an anchor running on empty. Snacks in your bag exist for a reason.
+
+## 5.2 Comfort & coping — what you actually do
+
+| Need | What you do |
 |---|---|
-| Breath | Match her slow in 4 / out 6 breathing; say "with me — in… out…" **before** each wave |
-| Movement | Help her change positions (walk, sway, hands-and-knees, standing lean on you) between contractions |
-| Counter-pressure | Firm palm / fist press on her **lower back** during back-ache contractions; try a warm pack if allowed |
-| Encouragement | Short, confident, non-fluffy lines: "You've got this," "One at a time," "We're halfway." |
-| Stillness | If she wants quiet — go silent. |
-| Fluids | Small sips of water / electrolyte between contractions; remind her to pee often |
+| **Breath** | Match her slow in-4 / out-6 breathing; say "with me — in… out…" **before** each wave starts |
+| **Movement** | Help her change position between contractions: walk, sway, lean on you, hands-and-knees, side-lying, birth ball |
+| **Counter-pressure** | Firm palm or fist on the **lower back/sacrum** during back-ache contractions; warm pack if allowed |
+| **Hip squeeze** | Press both hip bones firmly inward during a contraction (practised in weeks 27–29) |
+| **Encouragement** | Short, confident, unfluffy: "You've got this." "One at a time." "You're doing it." "We're closer." |
+| **Silence** | If she wants quiet — go silent. Being present is the job. |
+| **Fluids** | Small sips between contractions; remind her to **pee often** (full bladder slows labour) |
+| **Cold/warm** | Cool cloth on her forehead/neck; warm pack on the back or perineum later |
+| **Time** | Keep the room and the conversation small — no clocks, no logistics chatter in front of her |
 
-## 4.3 Timing contractions (your job)
-- Record **start of one → start of next** = the "interval." Real labour pattern = getting shorter intervals (5 min → 3 min → 2 min) and longer contractions.
-- Tell the nurse/midwife the pattern; they'll guide when it's time to push.
+## 5.3 Timing contractions (your one technical job)
+- Record **start of one contraction → start of the next** = the interval; and the **length** of each.
+- Real labour trend: intervals shorten (5 → 3 → 2 min) and contractions lengthen. Report the pattern to the midwife — she'll tell you when it's time to push.
+- A notes app, a timer, or a contraction-timer app is fine. Just keep it out of her face.
 
-## 4.4 Pain relief — know her options (natural birth = not "no options," it's "her choices")
-- **Non-drug:** breathing, movement, counter-pressure, water (birthing pool/ shower are often available at TMC — ask), TENS machine, hypnotic-style relaxation, massage, heat/cold.
-- **Gas & air (Entonox):** self-administered, she holds the mask — very compatible with "natural" birth, you just take over the mask between contractions.
-- **Epidural:** on request, any time. "Natural birth" goals do NOT forbid an epidural if she changes her mind — full stop, no judgment. Agree now: **it's her call at the moment, you support it.**
-
-> 🗣️ Talk about the epidural trigger point NOW (not in labour). Suggested framing: "We'll try unmedicated, but if you ask for the epidural even once, we get it — no guilt. Your choice is always valid."
-
----
-
-# ⚡ PHASE 5 — Active labour & delivery (brief, for awareness)
-
-- Active labour: contractions ~2–3 min apart, cervix dilating 6→10cm. Midwife coaches; the OBGYN is called for delivery near full dilation.
-- **Pushing:** She pushes with contractions following the midwife's cues. Don't rush her; support her legs and neck as directed.
-- **Delivery moments you might see:** crowning, "ring of fire," baby born, **cord clamping** (delayed if chosen), **skin-to-skin** placed on her chest immediately if stable, placenta delivery.
-- Your job here: **be a physical prop and cheerleader**, exactly as the midwife instructs. Keep your eyes where she needs you, not the gore.
+## 5.4 Pain relief — know her options
+- **Non-drug:** breathing, movement, water/shower, TENS, massage, counter-pressure, heat, position changes, vocalisation (low "oooh" sounds open the pelvic floor).
+- **Gas & air (Entonox):** self-administered by mask — she holds it; you just help her re-seat it between contractions. Very compatible with a "natural" birth.
+- **Epidural:** on request, at any time. **A natural-birth goal does not forbid an epidural** — if she changes her mind, that's her call, and there is no discussion to be had about it in the moment.
+- **Talk about the trigger now, not in labour.** Suggested framing: *"We'll try unmedicated, but if you ask for the epidural even once, we get it. No guilt, no debate."* Note for later: an epidural is often placed before a Pitocin drip if labour is being augmented (see **CASE ⑪**).
 
 ---
 
-# 👶 PHASE 6 — After birth (the golden hour)
+# ⚡ PART 6 — Delivery (brief, for awareness)
 
-- **Skin-to-skin:** help position baby on her chest, let them be, don't lift the baby away unless asked.
+- **Active labour:** contractions ~2–3 min apart, cervix opening 6→10 cm. The midwife coaches; the OBGYN is called for the delivery.
+- **Transition (8–10 cm):** the shortest, hardest part. "I can't do this" usually means she's nearly there. Say so, gently, over and over.
+- **Pushing:** she pushes with contractions following the midwife's cues. Don't rush her. Support her legs, neck and back exactly as directed; be her physical prop.
+- **Grimacing through the urge?** Encourage a low, open-mouthed push rather than a held breath with a clamped jaw.
+- **What you may see:** crowning, the "ring of fire", the head, the body, cord clamping (delayed if chosen), skin-to-skin on her chest if the baby is stable, then the placenta.
+- **Keep your eyes where she needs them** — on her face, not the gore. Hold the leg, hold the eye contact, keep breathing loudly enough for her to copy.
+
+---
+
+# 👶 PART 7 — After birth (the golden hour)
+
+- **Skin-to-skin:** help position the baby on her chest; then leave them alone. Don't move the baby unless asked.
 - **Cord:** delayed clamping if planned and safe.
-- **Breastfeeding:** ask the nurse/midwife to help with the **first latch** early — ask if you don't know how to help.
-- **Your emotional duty:** fiercely protected quiet time; hold your own phone, answer messages briefly, be the gatekeeper so she and baby aren't rushed.
-- **Baby checks:** routine newborn exam, hearing screen, etc. happen; you can stay near.
+- **First feed:** ask the midwife to help with the **first latch** early — say it out loud, because it's easy to forget.
+- **Your emotional duty:** protect the quiet. Hold your own phone, answer messages in one line, be the gatekeeper so she and the baby aren't rushed or intruded on.
+- **Newborn routine checks** (vitamin K, eye ointment, hearing screen, physical exam) happen — you can stay nearby; ask what each one is for as they do it.
+- **If you're asked to step out, ask when you can come back** — and use the time to text family, eat, and charge your phone.
 
 ---
 
-# 🏥 PHASE 7 — Ward stay & going home
+# 🏥 PART 8 — Ward stay, going home, and your own logistics
 
-- **Postnatal ward:** TMC single/shared rooms; package duration typically 2 days for natural (confirm with TMC package).
-- **Support her mobility** (she'll be tired; stitches if any; encourage short walks with nurse guidance).
-- **Baby registration timing (IMPORTANT — do THIS during/soon after stay):** Singapore births must be registered with ICA/Registrar of Births — TMC will guide you; ensure the marriage certificate is available, register within deadlines (your HR + ICA can confirm). Confirm requirements for **passport holders' babies**.
-- **Going home:** car seat correctly fitted; baby's paediatrician first checkup often done before discharge or within days — TMC will advise.
+## 8.1 The stay
+- Postnatal ward; package length is typically **~2 days for an uncomplicated natural birth** — confirm against your TMC package.
+- Support her mobility: she'll be tired, may have stitches, will feel shaky standing the first time. Take her arm, walk slowly, use the nurse's guidance.
+- **Rooming-in:** if the baby is with her, you two are the night shift. Learn to swaddle, hand the baby back, and take the baby for a walk of the ward when she needs 40 minutes of sleep.
+- **Jaundice is the usual reason discharge slips.** See **CASE ⑯**; expect a follow-up blood test within days of going home.
+
+## 8.2 Registering your baby (foreign parents — do this promptly)
+Your baby born in Singapore to two work-pass holders is **not a Singapore citizen.** The paperwork chain has a hard deadline, and it's not optional:
+
+1. **Birth registration** with **ICA** (via the hospital's free notification service if available) — Singapore requires births to be registered within **42 days**. You'll get the birth certificate.
+2. **Baby's passport from your home country's embassy/high commission** — per your cost plan, the **Indonesian embassy (KBRI)**. This needs the birth certificate and both parents' passports — start it early; bookings can take days.
+3. **A pass for the baby to stay in Singapore** (Dependant's Pass / LTVP via **MOM**), applied for **within 42 days** of birth — the baby needs a valid passport to be granted it.
+4. Then, in the weeks after: baby's own insurance/visa-errands, and her 6-week postnatal check.
+
+> ⚠️ **42 days is the number to remember.** If it slips, the baby technically has no lawful stay here. Confirm the exact steps, forms and current timelines with **ICA, MOM and your embassy** — and ask TMC's staff, who do this constantly for foreign patients.
+
+## 8.3 Going home
+- Car seat correctly fitted — check the harness straps and recline before you drive off.
+- Baby's first paediatrician check is usually done before discharge or within a few days; TMC will tell you where.
+- Take the discharge summary, medication list, and the ward's 24-hour number for questions after you leave.
+- First 48 hours at home: **you** do the heavy lifting. She should be lying down, feeding and sleeping, nothing else.
+
+## 8.4 Your own logistics (the bit nobody writes down)
+- **Tell your boss the same night** — one short message: "Wife is in labour, baby expected today, I'll confirm leave timing tomorrow." Don't negotiate a leave plan at 3am; just give notice. Formal HR notice comes within 1–2 working days (PART 9).
+- **Ward:** confirm whether **you can stay overnight** (usually a chair/sofa bed in a single room). If not, plan your hotel/ride home and don't pretend you'll sleep in a corridor.
+- **Food:** hospital cafeteria hours are limited — keep snacks and a refillable bottle in your bag; note where the nearest 24-hour food is.
+- **Parking:** multi-day TMC parking adds up; ask about a per-entry/multi-day option at the concierge, or plan to use Grab after admission.
+- **Charging:** power bank is the single most valuable thing in your bag. Your phone is the camera, the timer, the contact list and her music.
+- **Sleep in shifts.** The one who is awake handles the baby; the other sleeps properly. Tag-team, don't both stay awake.
 
 ---
 
-# 💰 FINANCE & LEAVE (context to be ready on the day)
+# 💰 PART 9 — Money & leave (get this right *before* the day)
 
-## Costs at Thomson Medical (private) — rough, confirm with TMC Pre-admission
-- **Natural/vaginal delivery package** (private room, 2-day stay, w/o complications) commonly in the **S$4,000–S$7,000+** range; **with epidural** add cost. These are **estimates** — get the actual quote sheet from Pre-admission.
-- **MediSave** can be used for delivery in private hospitals (capped per event). Everything above the MediSave claim is paid with **cash** — so budget for the full estimated cost in cash. Ask TMC Pre-admission for the MediSave limits for vaginal delivery.
-- **GST & consumables/itemised bills** may inflate the quoted package — ask Pre-admission to estimate the real-day total.
-- Confirm what your **insurance** covers (private hospital riders / maternity riders) BEFORE you need it.
+## 9.1 Paying for a private delivery as a foreign patient
+- **MediSave is not available to you.** MediSave is a CPF account and applies to **Singapore Citizens and PRs** using their own account (or, in some cases, a CPF-member spouse's). As EP/S Pass holders with no CPF, plan on **no MediSave offset** — *unless* one of you is a PR/SC, in which case ask CPF/MOH directly.
+- **Therefore: cash/card it is.** Get the **estimated bill in writing** from TMC Pre-admission before the day, ask what **deposit** they require on admission, and confirm which payment methods they accept at 3am (card limits!).
+- A private natural delivery with a 2-day stay commonly lands in the **S$4,000–7,000+** range at TMC before complications; an epidural, a longer stay, induction drugs, or special-care nursery time each add cost. **Your existing cost plan (KKH public B2 estimates) does not apply — re-quote for TMC.**
+- **Insurance:** check *before* the day whether any maternity/private-hospital rider is actually active, what it needs (pre-authorisation? a letter of guarantee? original receipts?) and who to call. Most Singapore insurers **will not cover a maternity event that began before the policy's waiting period** — assume "no" until proven otherwise, and be pleasantly surprised.
+- **Litmus test:** if the bill is higher than expected, ask Admissions for an **itemised bill** and the social worker/financial-counselling contact.
 
-## Your leave (Husband, Employment Pass) — critical to claim correctly
-- **Paternity Leave:** You're likely entitled to **2 paid weeks** of Government-Paid Paternity Leave (GPPL) + **Shared Parental Leave** provisions under the **2024 MOM enhancements (effective 1 Apr 2025 for shared parental leave)**. Verify the CURRENT rules with **MOM + your HR** — entitlements depend on your contract and the baby's citizenship/residency status.
-- **IMPORTANT:** Maternity/Paternity benefit eligibility can depend on the **child's citizenship status**. Confirm your baby's citizenship path (Singapore residence vs. citizenship) with HR/MOM — as EP/S Pass holders the child's status affects what leave benefits apply.
-- **Childcare Leave / unpaid options** — check HR separately; don't rely on this guide for exact figures.
-- **Action on the day:** call/email HR within 1–2 working days of birth with: baby's name, DOB, time of birth, registration details, and your leave-start date, to formally commence paternity leave. Keep copies.
-
-> ⚖️ The leave figures above change over time and depend on your contract & the baby's citizenship. **Verify current numbers with MOM (mom.gov.sg) and HR** during your final trimester — write the confirmed entitlements into the table at the top.
+## 9.2 Leave — the part that has an unpleasant answer
+- **Government-Paid Paternity Leave (GPPL):** the current entitlement is **4 weeks** for eligible working fathers (mandatory for employers since 1 Apr 2025), capped at **$2,500/week** — and it **requires the child to be a Singapore Citizen**. A baby born here to two work-pass holders is not a citizen, so **you are most likely NOT eligible for GPPL**. Shared Parental Leave has the same citizenship requirement.
+- **What you probably do have:** whatever your **own employment contract / company policy** gives — paternity or compassionate leave. Some EP contracts include it, many don't. **Find your contract and read it this week.**
+- **Unpaid leave** is your realistic fallback for the first week or two. Ask HR now, in writing, what the options are — including whether you can take annual leave at short notice and whether you can work from home for the first fortnight.
+- **Verify, don't assume:** check **mom.gov.sg** and **your HR** — rules change, and eligibility depends on your contract and the child's citizenship. Write the confirmed answer into your notes, not into hope.
+- **On the day:** notify HR within 1–2 working days with baby's name, DOB, time of birth, and your intended leave dates. Keep copies of everything.
 
 ---
 
-# 🚨 PART B — EMERGENCIES & SPECIAL CASES (go here immediately if the case matches)
+# 🚨 PART 10 — Cases (go straight to the one that matches)
 
-> Keep this PART bookmarked. On the day, go straight to the matching case.
+> **Emergency numbers again:** SCDF ambulance **995**. TMC switchboard **+65 6250 1666**. TMC Maternity 24-hr: your PART 0 number.
 
-## CASE ① — Heavy Bleeding (bright red, heavy, soaks pad)
-- **Action THIS SECOND:**
+## CASE ① — Heavy bleeding (bright red, heavy, soaking a pad)
+1. **Call 995 or TMC Maternity — whichever answers faster.** If she's home and bleeding heavily: **995.**
+2. **Do NOT wait for 5-1-1. Do NOT stop to pack.** Papers and phone in hand, leave.
+3. Lie her down, pad in place, keep her warm and calm; do not put anything inside the vagina.
+4. Tell the paramedics: her **EDD, gestation, and that she's booked under a TMC OBGYN** (name the doctor).
+5. Call the OBGYN's on-call line from the ambulance.
+6. Your job: ride with her, hold her hand, keep talking calmly, keep the documents together.
 
-	1. Call **995 (ambulance / SCDF)** or **TMC Maternity** — whichever is faster — if bleeding is heavy.
-	2. **Do NOT wait for 5-1-1,** do NOT delay to pack.
-	3. Lie her down, pad in place, keep her warm & calm.
-	4. Tell paramedics her **EDD, gestation, and that she's under a TMC OBGYN** (name them).
-	5. Call the OBGYN on-call from the ambulance.
-	6. **Your duties:** papers & bag already in your hands, ride with her, hold her hand, keep talking calm.
+## CASE ② — Reduced or stopped fetal movement
+- **Don't wait, don't "see how it goes".** Have her drink something cold and sweet, lie on her **left side**, and focus on movement for 1–2 hours.
+- Still reduced, or she's worried → **call the OBGYN or go straight to TMC Labour Ward/triage now.**
+- Reduced movement is the single most important "never ignore" sign — it can point to placental or cord problems. A CTG monitor settles it in 20 minutes. **A false alarm is the right call.**
 
-## CASE ② — Reduced / stopped fetal movement
-- **Action:** Don't wait. Drink something cold & sweet, lie on her left side, focus for 1–2 hours. If still reduced or she's worried → **call OBGYN or go to TMC L&D/triage NOW.** Reduced movement is the single most important "don't ignore" sign for placental/oxygen problems. Priority: get the baby checked (CTG monitor). Even a false alarm is the right decision.
+## CASE ③ — Pre-term labour (<37 weeks)
+- Regular contractions 4–6+/hour and building, **any** bleeding, **any** fluid leak, or reduced movement before 37 weeks.
+- **Action:** call the OBGYN **and** go to TMC Labour Ward/triage **immediately**. Do not "wait and see" — pre-term labour is managed differently, and even mild signs get checked.
+- Take the documents folder. Go.
 
-## CASE ③ — Pre-term labour signs (<37 weeks)
-- Regular contractions 4–6+/hr building, **any** bleeding, **any** fluid leak, or reduced movement before 37 weeks:
-	- **Action:** IMMEDIATELY call OBGYN + go to TMC L&D triage. Do not "wait and see." Pre-term is managed differently and even mild signs warrant checking.
-	- Bring papers. Go.
+## CASE ④ — Water may have broken and you're not sure
+- Wear a pad; if it keeps soaking, it's amniotic fluid → **go to TMC.**
+- **Green/brown or foul-smelling → say so explicitly at triage** (possible meconium/infection; it changes the urgency).
+- Before 37 weeks → **CASE ③** rules.
 
-## CASE ④ — Water breaks and you're NOT sure it's water
-- Wear a pad; if it keeps soaking = amniotic fluid (water) → **go to TMC.** If green/brown or unpleasant smell → **tell them explicitly** at triage. If <37 weeks → CASE ③ rules.
-
-## CASE ⑤ — She passes out / seizure / severe headache with vision changes / severe pain upper abdomen
-- Pre-eclampsia / eclampsia warning signs ARE emergencies.
-- **Action:** **Call 995 NOW.** Lie her on her **left side**, loosen clothes, call OBGYN, have documents ready. Do not drive.
+## CASE ⑤ — Fainting, seizure, severe headache with vision changes, or severe upper-abdominal pain
+- These are **pre-eclampsia / eclampsia warning signs and they are emergencies.**
+- **Action:** **call 995 now.** Lie her on her **left side**, loosen clothing, call the OBGYN, have the documents ready. **Do not drive her yourself.**
 
 ## CASE ⑥ — Baby is "overdue" (≥41 weeks)
-- Not an emergency, but plan: at/after **41 weeks** most OBGYNs discuss **induction** (cite the earlier guide's note that induction at 41w is evidence-supported). **Action:** at your week-40/41 checkup schedule the induction discussion; book it before 42 weeks. On the due-day, if contractions start, use PHASE 1 normally.
+- Not an emergency, but get ahead of it: **at the 40-week visit, ask for the induction plan and book the 41-week slot.** Don't discover the plan on the day you're 41+3.
+- If contractions start on their own before then — good — use PART 2 normally.
 
 ## CASE ⑦ — The doctor recommends a C-section
-- If during labour the OBGYN advises an emergency C-section (e.g., fetal distress, baby not descending, placenta issues):
-	- **Action:** This overrides a "natural birth" plan — it's a safety call, not a failure. Stay calm, give consent together, support her fully in surgery.
-	- Your job: stay with her, hold her hand, keep the baby's skin-to-skin/support plan in mind for recovery.
-	- Post-C-section: she needs more rest and careful, guided mobility — the birth-preparation skills help her heal too.
+- If the OBGYN advises an emergency C-section (fetal distress, baby not descending, cord or placenta problems):
+  - **The recommendation overrides the "natural birth" plan.** It's a safety call, not a failure and not a debate.
+  - Stay calm, ask the one question that matters ("Is this an emergency, or do we have ten minutes to talk?"), give consent together, and support her fully.
+  - Your job in theatre: stay with her, hold her hand, keep talking, and ask about **skin-to-skin in theatre** if the baby is stable.
+  - Afterwards she needs more rest and careful, guided mobility — your labour-support skills (positioning, breathing, patience) are exactly what recovery requires.
 
-## CASE ⑧ — You (the husband) can't be there
-- Pre-arranged **backup support person** steps in: give them the documents, the birth plan, this guide's condensed tips. Update them already in your phone contacts as "Backup birth support." If you're briefly away (washroom), just tell the nurse "I'm leaving for X min, please look after her."
+## CASE ⑧ — You can't be there (or you need to step out)
+- Pre-arranged **backup support person** steps in: they get the document folder, the birth plan, and the one-page quick reference (PART 11).
+- If you're only briefly away (toilet, food, parking): tell the nurse **"I'm leaving for X minutes, please stay with her."** Never just disappear.
+
+## CASE ⑨ — Triage says "you're too early — go home"
+This is common and it is **not** a rejection. Being sent home at 2–3 cm is often the best outcome — but it's a plan, not a shrug.
+- **Ask three questions before you leave:** *How dilated is she? When should we come back? What exactly should make us come back sooner?* Write the answers down.
+- **Go home and run the latent-labour playbook (§2.4):** sleep, eat, shower, walk, dim lights. Rest is the medicine.
+- **Come back immediately (don't wait) if:** waters break, any bleeding, reduced movement, contractions become strong/close, or she just feels something is wrong. You don't need permission.
+- **If she is in a lot of pain, or she feels unsafe, say so plainly** — "She's struggling, we'd rather be monitored here" is a legitimate request. Push once, politely and firmly.
+- **Stay close to TMC** if the drive is long: eat nearby, keep the bags in the car, keep phones charged.
+
+## CASE ⑩ — The OBGYN recommends induction
+Likely around **41 weeks**, or earlier for low fluid, blood pressure, growth concerns or GBS timing. It is a recommendation, not a decree.
+- **Ask these four questions:** *Why now? What's the urgency — days or hours? What are the alternatives to inducing (monitoring, a re-scan, waiting)? What happens if we wait 24–48 hours?* Write the answers down.
+- **What induction actually involves** (any combination, over **1–3 days**): prostaglandin gel/pessary or a balloon catheter to ripen the cervix → artificial rupture of the membranes → a Pitocin (oxytocin) drip to drive contractions.
+- **Warn her about the shape of it:** Pitocin contractions come faster and harder than spontaneous ones, and induction labours are usually longer to establish. **An epidural early is a reasonable, non-heroic choice here** — discuss it before the drip goes up, not after she's exhausted.
+- **Your role:** hydration, position changes, keeping her informed, and being the one who asks "where are we in the plan, and what's the next decision point?" Rest in shifts — this is the case where you'll be awake for 30+ hours if you don't.
+- Induction increases the chance of further interventions (including C-section). That's not a reason to refuse a medically needed induction — it's a reason to be rested and informed.
+
+## CASE ⑪ — Long, slow or stalled labour
+- **Definition:** progress in dilation has effectively stopped, or pushing isn't moving the baby, usually over a couple of hours.
+- **First, the cheap fixes** — before anything medical: change position (hands-and-knees, side-lying, upright squat, lunges), empty her bladder, drink, rest, dim the lights, quieten the room, reassure her. Adrenaline stalls labour; calm restarts it.
+- **What the team may suggest, in roughly this order:** artificial rupture of membranes → oxytocin (Pitocin) drip → epidural (for pain and to let her rest).
+- **Questions to ask each time:** *What are we trying to fix? How long will we give it before the next step? What's the alternative? Is the baby okay?*
+- **Your job through it:** she may feel like she "failed". Say the true thing — *the labour is doing what labours do; nothing about this is her fault* — and keep the room calm.
+- **For you:** eat, drink, sit down when you can. Hours of standing at her side is physical work. If it ends in a C-section, that's **CASE ⑦** and it is still a birth.
+
+## CASE ⑫ — Instrumental delivery (vacuum or forceps)
+- Sometimes recommended when the pushing stage has gone on too long, she's exhausted, or the baby needs to come out quickly. It's done **in the delivery room**, with a paediatrician present.
+- **What to expect:** she'll be asked to push hard and simultaneously; an **episiotomy** (a deliberate cut) may be needed to make room; the baby may have a raised mark or bruising on the head/face that fades in days.
+- **Your job:** be her coach for the pushes (the midwife will call the timing), support her legs and back, and stay calm — this is the moment she most needs a confident voice.
+- **After:** she may have more stitches and more swelling than a straightforward birth. Expect her to need more help with sitting, walking and feeding for the first days. That's normal, not a setback.
+
+## CASE ⑬ — The baby goes to special care / NICU
+- It may be sudden and silent, with several staff in the room. Ask: *"Where are they taking the baby, who's going with them, and when can my wife see them?"*
+- **You go with the baby** while she stays with the midwife — then come back to her with facts. She is lying there without her baby; nothing is harder for her than not knowing.
+- **Ask for:** a name, a phone number, the ward, and permission to visit/touch. Ask when the first skin-to-skin or hold can happen.
+- **Start the milk clock:** if the baby can't feed, ask the midwife about **expressing within the first few hours** — it protects her supply and is one concrete thing she can do.
+- **One messenger, one story:** decide that you are the one who tells family. Don't let her field "any news?" calls while the baby is in special care.
+
+## CASE ⑭ — She bleeds heavily or becomes unwell after delivery
+- **Signs:** saturating a pad in under an hour, passing clots bigger than a fist, feeling faint/dizzy, racing pulse, pale or clammy skin, confusion, worsening pain.
+- **Action:** **press the call bell and tell the nurse now — do not wait to see if it settles.** If you're at home and it's heavy: **995.**
+- You are the one who notices. Stay with her, keep her warm, note the time and how much she has soaked, and hand that information to the staff — it changes how fast they act.
+
+## CASE ⑮ — First two weeks at home: maternal red flags
+Call TMC's 24-hour line (or **995** if severe) for any of these — you are her eyes, because she may dismiss them:
+- **Heavy bleeding** that gets heavier instead of lighter, or sudden flooding with big clots
+- **Fever ≥38°C**, chills, or feeling flu-like
+- **Severe headache, visual changes, swelling** — **postnatal pre-eclampsia exists** and can appear *after* birth
+- **Chest pain, breathlessness, or fainting** → **995**
+- **One swollen, red, painful calf** — blood-clot risk is high after birth → same-day medical review
+- **Foul-smelling discharge**, worsening perineal/stitch pain, or a wound that opens or leaks
+- **Painful, red, hot breast with fever** — mastitis needs treatment, not courage
+- **Low mood that is deepening** rather than lifting — talk to the OBGYN or a GP; this is medical, not moral
+
+## CASE ⑯ — First two weeks: newborn red flags (and the jaundice talk)
+**Call TMC's paediatric/24-hour line or go to a children's A&E (KKH Children's Emergency, 995 if severe) if the baby:**
+- **Temperature ≥38°C or under 36°C**
+- **Isn't feeding** — too sleepy to wake for feeds, or refusing feeds
+- **Fewer wet nappies** — after day 5, under ~6 wet nappies in 24 hours
+- **Vomits green** or repeatedly after every feed
+- **Breathing fast, grunting, nostrils flaring, or lips looking blue**
+- **Jaundice** that is deepening, spreading past the chest to the abdomen/legs, appearing in the first 24 hours, lasting beyond ~2 weeks, or coming with drowsiness and poor feeding
+- **Pale, chalky stools** or dark urine
+- **Is unusually floppy or unusually irritable/high-pitched crying**
+
+**Jaundice is the common one.** Most Singapore newborns get some — it's why discharge sometimes slips a day and why a follow-up bilirubin test a few days after going home is routine. It's treatable (usually phototherapy), and it's not a reflection of anything you or she did. **Go for every follow-up test you're given** — a "mildly yellow, feeding fine" baby is exactly the one that gets missed.
 
 ---
 
-# 🧾 PART C — The One-Page "In the Heat of the Moment" Quick Reference
+# 🧾 PART 11 — One-page quick reference (print this and nothing else)
 
-> Print this single section and keep it with the antenatal booklet. This is all you need at a glance.
-
-## 🟢 GO TO TMC NOW (no waiting)
-- Regular contractions **5 min apart × 1 min long × ~1 hr**
-- **Water broke** (any gush/trickle)
-- **Heavy/bright-red bleeding**
+## 🟢 GO NOW — no waiting
+- Contractions **5 min apart × 1 min long × 1 hour**
+- **Waters broken** (any gush or trickle)
+- **Heavy / bright-red bleeding**
 - **Reduced fetal movement**
-- **Any sign <37 weeks** (bleeding, leak, regular contractions)
-- Severe headache + vision changes, severe upper-abdomen pain, passing out → **call 995**
+- **Anything before 37 weeks** (contractions, leak, bleeding)
+- Severe headache + vision changes, severe upper-abdominal pain, fainting → **995**
 
 ## 📞 CALL ON THE WAY
-- TMC Maternity _________________
-- OBGYN clinic _________________
-- OBGYN on-call _________________
-- Backup support _______________
-- Taxi/Grab / ambulance 995
+- TMC Maternity 24-hr _________________ • TMC +65 6250 1666
+- OBGYN clinic _________________ • OBGYN on-call _________________
+- Backup support _________________ • Taxi/Grab • Ambulance **995**
 
-## 🎒 FIRST GRAB
-1. Documents folder (passports, Fin, passes, antenatal, marriage cert, birth plan)
-2. Hospital bags (incl. baby's going-home + car seat)
+## 🎒 GRAB (in this order)
+1. **Documents folder** — passports, passes, FIN, antenatal booklet, marriage cert, birth plan, insurance
+2. **Bags** — hers, yours, baby's + **car seat**
+3. Phone + power bank
 
 ## 🧍 YOU = CALM + TIMER + COMFORT + VOICE
-- Time contractions ✓
-- Breathe with her ✓
-- Counter-pressure low back ✓
-- Remind her to pee & sip water ✓
-- Ask the staff when uncertain ✓
-- Never guilt about epidural ✓
+- Time contractions ✓ • breathe with her ✓ • counter-pressure low back ✓
+- Remind her to pee and sip water ✓ • ask the staff when unsure ✓
+- **No guilt about the epidural ✓** • eat and drink yourself ✓
 
-## 📝 TODAY'S ACTION LIST (fill on the day)
-- [ ] Time water broke: ______
-- [ ] Transport: ______
-- [ ] Admitted at: ______
+## 🔁 IF SENT HOME
+Rest, eat, shower, sleep, dim lights. Return immediately for waters, bleeding, reduced movement, or strong regular contractions.
+
+## 🍼 FIRST 2 WEEKS — DON'T DISMISS
+Her: heavy bleeding, fever, severe headache/vision, one swollen calf, mastitis → call.
+Baby: fever, not feeding, few wet nappies, deepening jaundice, grunting → call.
+
+## 📝 TODAY'S LOG (fill on the day)
+- [ ] Waters broke at: ______ • Colour: ______
+- [ ] Contractions started: ______
+- [ ] Transport: ______ • Arrived/Admitted: ______
+- [ ] Dilated at triage: ______
 - [ ] OBGYN attending: ______
-- [ ] Baby born: ______ (name ______)
+- [ ] Baby born: ______ (name ______), weight ______
+- [ ] First feed at: ______
 - [ ] HR informed on: ______
+- [ ] ICA birth registration done on: ______ (**42-day deadline**)
+
+---
+
+*This guide is for educational and supportive purposes. Follow the guidance of your qualified prenatal care provider — every pregnancy and birth is unique.*
+
+**You don't have to be a doctor. You have to be there, calm, and loud about what she needs. 🌸**

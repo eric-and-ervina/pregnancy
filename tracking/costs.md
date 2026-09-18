@@ -1,7 +1,9 @@
 # 💰 WEEK-BY-WEEK COST ESTIMATES
 
-> All figures in **SGD**. Assumes **public hospital (KKH), foreigner/unsubsidized rates, B2 ward**.
+> All figures in **SGD**.
 > 🟡 = Optional costs you can skip to save money
+>
+> ⚠️ **Hospital change:** the birth is planned at **Thomson Medical Centre (TMC) — private**, not KKH public (B2). The **1st–3rd trimester and post-delivery figures below (KKH public, foreigner/unsubsidised) are broadly transferable for planning**, but the **DELIVERY WEEK figures are NOT** — re-quote the delivery package, ward and deposit with **TMC Pre-admission**. See [`program/LABOUR-DAY-GUIDE.md`](../program/LABOUR-DAY-GUIDE.md) PART 9.
 
 ---
 
@@ -92,6 +94,8 @@
 ---
 
 ## 🏥 DELIVERY WEEK
+
+> ⚠️ **These are KKH public (B2) figures — they do NOT apply to TMC.** At a private hospital expect roughly **S$4,000–7,000+** for an uncomplicated natural delivery with a 2-day stay, plus epidural / longer-stay / special-care extras. **MediSave cannot be used** by EP/S Pass holders (no CPF). Get TMC's written estimate and required deposit before the day.
 
 | Item | Normal Vaginal (B2 Ward) | C-Section (B2 Ward) |
 |---|---|---|

@@ -60,7 +60,7 @@ tracking/
 ## 📊 Tracking & Budget
 
 - 📆 [Pregnancy Calendar Tracker](tracking/calendar.md) — week-by-week calendar, milestones & check-in template (LMP 25 Jan 2026 → EDD 1 Nov 2026)
-- 💰 [Week-by-Week Cost Estimates](tracking/costs.md) — KKH public hospital (B2 ward) budget plan in SGD
+- 💰 [Week-by-Week Cost Estimates](tracking/costs.md) — week-by-week budget in SGD. ⚠️ Pre-delivery figures are KKH public (B2); **the birth is at Thomson Medical Centre (private), so the delivery-week numbers need re-quoting** — see [LABOUR-DAY-GUIDE.md PART 9](program/LABOUR-DAY-GUIDE.md).
 
 ---
 

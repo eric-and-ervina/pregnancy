@@ -98,7 +98,7 @@ Pregnancy increases blood-clot (deep vein thrombosis, DVT) risk ~5×. **Call the
 | No skin changes | Redness, warmth, or a tight/shiny look on one leg |
 | No pain when walking normally | Pain when flexing the foot / walking (calf "muscle strain" feeling) |
 
-> If she has any of the right-column signs, this is a **same-day emergency** — call KKH 24-hr line or go to A&E. A simple ultrasound rules it out.
+> If she has any of the right-column signs, this is a **same-day emergency** — call the **TMC 24-hr Maternity line** or go to A&E. A simple ultrasound rules it out.
 
 ---
 
@@ -174,7 +174,9 @@ Continue the weekly physical routines from [`PROGRAM.md`](PROGRAM.md) — they'r
 
 ---
 
-## 🏥 Medical Appointments at KKH (from your cost plan)
+## 🏥 Medical Appointments (schedule from your cost plan)
+
+> ⚠️ **Hospital: the birth is planned at Thomson Medical Centre (TMC), not KKH.** The appointment *dates* below are still correct, but the **costs in [`costs.md`](../tracking/costs.md) are KKH public (B2) estimates and need re-quoting for TMC private** — see [`LABOUR-DAY-GUIDE.md`](LABOUR-DAY-GUIDE.md) PART 9.
 
 | Week | Dates | What Happens |
 |---|---|---|
@@ -199,7 +201,7 @@ Continue the weekly physical routines from [`PROGRAM.md`](PROGRAM.md) — they'r
 
 ## 🚨 Warning Signs: When to Call the Hospital IMMEDIATELY
 
-Print this. Keep it on the fridge. Call KKH's 24-hour line for any of these — **do not wait for an appointment:**
+Print this. Keep it on the fridge. Call **TMC's 24-hour Maternity line** for any of these — **do not wait for an appointment:**
 
 ### Pre-eclampsia signs (headache version — NOT heartburn)
 - **Severe, persistent headache** that doesn't go away with rest/paracetamol
@@ -262,7 +264,7 @@ Your job shifts from "preparing" to "supporting" as the weeks go on:
 
 - **Take over the mental load:** appointments, logistics, family updates, hospital registration paperwork — she shouldn't have to think about any of it
 - **Handle the symptom duty:** midnight leg-cramp massage (stretch → massage → warmth), heartburn snacks, water refills, pregnancy pillow fluffing
-- **Do the practical prep:** pack the bag, install the car seat, prep/freeze meals, confirm route to KKH, keep her phone charged
+- **Do the practical prep:** pack the bag, install the car seat, prep/freeze meals, confirm route to **TMC**, keep her phone charged
 - **Protect her peace:** shield her from "any news yet?" texts, stressful conversations, and pressure
 - **Keep practicing your labor skills:** counter-pressure, hip squeeze, relaxation scripts, reading her cues
 - **Be her advocate:** practice the phrases from the Week 28 reading — "I need 15 minutes to discuss this with my partner" is a legitimate sentence
