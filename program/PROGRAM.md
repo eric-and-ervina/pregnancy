@@ -423,6 +423,7 @@ This program is built on five pillars that work synergistically:
 - **Confirm birth plan** with OB/midwife — file in medical records
 - **Install car seat, wash baby clothes, set up feeding station**
 - **Understand signs of labor:** Mucus plug, bloody show, water breaking, contraction patterns
+- **Read [`DILATION-PLAYBOOK.md`](DILATION-PLAYBOOK.md):** how dilation actually works (dilation + effacement + station), what speeds it up (evidence-ranked), and the partner per-stage checklist
 
 **🥗 Nutrition**
 - Raspberry leaf tea: 3 cups/day
@@ -506,6 +507,7 @@ This program is built on five pillars that work synergistically:
   - **Transition (8–10 cm):** Shortest but most intense. "I can't do this" = you're almost there.
   - **Pushing (10 cm):** Follow the urge. Open-glottis. Upright positions.
   - **Delivery of placenta:** Gentle, often unnoticed.
+- **Skim [`DILATION-PLAYBOOK.md`](DILATION-PLAYBOOK.md) §5–6** — the per-stage partner checklist and the stall ladder
 - **Know your rights:** You can ask questions, request time, decline interventions (unless emergency)
 
 **🥗 Nutrition**

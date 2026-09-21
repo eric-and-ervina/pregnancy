@@ -209,6 +209,8 @@ This phase can last **6–24 hours** — often, deliberately, at home. Don't bur
 | **Cold/warm** | Cool cloth on her forehead/neck; warm pack on the back or perineum later |
 | **Time** | Keep the room and the conversation small — no clocks, no logistics chatter in front of her |
 
+> **Want the full picture of how dilation works and what actually speeds it up?** Everything above is the per-stage version; the complete physiology, the evidence-ranked levers, and the stall ladder live in [`DILATION-PLAYBOOK.md`](DILATION-PLAYBOOK.md) — worth one re-read at 37 weeks. Not required reading tonight.
+
 ## 5.3 Timing contractions (your one technical job)
 - Record **start of one contraction → start of the next** = the interval; and the **length** of each.
 - Real labour trend: intervals shorten (5 → 3 → 2 min) and contractions lengthen. Report the pattern to the midwife — she'll tell you when it's time to push.
@@ -361,7 +363,7 @@ Likely around **41 weeks**, or earlier for low fluid, blood pressure, growth con
 
 ## CASE ⑪ — Long, slow or stalled labour
 - **Definition:** progress in dilation has effectively stopped, or pushing isn't moving the baby, usually over a couple of hours.
-- **First, the cheap fixes** — before anything medical: change position (hands-and-knees, side-lying, upright squat, lunges), empty her bladder, drink, rest, dim the lights, quieten the room, reassure her. Adrenaline stalls labour; calm restarts it.
+- **First, the cheap fixes** — before anything medical: change position (hands-and-knees, side-lying, upright squat, lunges), empty her bladder, drink, rest, dim the lights, quieten the room, reassure her. Adrenaline stalls labour; calm restarts it. The full step-by-step ladder, with why each step works, is [`DILATION-PLAYBOOK.md`](DILATION-PLAYBOOK.md) §6. The full step-by-step ladder, with why each step works, is [`DILATION-PLAYBOOK.md`](DILATION-PLAYBOOK.md) §6.
 - **What the team may suggest, in roughly this order:** artificial rupture of membranes → oxytocin (Pitocin) drip → epidural (for pain and to let her rest).
 - **Questions to ask each time:** *What are we trying to fix? How long will we give it before the next step? What's the alternative? Is the baby okay?*
 - **Your job through it:** she may feel like she "failed". Say the true thing — *the labour is doing what labours do; nothing about this is her fault* — and keep the room calm.
