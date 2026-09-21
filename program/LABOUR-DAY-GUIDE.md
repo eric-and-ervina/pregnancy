@@ -64,7 +64,7 @@ Do these before the day. Done properly, labour day becomes routine.
 - [ ] Long phone charger, headphones, bluetooth speaker + her relaxation playlist
 - [ ] Button-front nightgown/robe, nursing bra, maternity pads, extra underwear
 - [ ] Comfortable going-home outfit + socks + slippers
-- [ ] Delivery comforts: massage/lotion oil, cooling towel, warm pack, birth ball **if TMC allows (ask)**
+- [ ] Delivery comforts: massage/lotion oil, cooling towel, warm pack, birth ball **(owned since week 34 — bring if TMC allows (ask); also ask whether the labour ward has its own)**
 - [ ] Snacks + electrolyte drinks (honey sticks, dates, coconut water) — **ask TMC what's allowed in labour**
 - [ ] Her own water bottle with a straw
 

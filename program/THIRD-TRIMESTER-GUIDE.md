@@ -165,7 +165,7 @@ Pregnancy increases blood-clot (deep vein thrombosis, DVT) risk ~5×. **Call the
 Continue the weekly physical routines from [`PROGRAM.md`](PROGRAM.md) — they're already adapted for this phase:
 
 - **Daily walking:** 30–40 min (scale back to 20–30 min after week 35)
-- **Birth ball / chair hip circles** (no ball needed — week-28 guide has the adapted version)
+- **Birth ball hip circles** (✅ a gym ball is in the house since week 34 — see the week-34 guide for the Daily Ball Block; the chair version from the week-28 guide remains the fallback for tired or queasy days)
 - **Deep squats, cat-cow, pelvic tilts, forward-leaning inversions** (skip inversions if she has heartburn, high BP, or provider says not to)
 - **Perineal massage:** start week 34–35 (3–5×/week, 5 min)
 - **Listen to the body:** by week 35+, rest matters more than reps. Fatigue, pelvic pressure, or pubic pain = modify or stop

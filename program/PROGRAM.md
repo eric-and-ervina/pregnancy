@@ -328,7 +328,8 @@ This program is built on five pillars that work synergistically:
 
 **🏋️ Physical**
 - Walking: 40 min daily
-- **Birth Prep Circuit daily** (same as Week 33)
+- **Birth Prep Circuit daily** (same as Week 33 — step 5 now on the real birth ball; chair version is the fallback for off days)
+- **🎉 Birth ball now available (acquired week 34):** add a **Daily Ball Block — 10 min**: seated hip circles (2 min each way), figure-8s (2 min), gentle bouncing (2 min), lean-over rest (2 min), pelvic floor release breathing on the ball (2 min). The Weeks 35–40 "Birth ball 15 min daily" prescription starts early, at 10 min. Ball firm, hips higher than knees, slow mount/dismount
 - **Add: Pelvic floor "quick flicks"** — rapid contract-release × 10 (builds awareness for pushing)
 - **Lunges with pelvic tilt:** 10 each side (opens pelvic inlet)
 - **Hands-and-knees rocking:** 2 min daily (encourages anterior position)
