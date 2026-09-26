@@ -2,9 +2,9 @@
 
 ## The Husband's Case-by-Case Playbook (Natural Birth)
 
-> **Who this is for:** You (husband, Employment Pass) as the birth partner/coach for your wife (S Pass), planning a **natural (vaginal, unmedicated-as-possible) birth** at **Thomson Medical Centre (TMC)**, Singapore. **EDD: Sunday 1 November 2026. Full term: Sunday 11 October 2026.**
+> **Who this is for:** You (husband, Employment Pass) as the birth partner/coach for your wife (S Pass), planning a **natural (vaginal, unmedicated-as-possible) birth** at **Thomson Medical Centre (TMC)**, Singapore. **EDD (Estimated Due Date): Sunday 1 November 2026. Full term: Sunday 11 October 2026.**
 >
-> **This is your only document.** It is deliberately self-contained — you do not need any other file on the night. Read **PART 0 and PART 1 now** (this week), skim the cases once so they feel familiar, then on the day start at **PART 2**.
+> **This is your only document on the night.** It is deliberately self-contained — you do not need any other file once labour starts. [`DILATION-PLAYBOOK.md`](DILATION-PLAYBOOK.md) is 37-week prep reading only, not night-of reading. Read **PART 0 and PART 1 now** (this week), skim the cases once so they feel familiar, then on the day start at **PART 2**.
 >
 > ⚠️ **Your most important job: be calm, be the anchor.** The team (nurses, midwives, OBGYN) has done this thousands of times. Your job is logistics, comfort, advocacy and paperwork — not medicine.
 
@@ -17,13 +17,16 @@ PART 0 is the part that actually fails you at 3am if it's empty. Fill every blan
 | Item | Value |
 |---|---|
 | **Hospital** | Thomson Medical Centre, 339 Thomson Rd, Singapore 307677 |
-| **TMC main switchboard** | +65 6250 1666 |
+| **TMC main switchboard (public 24/7 hotline)** | +65 6250 2222 — confirm on pre-admission call |
 | **TMC 24-hour Labour Ward / Maternity (call this when labour starts)** | _______________________ ← **confirm with TMC Pre-admission** |
 | **OBGYN's name** | _______________________ |
 | **OBGYN clinic phone (office hours)** | _______________________ |
 | **OBGYN after-hours / delivery-on-call line** | _______________________ |
 | **Wife's EDD** | **1 Nov 2026** (full term 11 Oct 2026) |
-| **GBS status** (from the week-35 swab — positive / negative) | _______________________ |
+| **GBS status** (Group B Strep, from the 35–37-week swab — your OBGYN tells you the exact week — positive / negative) | _______________________ |
+| **Blood group + allergies + anaesthesia / medical alerts** | _______________________ (e.g. A+, penicillin allergy, anaemia — ask OBGYN at next visit) |
+| **Baby's paediatrician (TMC asks for one at admission)** | _______________________ |
+| **Insurance pre-auth / helpline + policy no.** | _______________________ |
 | **Birth type booked** | Natural / vaginal, private, with epidural option |
 | **Room booked** | _______________________ (e.g. single room) |
 | **Pre-admitted with TMC?** | ☐ Yes ☐ No — **if No, do it now** (see §1.1) |
@@ -74,7 +77,7 @@ Do these before the day. Done properly, labour day becomes routine.
 
 **For baby (separate small bag)**
 - [ ] Going-home outfit (onesie, mittens, socks, hat), swaddle/muslin, blanket, nappy for the ride
-- [ ] Car seat **installed and correctly fitted before the day** — no seat, no discharge
+- [ ] Car seat **installed and correctly fitted before the day** — TMC will check you have safe transport home
 
 **Documents:** the folder from §1.1, plus **2 printed copies** of the one-page birth plan (§1.4).
 
@@ -91,9 +94,9 @@ Write her actual choices; keep it short enough that a busy midwife can read it i
 - [ ] You present at the birth suite: ☐ yes
 - [ ] Mobile in labour, use of shower/tub if available (ask TMC), birth ball
 - [ ] Delayed cord clamping / who cuts the cord
-- [ ] **Skin-to-skin immediately**, minimum 1 hour undisturbed, baby stays with her (rooming-in)
+- [ ] **Skin-to-skin immediately**, minimum 1 hour undisturbed, baby stays with her (rooming-in — baby stays in your room with you)
 - [ ] First feed within the first hour; no formula unless medically indicated
-- [ ] **GBS status** and the IV-antibiotic plan if she's positive → if positive, you go in *earlier* once labour starts (antibiotics need ~4 hours before delivery to work)
+- [ ] **GBS (Group B Strep) status** and the IV-antibiotic plan if she's positive → if positive, you go in *earlier* once labour starts (antibiotics need ~4 hours before delivery to work)
 - [ ] Vitamin K / eye ointment timing
 - [ ] Induction discussion if she reaches 41 weeks
 - [ ] If a C-section becomes necessary: you stay with her, skin-to-skin in theatre if possible
@@ -168,7 +171,7 @@ This phase can last **6–24 hours** — often, deliberately, at home. Don't bur
 # 🧭 PART 4 — Arrival: what happens, and what you do
 
 ## 4.1 What's about to happen (so nothing surprises you)
-- **Triage:** a midwife checks her — contraction monitor (CTG), baby's heartbeat, a **vaginal exam** to see how dilated she is, and whether it's true labour. The vaginal exam is routine; she stays as comfortable as possible.
+- **Triage (assessment check):** a midwife checks her — contraction + baby-heartbeat monitor (CTG — cardiotocography), baby's heartbeat, a **vaginal exam** to see how dilated she is, and whether it's true labour. The vaginal exam is routine; she stays as comfortable as possible.
 - If she's in **established labour**, she's admitted to the **delivery suite** — a private labour room.
 - You are normally allowed with her through labour **and** delivery. Confirm the current policy (how many support people) — this is one of your PART 0 calls.
 
@@ -239,7 +242,7 @@ This phase can last **6–24 hours** — often, deliberately, at home. Don't bur
 
 - **Skin-to-skin:** help position the baby on her chest; then leave them alone. Don't move the baby unless asked.
 - **Cord:** delayed clamping if planned and safe.
-- **First feed:** ask the midwife to help with the **first latch** early — say it out loud, because it's easy to forget.
+- **First feed:** ask the midwife to help with the **first latch (baby attaching to breast)** early — say it out loud, because it's easy to forget.
 - **Your emotional duty:** protect the quiet. Hold your own phone, answer messages in one line, be the gatekeeper so she and the baby aren't rushed or intruded on.
 - **Newborn routine checks** (vitamin K, eye ointment, hearing screen, physical exam) happen — you can stay nearby; ask what each one is for as they do it.
 - **If you're asked to step out, ask when you can come back** — and use the time to text family, eat, and charge your phone.
@@ -301,7 +304,7 @@ Your baby born in Singapore to two work-pass holders is **not a Singapore citize
 
 # 🚨 PART 10 — Cases (go straight to the one that matches)
 
-> **Emergency numbers again:** SCDF ambulance **995**. TMC switchboard **+65 6250 1666**. TMC Maternity 24-hr: your PART 0 number.
+> **Emergency numbers again:** SCDF ambulance **995**. TMC switchboard **+65 6250 2222**. TMC Maternity 24-hr: your PART 0 number.
 
 ## CASE ① — Heavy bleeding (bright red, heavy, soaking a pad)
 1. **Call 995 or TMC Maternity — whichever answers faster.** If she's home and bleeding heavily: **995.**
@@ -363,7 +366,7 @@ Likely around **41 weeks**, or earlier for low fluid, blood pressure, growth con
 
 ## CASE ⑪ — Long, slow or stalled labour
 - **Definition:** progress in dilation has effectively stopped, or pushing isn't moving the baby, usually over a couple of hours.
-- **First, the cheap fixes** — before anything medical: change position (hands-and-knees, side-lying, upright squat, lunges), empty her bladder, drink, rest, dim the lights, quieten the room, reassure her. Adrenaline stalls labour; calm restarts it. The full step-by-step ladder, with why each step works, is [`DILATION-PLAYBOOK.md`](DILATION-PLAYBOOK.md) §6. The full step-by-step ladder, with why each step works, is [`DILATION-PLAYBOOK.md`](DILATION-PLAYBOOK.md) §6.
+- **First, the cheap fixes** — before anything medical: change position (hands-and-knees, side-lying, upright squat, lunges), empty her bladder, drink, rest, dim the lights, quieten the room, reassure her. Adrenaline stalls labour; calm restarts it. The full step-by-step ladder, with why each step works, is [`DILATION-PLAYBOOK.md`](DILATION-PLAYBOOK.md) §6.
 - **What the team may suggest, in roughly this order:** artificial rupture of membranes → oxytocin (Pitocin) drip → epidural (for pain and to let her rest).
 - **Questions to ask each time:** *What are we trying to fix? How long will we give it before the next step? What's the alternative? Is the baby okay?*
 - **Your job through it:** she may feel like she "failed". Say the true thing — *the labour is doing what labours do; nothing about this is her fault* — and keep the room calm.
@@ -375,7 +378,7 @@ Likely around **41 weeks**, or earlier for low fluid, blood pressure, growth con
 - **Your job:** be her coach for the pushes (the midwife will call the timing), support her legs and back, and stay calm — this is the moment she most needs a confident voice.
 - **After:** she may have more stitches and more swelling than a straightforward birth. Expect her to need more help with sitting, walking and feeding for the first days. That's normal, not a setback.
 
-## CASE ⑬ — The baby goes to special care / NICU
+## CASE ⑬ — The baby goes to special care / NICU (Neonatal Intensive Care Unit)
 - It may be sudden and silent, with several staff in the room. Ask: *"Where are they taking the baby, who's going with them, and when can my wife see them?"*
 - **You go with the baby** while she stays with the midwife — then come back to her with facts. She is lying there without her baby; nothing is harder for her than not knowing.
 - **Ask for:** a name, a phone number, the ward, and permission to visit/touch. Ask when the first skin-to-skin or hold can happen.
@@ -399,7 +402,7 @@ Call TMC's 24-hour line (or **995** if severe) for any of these — you are her 
 - **Low mood that is deepening** rather than lifting — talk to the OBGYN or a GP; this is medical, not moral
 
 ## CASE ⑯ — First two weeks: newborn red flags (and the jaundice talk)
-**Call the TMC paediatric/24-hour number from PART 0 — or go straight to a children's A&E (KKH Children's Emergency is the dedicated one) — if the baby:**
+**Call the TMC paediatric/24-hour number from PART 0 first — or go straight to children's A&E if told to (KKH Children's Emergency is the dedicated public one) — if the baby:**
 - **Temperature ≥38°C or under 36°C**
 - **Isn't feeding** — too sleepy to wake for feeds, or refusing feeds
 - **Fewer wet nappies** — after day 5, under ~6 wet nappies in 24 hours
@@ -424,7 +427,7 @@ Call TMC's 24-hour line (or **995** if severe) for any of these — you are her 
 - Severe headache + vision changes, severe upper-abdominal pain, fainting → **995**
 
 ## 📞 CALL ON THE WAY
-- TMC Maternity 24-hr _________________ • TMC +65 6250 1666
+- TMC Maternity 24-hr _________________ • TMC +65 6250 2222
 - OBGYN clinic _________________ • OBGYN on-call _________________
 - Backup support _________________ • Taxi/Grab • Ambulance **995**
 
