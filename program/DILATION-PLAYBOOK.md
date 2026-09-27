@@ -96,7 +96,7 @@ Every lever here is already planted in the program's daily work. This table is t
 | **Membrane sweep** | Provider sweeps the membranes at a cervical check (~39–40 wks) — releases local prostaglandins; modest reduction in going post-term | Ask at the 39/40-week visits (Session 13 follow-up in [STUDY.md](STUDY.md)); mildly uncomfortable, brief |
 | **Sex (term)** | Prostaglandins in semen can soften the cervix | Already in [PROGRAM.md](PROGRAM.md) Week 40 overdue list — with provider approval |
 | **Walking / curb walking / stairs (term)** | Gravity + pelvic mobility; evidence for *starting* labour is weak, but it supports good positioning and doesn't harm | Program staple since Week 28 |
-| **Dates (6/day from 36 wks)** | Evidence targets better cervical *ripeness at admission*, shorter labour and less augmentation (Al-Kuran 2011, Kordi 2017) | The critical window is **now — weeks 36–40**; the honest breakdown is Session 13 |
+| **Dates (6/day or 70 g from week 34)** | Evidence targets better cervical *ripeness at admission*, shorter labour and less augmentation (Al-Kuran 2011, Kordi 2017) | The 6/day dose runs from **week 34**; the critical window is **weeks 36–40**; the honest breakdown is Session 13 |
 | **Raspberry leaf tea** | Mixed evidence; may modestly shorten labour by improving uterine tone | 3 cups/day, with the [safety caveats](PROGRAM.md) |
 | **Pitocin augmentation** | Synthetic oxytocin for a genuine stall — an *intervention*, not a failure | This is [CASE ⑪](LABOUR-DAY-GUIDE.md)'s ladder; an epidural before it is a reasonable plan, agreed in advance (§5.4) |
 
@@ -167,8 +167,8 @@ Castor oil (cramping/dehydration without shortening labour), spicy food, pineapp
 
 | Weeks | The dilation-relevant work |
 |---|---|
-| **34 (now)** | Perineal massage begins ([week-34 reading](../weeks/week-34/reading.md)) — trains release-under-stretch for the final centimetres. Date-habit building (4–6/day) |
-| **35–36** | **Dates to 6/day — the cervical-ripeness window starts.** Perineal massage daily. Session 13 evidence breakdown (dates, RRL, EPO, membrane sweep) |
+| **34 (now)** | Perineal massage begins ([week-34 reading](../weeks/week-34/reading.md)) — trains release-under-stretch for the final centimetres. Dates at 6/day from this week |
+| **35–36** | **Dates 6/day continue — the cervical-ripeness window.** Perineal massage 4–5×/week at 35, then daily from 36. Session 13 evidence breakdown (dates, RRL, EPO, membrane sweep) |
 | **36 visit** | Ask about **cervical checks**: whether they'll check at term, what a Bishop score is, and when a membrane sweep could be offered |
 | **37** | Rest becomes the priority (energy = contraction quality). Session 14 birth-day playbook |
 | **38–40** | Maintain: walking, ball, pelvic floor release, dates, sleep. If overdue: the Week 40 list in [PROGRAM.md](PROGRAM.md) (provider-approved options only) |
@@ -183,7 +183,7 @@ Castor oil (cramping/dehydration without shortening labour), spicy food, pineapp
 - [ ] The Tier-1 levers are already habits: support, movement, calm room, bladder, food, rest
 - [ ] Partner has read Section 5 and can run each stage's checklist from memory
 - [ ] The stall ladder (Section 6) is familiar; [CASE ⑪](LABOUR-DAY-GUIDE.md) questions are rehearsed
-- [ ] Dates 6/day from week 36; membrane sweep / Bishop score questions ready for the 36–40 week visits
+- [ ] Dates 6/day from week 34 (critical window weeks 36–40); membrane sweep / Bishop score questions ready for the 36–40 week visits
 - [ ] This page is on the phone (or printed) for the 37-week re-read
 
 ---

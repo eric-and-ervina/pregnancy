@@ -23,7 +23,7 @@ PART 0 is the part that actually fails you at 3am if it's empty. Fill every blan
 | **OBGYN clinic phone (office hours)** | _______________________ |
 | **OBGYN after-hours / delivery-on-call line** | _______________________ |
 | **Wife's EDD** | **1 Nov 2026** (full term 11 Oct 2026) |
-| **GBS status** (Group B Strep, from the 35–37-week swab — your OBGYN tells you the exact week — positive / negative) | _______________________ |
+| **GBS status** (Group B Strep, from the 36w 0d–37w 6d swab — your OBGYN tells you the exact week — positive / negative) | _______________________ |
 | **Blood group + allergies + anaesthesia / medical alerts** | _______________________ (e.g. A+, penicillin allergy, anaemia — ask OBGYN at next visit) |
 | **Baby's paediatrician (TMC asks for one at admission)** | _______________________ |
 | **Insurance pre-auth / helpline + policy no.** | _______________________ |

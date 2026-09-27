@@ -87,6 +87,8 @@ The one framing sentence that matters: **his job is not to fix, manage, or inter
 
 **The decision discipline he needs to internalise:** when a nurse or doctor offers something (Pitocin, breaking waters, an exam), his default is not "yes" or "no" — it's *"let me check with her,"* and hers is *"I need ten minutes to discuss it."* That single habit is the whole of advocacy, and Section 8 gives the exact wording.
 
+**The [`PROGRAM.md`](../../program/PROGRAM.md) Week 35 "learn about" catch-up (5 min, no new reading):** Week 35 asks you to review delayed cord clamping, immediate skin-to-skin, the golden hour, and the first feed. You already covered all four in [Week 32](../week-32/reading.md) (golden hour + first latch) and Session 9 — so this week is review, not study. Confirm the four lines are in the one-page birth plan (delayed clamping / skin-to-skin 1 hour undisturbed / first feed within the hour / no formula unless medically indicated — see [`LABOUR-DAY-GUIDE.md`](../../program/LABOUR-DAY-GUIDE.md) §1.4 and PART 7), and ask him to read PART 7 once. Done.
+
 ---
 
 ## 5. Part 2: The Toolkit, Technique by Technique
@@ -185,13 +187,13 @@ From this week the schedule compresses to **every week** — the home stretch of
 **What to bring and ask (write the answers into the antenatal booklet):**
 
 - **The head-down follow-up:** *"Is she well engaged, and is she OA or posterior?"* (Section 2–3.)
-- **The GBS timing question**, if not already resolved in Week 34: *"When is the swab, and will the result still be valid at delivery?"*
+- **The GBS confirmation:** swab is booked for the week 36 visit (36w 0d–37w 6d window) — confirm the date, and that the result will be filed plus the birth-plan GBS line added once it's back.
 - **The 24-hour number and room policy:** confirm the maternity line and how many support people are allowed.
 - **The birth plan:** hand over the one-page version and ask them to file it. Confirm the "no routine episiotomy / warm compresses / slow delivery of the head" preferences.
 - **The 41-week threshold:** *"If I go past 40 weeks, what's your induction policy, and what monitoring do you recommend?"* Worth knowing now, not at 41 weeks.
 - **Any symptom you've been downplaying** — and in Singapore's heat specifically, ask about **swelling** and **blood pressure** if either has changed.
 
-> ℹ️ **One labelling quirk to ignore:** your [`costs.md`](../../tracking/costs.md) third-trimester table labels the GBS swab as "week 35" and the first weekly visit as "week 36," while [`THIRD-TRIMESTER-GUIDE.md`](../../program/THIRD-TRIMESTER-GUIDE.md) and [`calendar.md`](../../tracking/calendar.md) put weekly visits from this week. The **dates** agree; only the labels drift. Go by the dates your provider gives you, and let the costs table catch up.
+> ℹ️ **Labels now match:** [`costs.md`](../../tracking/costs.md), [`THIRD-TRIMESTER-GUIDE.md`](../../program/THIRD-TRIMESTER-GUIDE.md) and [`calendar.md`](../../tracking/calendar.md) all use the same calendar week numbers (weekly visits from this week; GBS swab at the week 36 visit). Go by the dates your provider gives you.
 
 ---
 

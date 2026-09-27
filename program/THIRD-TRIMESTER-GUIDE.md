@@ -154,8 +154,8 @@ Pregnancy increases blood-clot (deep vein thrombosis, DVT) risk ~5×. **Call the
 - **Iron:** baby is now building iron stores for its first 6 months — red meat, spinach, beans + vitamin C to absorb. Continue prenatal vitamins & DHA
 - **Magnesium & calcium:** dark chocolate, almonds, dairy, leafy greens — directly supports cramp prevention
 - **Hydration:** 2.5–3 L/day; add electrolytes (coconut water, banana, a pinch of sea salt)
-- **Dates:** 4–6 Medjool dates/day from **week 36** — evidence shows it shortens labor & reduces induction need (check with OB if she has gestational diabetes)
-- **Red raspberry leaf tea:** continue 2–3 cups/day as per program
+- **Dates:** 4–6 Medjool dates/day building from week 31–33, then **6/day (or 70 g) from week 34 onward** — critical window weeks 36–40. Evidence shows it shortens labor & reduces induction need (check with OB if she has gestational diabetes)
+- **Red raspberry leaf tea:** continue **3 cups/day** as per program
 - **Limit:** caffeine <200 mg/day (about 1 small coffee), raw/fish-alcohol risks as usual, very salty food (swelling)
 
 ---
@@ -167,7 +167,7 @@ Continue the weekly physical routines from [`PROGRAM.md`](PROGRAM.md) — they'r
 - **Daily walking:** 30–40 min (scale back to 20–30 min after week 35)
 - **Birth ball hip circles** (✅ a gym ball is in the house since week 34 — see the week-34 guide for the Daily Ball Block; the chair version from the week-28 guide remains the fallback for tired or queasy days)
 - **Deep squats, cat-cow, pelvic tilts, forward-leaning inversions** (skip inversions if she has heartburn, high BP, or provider says not to)
-- **Perineal massage:** start week 34–35 (3–5×/week, 5 min)
+- **Perineal massage:** start week 34 (3–4×/week, 5 min), 4–5×/week at week 35, daily from week 36
 - **Listen to the body:** by week 35+, rest matters more than reps. Fatigue, pelvic pressure, or pubic pain = modify or stop
 
 **Stop exercising and call the doctor if:** bleeding, fluid leak, dizziness, chest pain, calf swelling, decreased fetal movement, or regular contractions before 37 weeks.
@@ -184,16 +184,17 @@ Continue the weekly physical routines from [`PROGRAM.md`](PROGRAM.md) — they'r
 | **29** | 16–22 Aug | Rest week — no appointment |
 | **30** | 23–29 Aug | **Routine visit** — visits now every 2 weeks |
 | **31** | 30 Aug–5 Sep | **Growth scan** + consultation; baby position check |
+| **32** | 6–12 Sep | Rest week — no appointment (between growth scan and Week 33 routine) |
 | **33** | 13–19 Sep | Routine visit + vitamin refill |
-| **34** | 20–26 Sep | **GBS swab** (Group B Strep) + consultation |
+| **34** | 20–26 Sep | Routine visit + consultation — confirm perineal-massage start, birth-plan draft |
 | **35** | 27 Sep–3 Oct | **Weekly visits begin** — every week from now |
-| **36** | 4–10 Oct | Weekly visit #2 |
+| **36** | 4–10 Oct | Weekly visit #2 + **GBS swab** (Group B Strep, 36w 0d–37w 6d window) |
 | **37** | 11–17 Oct | Weekly visit #3 (cervical check may begin) |
 | **38** | 18–24 Oct | Weekly visit #4 |
 | **39** | 25–31 Oct | Weekly visit #5 — NST, fluid check, induction discussion |
 | **🎯 EDD** | 1 Nov 2026 | Due date! |
 
-> ℹ️ **Note:** Week numbers above follow [`calendar.md`](../tracking/calendar.md). The third-trimester table in [`costs.md`](../tracking/costs.md) labels the *same* appointments one week later (e.g., its "Week 32" growth scan is calendar Week 31) — the **dates are identical**, only the labels differ.
+> ℹ️ **Note:** Week numbers above follow [`calendar.md`](../tracking/calendar.md). The third-trimester table in [`costs.md`](../tracking/costs.md) now uses the same calendar week numbers — if you spot an older printout with labels one week later (e.g. its "Week 32" growth scan for 30 Aug–5 Sep), go by the **dates**, which are identical.
 
 **Discussion points to raise along the way:** birth preferences (bring the draft from Week 28), GBS-positive plan, cervical checks, induction threshold at 41 weeks (evidence supports induction at 41w), and the gentle-C-section preferences if needed.
 
@@ -240,9 +241,9 @@ Print this. Keep it on the fridge. Call **TMC's 24-hour Maternity line** for any
 
 ### Weeks 33–36: The Intense Prep
 - [ ] **Pack the hospital bag** (see PROGRAM.md checklist — hers, partner's, baby's)
-- [ ] **Perineal massage** begins week 34–35
-- [ ] **Dates (6/day)** begin at week 36
-- [ ] GBS swab at week 35 — know the result & plan
+- [ ] **Perineal massage** begins week 34 (3–4×/week), steps up to 4–5×/week at week 35, daily from week 36
+- [ ] **Dates:** 4–6/day building at weeks 31–33, **6/day from week 34** (critical window weeks 36–40)
+- [ ] GBS swab at week 36 (36w 0d–37w 6d window) — know the result & plan
 - [ ] Install **car seat**, set up nursery, wash baby clothes
 - [ ] Book/finalize **confinement help** & family flights (per cost plan, ~week 34)
 - [ ] Prepare & freeze **postpartum meals**

@@ -406,9 +406,9 @@ Great instinct. Expecting a couple to devour *Ina May's Guide to Childbirth* (35
 | Original Assignment | AI Session | Week | Time |
 |---|---|---|---|
 | Read *Ina May's Guide to Childbirth* | Session 1 + 10 | 25, 33 | 20 min each |
-| Read *The Birth Partner* (full book) | Sessions 2, 6, 8, 12 | 25, 26, 28, 32 | 20 min each |
+| Read *The Birth Partner* (full book) | Sessions 2, 6, 8, 12 | 25, 29, 31, 35 | 20 min each |
 | Read *HypnoBirthing* (Marie Mongan) | Sessions 4, 7 | 27, 30 | 20 min each |
-| Childbirth class (5 sessions) | Sessions 3, 4, 5, 9, 13 | 26, 27, 28, 32, 33 | 20 min each |
+| Childbirth class (5 sessions) | Sessions 3, 4, 5, 9, 13 | 26, 27, 28, 32, 36 | 20 min each |
 | Spinning Babies study | Session 6 | 29 | 20 min |
 | Perineal massage research | Session 11 | 34 | 20 min |
 | Evidence on dates/RRL/EPO | Session 13 | 36 | 20 min |

@@ -218,7 +218,7 @@ The [`PROGRAM.md`](../../program/PROGRAM.md) Week 34 prescription, which is also
 - [ ] Vocalization 5 min daily — low "oooooh"/"aaaaah," now paired with the chosen mantras
 - [ ] **Cue-Reading Rehearsal (Day 6):** five rounds — silence round, transition drill on the ball, and the new position-change round; one-sentence debrief each
 - [ ] HypnoBirthing 30 min + birth-rehearsal visualization 15 min + surrender meditation 10 min, daily
-- [ ] GBS line added to the birth plan; TMC 24-hr and OB on-call numbers written in
+- [ ] GBS placeholder line added to the birth plan (*"GBS status: ____"* — result comes after the week 36 swab); TMC 24-hr and OB on-call numbers written in
 - [ ] 2–3 mantras finalised and used in every practice from today onward
 - [ ] Swimming/water walking 1× (optional, if accessible)
 
@@ -236,7 +236,7 @@ The [`PROGRAM.md`](../../program/PROGRAM.md) Week 34 prescription, which is also
 
 ## 🌟 The Bottom Line
 
-Week 34 adds the last physical unknown to the routine — and, this time, the last piece of equipment too. The circuit keeps opening the pelvis, now from the saddle of the ball the program has been substituting for since Week 26; the Daily Ball Block brings the Week 35 ball prescription forward a week; the strength work steps back to maintenance; and five minutes of tissue work, three or four times, starts preparing the exact millimetre of anatomy that has to stretch at the end. Alongside it, the add-ons — quick flicks, lunges with pelvic tilt, hands-and-knees rocking — train release and awareness rather than grip. And the rehearsal this week isn't about the timeline any more; it's about the partner learning to read her without being told, in the same positions she'll actually labour in. Meanwhile the GBS swab turns a hypothetical plan into a specific one: one line in pen, one earlier departure, nothing else changed. Six weeks out, this is what readiness looks like — unglamorous, specific, and done.
+Week 34 adds the last physical unknown to the routine — and, this time, the last piece of equipment too. The circuit keeps opening the pelvis, now from the saddle of the ball the program has been substituting for since Week 26; the Daily Ball Block brings the Week 35 ball prescription forward a week; the strength work steps back to maintenance; and five minutes of tissue work, three or four times, starts preparing the exact millimetre of anatomy that has to stretch at the end. Alongside it, the add-ons — quick flicks, lunges with pelvic tilt, hands-and-knees rocking — train release and awareness rather than grip. And the rehearsal this week isn't about the timeline any more; it's about the partner learning to read her without being told, in the same positions she'll actually labour in. Meanwhile the GBS booking turns a hypothetical plan into a specific one: one placeholder line in pen now, one swab at week 36, one earlier departure if positive, nothing else changed. Six weeks out, this is what readiness looks like — unglamorous, specific, and done.
 
 ---
 

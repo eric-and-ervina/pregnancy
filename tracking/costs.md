@@ -67,18 +67,18 @@
 
 | Week | Date (approx.) | What You're Paying For | Essential Cost | 🟡 Optional Cost | Weekly Total Range |
 |---|---|---|---|---|---|
-| **29** | 9–15 Aug | Nothing scheduled (between visits) | $0 | — | **$0** |
-| **30** | 16–22 Aug | ⭐ **ROUTINE VISIT** (every 2 weeks now) + prenatal vitamin refill | $108–$240 | 🟡 Prenatal class session: $50–$150 | **$108–$390** |
-| **31** | 23–29 Aug | Baby essentials shopping (batch 1: cot, mattress, bath tub) | $70–$185 | — | **$70–$185** |
-| **32** | 30 Aug–5 Sep | ⭐ **GROWTH SCAN:** Ultrasound + consultation | $200–$400 | — | **$200–$400** |
-| **33** | 6–12 Sep | Baby essentials shopping (batch 2: clothes, diapers, bottles, swaddles) | $100–$230 | — | **$100–$230** |
-| **34** | 13–19 Sep | ⭐ **ROUTINE VISIT** + prenatal vitamin refill. Family flight booking (confinement help from Indonesia) | $108–$240 | Family flights: $150–$400 | **$108–$640** |
-| **35** | 20–26 Sep | ⭐ **GBS TEST:** Vaginal/rectal swab + consultation | $150–$300 | — | **$150–$300** |
-| **36** | 27 Sep–3 Oct | ⭐ **WEEKLY VISIT #1.** Baby essentials (batch 3: carrier, remaining items) | $150–$305 | — | **$150–$305** |
-| **37** | 4–10 Oct | ⭐ **WEEKLY VISIT #2** + prenatal vitamin refill (last bottle) | $108–$190 | — | **$108–$190** |
-| **38** | 11–17 Oct | ⭐ **WEEKLY VISIT #3** (cervical check) | $100–$150 | — | **$100–$150** |
-| **39** | 18–24 Oct | ⭐ **WEEKLY VISIT #4** | $100–$150 | — | **$100–$150** |
-| **40** | 25 Oct–1 Nov | ⭐ **WEEKLY VISIT #5** (NST, fluid check, induction discussion) | $150–$300 | — | **$150–$300** |
+| **28** | 9–15 Aug | Nothing scheduled (between visits) | $0 | — | **$0** |
+| **29** | 16–22 Aug | ⭐ **ROUTINE VISIT** (every 2 weeks now) + prenatal vitamin refill | $108–$240 | 🟡 Prenatal class session: $50–$150 | **$108–$390** |
+| **30** | 23–29 Aug | Baby essentials shopping (batch 1: cot, mattress, bath tub) | $70–$185 | — | **$70–$185** |
+| **31** | 30 Aug–5 Sep | ⭐ **GROWTH SCAN:** Ultrasound + consultation | $200–$400 | — | **$200–$400** |
+| **32** | 6–12 Sep | Baby essentials shopping (batch 2: clothes, diapers, bottles, swaddles) | $100–$230 | — | **$100–$230** |
+| **33** | 13–19 Sep | ⭐ **ROUTINE VISIT** + prenatal vitamin refill. Family flight booking (confinement help from Indonesia) | $108–$240 | Family flights: $150–$400 | **$108–$640** |
+| **34** | 20–26 Sep | ⭐ **ROUTINE VISIT** + consultation | $150–$300 | — | **$150–$300** |
+| **35** | 27 Sep–3 Oct | ⭐ **WEEKLY VISITS BEGIN** (every week from now). Baby essentials (batch 3: carrier, remaining items) | $150–$305 | — | **$150–$305** |
+| **36** | 4–10 Oct | ⭐ **WEEKLY VISIT + GBS SWAB** (36w 0d–37w 6d window) + prenatal vitamin refill (last bottle) | $108–$190 | — | **$108–$190** |
+| **37** | 11–17 Oct | ⭐ **WEEKLY VISIT** (cervical check may begin) | $100–$150 | — | **$100–$150** |
+| **38** | 18–24 Oct | ⭐ **WEEKLY VISIT** | $100–$150 | — | **$100–$150** |
+| **39** | 25–31 Oct | ⭐ **WEEKLY VISIT** (NST, fluid check, induction discussion) | $150–$300 | — | **$150–$300** |
 
 ### 📊 THIRD TRIMESTER TOTAL (Before Delivery)
 
@@ -182,8 +182,8 @@
 | **Jun 2026** | Anomaly scan ($300–500) | **$350–$600** |
 | **Jul 2026** | Routine visit ($100–200) | **$150–$300** |
 | **Aug 2026** | GDM test visit ($150–300), start baby shopping | **$300–$600** |
-| **Sep 2026** | Growth scan + GBS test + weekly visits + baby shopping | **$600–$1,200** |
-| **Oct 2026** | Weekly visits x4, final preparations | **$500–$800** |
+| **Sep 2026** | Growth scan + routine visits + weekly visits begin + baby shopping | **$600–$1,200** |
+| **Oct 2026** | Weekly visits x4 + GBS swab + final preparations | **$500–$800** |
 | **Nov 2026** | 💥 **DELIVERY** + birth registration | **$4,000–$9,000** |
 | **Dec 2026** | Post-delivery: baby consumables, vaccinations, mama check-up | **$300–$800** |
 | | **TOTAL** | **$7,200–$15,400** |

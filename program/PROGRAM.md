@@ -237,7 +237,7 @@ This program is built on five pillars that work synergistically:
 
 **🥗 Nutrition**
 - Raspberry leaf tea: 3 cups/day
-- **Dates:** Begin eating **4–6 Medjool dates (or 70g) daily** starting around week 36 — but you can start building the habit now
+- **Dates:** **4–6 Medjool dates daily, building the habit now** (full 6/day from Week 34; critical window weeks 36–40)
 - Iron-rich foods + vitamin C for absorption
 - Continue magnesium, omega-3, prenatal vitamin
 
@@ -418,7 +418,7 @@ This program is built on five pillars that work synergistically:
 - **Partner:** Final coaching rehearsal — he should know all breathing patterns, positions, mantras, when to advocate
 
 **📚 Education**
-- **Start eating 6 dates (Medjool) or 70g dates daily** if not already — research shows this significantly reduces need for induction/augmentation and shortens labor
+- **Continue 6 dates (Medjool) or 70g dates daily** (started Week 34 — critical window: weeks 36–40) — research shows this significantly reduces need for induction/augmentation and shortens labor
 - **Finalize hospital bag**
 - **Confirm birth plan** with OB/midwife — file in medical records
 - **Install car seat, wash baby clothes, set up feeding station**

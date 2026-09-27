@@ -7,7 +7,7 @@
 
 Since Week 25, the preparation has been about the labour: breathing, positions, stamina, mindset. Week 34 turns attention to the one piece of tissue that does the actual final stretch — and adds the one appointment that can change your labour-day plan in a single line.
 
-Two things happen this week. First, **perineal massage begins** (this week or next, per your provider): five minutes, three to four times a week, working the exact tissue that has to open around a baby's head. It's unglamorous, it's genuinely optional, and it's one of the very few items in this program with randomised-trial evidence behind it. Second, the **GBS swab** — the group B strep culture that decides whether your labour includes IV antibiotics and, if positive, whether you go to hospital *earlier* than the 5-1-1 rule says.
+Two things happen this week. First, **perineal massage begins** (this week or next, per your provider): five minutes, three to four times a week, working the exact tissue that has to open around a baby's head. It's unglamorous, it's genuinely optional, and it's one of the very few items in this program with randomised-trial evidence behind it. Second, the **GBS plan gets locked in** — the group B strep swab itself happens at the week 36 visit, but this week you learn what it decides (whether labour includes IV antibiotics and, if positive, whether you go to hospital *earlier* than the 5-1-1 rule says) and you book the date.
 
 Read Sections 2–4 before your first massage session, and Section 7 before this week's appointment.
 
@@ -66,7 +66,8 @@ This is the practice, start to finish. Read it once, then follow the print-out i
 
 | Weeks | Frequency | Duration |
 |---|---|---|
-| **34–35** | 3–4× per week | 5 min per session |
+| **34** | 3–4× per week | 5 min per session |
+| **35** | 4–5× per week | 5 min per session |
 | **36–37** | Daily | 5 min |
 | **38 → birth** | Daily, if comfortable | 5 min |
 
@@ -163,7 +164,7 @@ If a tear does happen, ask the midwife to grade it and explain the repair before
 
 ---
 
-## 7. This Week's Appointment: The GBS Swab
+## 7. This Week's Appointment: Book the GBS Swab (Taken at Week 36)
 
 **Group B Streptococcus (GBS)** is a common bacterium that lives harmlessly in the vagina or rectum of roughly **10–30% of women**. It causes no symptoms and is not a sexually transmitted infection, not a hygiene failure, and not a complication of pregnancy. It matters for exactly one reason: **a newborn who picks it up during birth can develop early-onset GBS disease** — a serious infection (sepsis, pneumonia, meningitis).
 
@@ -176,9 +177,9 @@ If a tear does happen, ask the midwife to grade it and explain the repair before
 | Risk reduction from IV antibiotics in labour | ~80% |
 | Effect of being GBS-positive on how you give birth | None. It is not a reason for induction, and not a reason for cesarean |
 
-**How the swab is taken:** a soft swab of the lower vagina and the rectum (a quick, painless touch-swab, done by your provider — you do not do it yourself). **Timing:** current CDC/ACOG guidance is **36w 0d – 37w 6d**, because a swab taken more than ~5 weeks before delivery is a less reliable predictor of colonisation at birth.
+**How the swab is taken:** a soft swab of the lower vagina and the rectum (a quick, painless touch-swab, done by your provider — you do not do it yourself). **Timing:** current CDC/ACOG guidance is **36w 0d – 37w 6d**, which for you means the **week 36 visit (4–10 Oct)** — because a swab taken more than ~5 weeks before delivery is a less reliable predictor of colonisation at birth.
 
-> ⚠️ **One discrepancy to resolve in pen this week:** your [`THIRD-TRIMESTER-GUIDE.md`](../../program/THIRD-TRIMESTER-GUIDE.md) appointment table schedules the GBS swab at this week's (34-week) visit, while [`PROGRAM.md`](../../program/PROGRAM.md) lists it at the 36-week appointment. Bring it up: *"If we swab at 34 weeks, will it be repeated closer to 36–37 weeks so the result is valid at delivery?"* Write the answer in the antenatal booklet so it isn't re-litigated at 2 a.m.
+> ✅ **Timing resolved:** [`PROGRAM.md`](../../program/PROGRAM.md) (36-week appointment), [`THIRD-TRIMESTER-GUIDE.md`](../../program/THIRD-TRIMESTER-GUIDE.md) (week 36 visit) and [`costs.md`](../../tracking/costs.md) (week 36) now all agree on the 36w 0d–37w 6d window. Confirm at this week's visit that the swab is booked for week 36, and write the date in the antenatal booklet so it isn't re-litigated at 2 a.m.
 
 **If it comes back positive**, the plan changes in one specific, manageable way:
 
@@ -239,16 +240,16 @@ ON THE DAY (ask for all three by name)
 - [ ] **Perineal massage started this week** — 3–4 sessions of 5 min; oils chosen; technique read (Section 3)
 - [ ] Partner has learned the assisted technique; you've done it once together, calmly
 - [ ] Can describe the four degrees of tearing in one sentence, and can say why routine episiotomy is not routine
-- [ ] **GBS swab timing confirmed with provider** (this visit vs. 36 weeks — and whether it will be repeated)
+- [ ] **GBS swab booked for week 36** (36w 0d–37w 6d window) — date written in the antenatal booklet
 - [ ] Understand the GBS-positive plan: IV antibiotics, ~4 hours before delivery, go in earlier (no 5-1-1 wait)
-- [ ] Birth plan updated with the GBS line in pen
+- [ ] Birth plan updated with the GBS placeholder line in pen (*"GBS status: ____"* — result comes after the week 36 swab)
 - [ ] Husband has read [`LABOUR-DAY-GUIDE.md`](../../program/LABOUR-DAY-GUIDE.md) **PART 0** (filled in) and **PART 1**
 - [ ] 2–3 labour mantras chosen and written down (same ones every practice, from now to birth)
 - [ ] Surrender meditation 10 min/day running alongside the 15-min birth-rehearsal visualization
 - [ ] Birth Prep Circuit still daily — squat toward 90–120 s; quick flicks, lunges with pelvic tilt, hands-and-knees rocking added
 - [ ] Dates at 6 Medjool/day; raspberry leaf tea 3 cups; hydration 3 L; EPO per provider
 - [ ] Car seat installed and checked; nursery set up; freezer meals started
-- [ ] Ask at this appointment: perineal massage start date, GBS timing, TMC 24-hour maternity number, and how many support people are allowed in the labour room
+- [ ] Ask at this appointment: perineal massage start date, confirmation the GBS swab is booked for week 36, TMC 24-hour maternity number, and how many support people are allowed in the labour room
 
 ---
 
