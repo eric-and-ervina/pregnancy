@@ -111,6 +111,10 @@ tracking/
 - 📖 [Reading — Perineal Preparation & Tissue Health](weeks/week-34/reading.md)
 - 🏋️ [Physical — Exercise & Yoga (Tissue Block + Circuit Add-Ons)](weeks/week-34/physical.md)
 
+### Week 35
+- 📖 [Reading — The Coaching Manual & the Head-Down Milestone](weeks/week-35/reading.md) — the partner's labour-coaching guide, plus what the Week 34 scan confirmed
+- 🏋️ [Physical — Exercise & Yoga (Peak Practice + Full Mock-Labour Rehearsal)](weeks/week-35/physical.md)
+
 ---
 
 *This program is for educational and supportive purposes. Always follow the guidance of your qualified prenatal care provider.*
