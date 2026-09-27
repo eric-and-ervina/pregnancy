@@ -9,7 +9,7 @@
 
 The Week 34 ultrasound showed your baby settled **head-down (cephalic — the head coming first, into the pelvis)**. That is exactly the news this whole program has been quietly working toward since Week 29, and it's worth pausing on: **you are past the single biggest positional variable in a first labour.** Breech is now very unlikely to reappear this late. But head-down is not the finish line — it's the starting gun for the next question (*which way is she facing, and has she dropped?*) — so the work continues, one notch more specific. Section 2 breaks down exactly what the scan did and did not tell you, and Section 3 explains why the spinning-babies habits stay on the schedule.
 
-Week 35's real assignment, though, is the partner. Since Week 25 he's been a passenger who's been told to read things. From this week he is **the coach** — the person who'll spend the longest hours of labour next to you, holding the counter-pressure, timing the surreptitious sip of water, and reading your face well enough to know whether to speak or to shut up. The reading below is his manual, and [`physical.md`](physical.md) runs it as a rehearsal.
+Week 35's real assignment, though, is the partner. Since Week 25 he's been a passenger who's been told to read things. From this week he is **the coach** — the person who'll spend the longest hours of labour next to you, holding the counter-pressure, getting the water and rest right, and reading your face well enough to know whether to speak or to shut up. The reading below is his manual, and [`physical.md`](physical.md) runs it as a rehearsal.
 
 Read Sections 2–3 tonight, hand the rest to your partner now, and run the mock labour on Day 6.
 
@@ -17,7 +17,7 @@ Read Sections 2–3 tonight, hand the rest to your partner now, and run the mock
 
 ## 1. What Changes This Week
 
-[`PROGRAM.md`](../../program/PROGRAM.md) Week 35 is the "peak practice" week — the last full-intensity week before the taper begins. Four things shift:
+[`PROGRAM.md`](../../program/PROGRAM.md) Week 35 is the "peak practice" week — the last full-intensity week before the taper begins. Five things shift:
 
 | Change | Why |
 |---|---|
@@ -35,7 +35,7 @@ The mental practice also peaks: HypnoBirthing at 30 min, the full birth-rehearsa
 
 Congratulations, and let's be precise about it, because "head down" carries more relief than it should and less information than you'd hope.
 
-**What cephalic means.** The baby's head is at the bottom of the uterus, pointing toward the birth canal — the position the vast majority of term babies settle into, and the one that makes a straightforward vaginal birth possible. Your provider will write it as **cephalic** or **vertex** (vertex = head down, chin tucked to the chest, the ideal). At 34 weeks, roughly **three in four** babies are already head down; the rest *usually* turn over the following weeks. Yours has already done it, five or six weeks early.
+**What cephalic means.** The baby's head is at the bottom of the uterus, pointing toward the birth canal — the position the vast majority of term babies settle into, and the one that makes a straightforward vaginal birth possible. Your provider will write it as **cephalic** or **vertex** (vertex = head down, chin tucked to the chest, the ideal). Most babies settle head-down somewhere between **about 32 and 36 weeks**, and roughly **three in four** are already there by 34. Yours has done it with time to spare — and for the minority still breech at this stage, the large majority turn on their own before labour.
 
 **What it means, materially:**
 
@@ -233,7 +233,7 @@ severe headache or vision changes · fever · she just feels wrong.
 - [ ] Positioning work continues unchanged: FLI, curb walking, hands-and-knees rocking, ball daily (Section 3)
 - [ ] **Perineal massage at 4–5×/week**, ramping toward daily at 36 weeks
 - [ ] **Birth ball at 15 min/day** — circles, figure-8s, gentle bounce, lean-over, release breathing
-- [ ] **The full mock-labour rehearsal run once this week** (Day 6) — 3 timed contractions, all four techniques, 2 position changes, one silence round
+- [ ] **The full mock-labour rehearsal run once this week** (Day 6) — five rounds, timed surges, counter-pressure + hip squeeze, one silence round, transition drill, two position changes
 - [ ] Walking 30–40 min, 5–6×; rest genuinely scheduled *between* activities
 - [ ] **Transition-mindset drill** 10 min/day inside the 15-min birth visualization
 - [ ] Affirmations written on cards; placed around the house; a set for the hospital bag

@@ -153,7 +153,7 @@ Week 35 asks for **gentle daily stretching** — hip flexors, hamstrings, inner 
 
 This is the week's headline. It is the only rehearsal that puts the partner's hands, her breathing, and the position changes all together, timed to real contractions, in the room you actually have. Run it once, calmly, in the evening — and treat the debrief as seriously as the drill.
 
-### Before you start (5 min): the two-minute brief
+### Before you start (5 min): the brief
 
 - She states, in her own words, what she wants in each mood: **chatty** (early labour), **focused/quiet** (active), **irritable** (don't touch me), **overwhelmed** ("I can't do this"). He writes the answers down — see [`reading.md`](reading.md) §6.
 - Confirm the three things he'll avoid: guiding, talking, deciding. And the one he'll do more of: *asking.*
@@ -214,7 +214,7 @@ The [`PROGRAM.md`](../../program/PROGRAM.md) Week 35 prescription:
 - [ ] Add-ons daily: quick flicks ×10, lunges with pelvic tilt 10/side, hands-and-knees rocking 2 min
 - [ ] **Perineal massage 4–5× this week (5 min)** — no contraindications; ramping toward daily at 36 weeks
 - [ ] **Partner-assisted perineal session done once (Day 6)** — direction down, not in; she controls pressure
-- [ ] **🎭 Full Mock-Labour Rehearsal run once (Day 6)** — 3 timed contractions, counter-pressure + hip squeeze, one silence round, transition drill, two position changes, advocacy lines said out loud
+- [ ] **🎭 Full Mock-Labour Rehearsal run once (Day 6)** — five rounds with timed surges, counter-pressure + hip squeeze, one silence round, transition drill, two position changes, advocacy lines said out loud
 - [ ] FLI continued daily (skip if contraindicated); deep squat hold 90–120 sec daily
 - [ ] Gentle daily stretching — hips, hamstrings, inner thighs, chest
 - [ ] Yoga 2× (long holds, hip focus); swimming/water walking 1× if accessible
@@ -243,7 +243,7 @@ The [`PROGRAM.md`](../../program/PROGRAM.md) Week 35 prescription:
 
 ## 🌟 The Bottom Line
 
-Week 35 is the peak-practice week, and it looks deceptively quiet. No new movement arrives; the ball simply reaches its full 15 minutes, the perineal block reaches 4–5×, and the loads stay on the floor. What changes is *who* is training. The mock-labour rehearsal hands the techniques to the person who'll hold them for the longest hours — sacral pressure, the hip squeeze, the silence round, the three-word script for transition — and drills the one skill no checklist contains: reading her face well enough to know whether to speak or to shut up. Underneath it all sits the Week 34 news, and it's good news: **she's head down.** That's the biggest positional variable of a first labour resolved early, so the positioning habits shift from *turning* her to *keeping* her — nose forward, settling into the pelvis, ready for engagement. Twenty-nine days out, readiness now means two trained people, one packed bag, and a baby already pointing in the right direction.
+Week 35 is the peak-practice week, and it looks deceptively quiet. No new movement arrives; the ball simply reaches its full 15 minutes, the perineal block reaches 4–5×, and the loads stay on the floor. What changes is *who* is training. The mock-labour rehearsal hands the techniques to the person who'll hold them for the longest hours — sacral pressure, the hip squeeze, the silence round, the three-word script for transition — and drills the one skill no checklist contains: reading her face well enough to know whether to speak or to shut up. Underneath it all sits the Week 34 news, and it's good news: **she's head down.** That's the biggest positional variable of a first labour resolved early, so the positioning habits shift from *turning* her to *keeping* her — nose forward, settling into the pelvis, ready for engagement. Five weeks out, readiness now means two trained people, one packed bag, and a baby already pointing in the right direction.
 
 ---
 
