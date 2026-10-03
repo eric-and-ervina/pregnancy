@@ -115,6 +115,10 @@ tracking/
 - 📖 [Reading — The Coaching Manual & the Head-Down Milestone](weeks/week-35/reading.md) — the partner's labour-coaching guide, plus what the Week 34 scan confirmed
 - 🏋️ [Physical — Exercise & Yoga (Peak Practice + Full Mock-Labour Rehearsal)](weeks/week-35/physical.md)
 
+### Week 36
+- 📖 [Reading — The Honest Evidence Review (Dates, Raspberry Leaf, EPO & Natural Cervical Ripening)](weeks/week-36/reading.md) — Session 13: what actually prepares the cervix, plus the GBS swab, the Bishop score, and the 41-week conversation
+- 🏋️ [Physical — Exercise & Yoga (The Taper: Reduced Volume, Daily Perineal Massage, Partner Final Rehearsal)](weeks/week-36/physical.md)
+
 ---
 
 *This program is for educational and supportive purposes. Always follow the guidance of your qualified prenatal care provider.*
