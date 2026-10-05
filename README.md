@@ -47,6 +47,7 @@ tracking/
 
 | I want to… | Go here |
 |-----------|---------|
+| **Take the new-dad's preparation course (36 weeks → first month)** | [**`course/README.md`**](course/README.md) |
 | See the full program (weeks 25–40) | [`program/PROGRAM.md`](program/PROGRAM.md) |
 | Do this week's AI study session | [`program/STUDY.md`](program/STUDY.md) |
 | Read the complete 3rd-trimester guide | [`program/THIRD-TRIMESTER-GUIDE.md`](program/THIRD-TRIMESTER-GUIDE.md) |
