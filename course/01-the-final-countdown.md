@@ -48,7 +48,7 @@ A gush or a steady trickle she can't control = likely the waters. Note the **tim
 - **Green or brown** → possible meconium (baby's first stool) → tell TMC and come in promptly.
 - **Bright red bleeding** → emergency → 995.
 
-Put a pad on, not a tampon. Don't let her have a bath after waters break [confirm with TMC/your gynae]. Contractions may start within hours — or not; see "induction" in Chapter 3.
+Put a pad on, not a tampon. No bath after waters break (infection risk) — showers are fine. Contractions may start within hours — or not; see "induction" in Chapter 3.
 
 ---
 

@@ -260,7 +260,7 @@ This phase can last **6–24 hours** — often, deliberately, at home. Don't bur
 ## 8.2 Registering your baby (foreign parents — do this promptly)
 Your baby born in Singapore to two work-pass holders is **not a Singapore citizen.** The paperwork chain has a hard deadline, and it's not optional:
 
-1. **Birth registration** with **ICA** — TMC notifies the birth, and you complete the registration (some hospitals offer a one-stop counter service; ask). Singapore requires births to be registered within **42 days**, whatever the parents' nationality. You'll get the birth certificate. ICA general line **6391 6100**, or **ica.gov.sg**.
+1. **Birth registration** with **ICA** — TMC notifies the birth, and you complete the registration **online via the LifeSG app with Singpass** (hospital birth-registration counters were discontinued in May 2022 — there is no counter option). Singapore requires births to be registered within **42 days**, whatever the parents' nationality. You'll get the digital birth certificate. ICA general line **6391 6100**, or **ica.gov.sg**.
 2. **Baby's passport from your home country's embassy/high commission** — your earlier prep folder names the **Indonesian embassy (KBRI)**. This needs the birth certificate and both parents' passports — start it early; appointment slots can be days out.
 3. **A pass for the baby to stay in Singapore** (Dependant's Pass / LTVP via **MOM**), applied for **within 42 days** of birth — the baby needs a valid passport to be granted it.
 4. Then, in the weeks after: baby's own insurance/visa-errands, and her 6-week postnatal check.

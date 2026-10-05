@@ -75,10 +75,9 @@ Your paediatrician or a GP clinic will follow this. Put the approximate dates in
 |---|---|
 | **1 month** | Hep B dose 2 |
 | **2 months** | 6-in-1 (diphtheria, tetanus, pertussis, polio, Hib, Hep B) dose 1 |
-| **4 months** | 6-in-1 dose 2, pneumococcal (PCV) |
-| **5 months** | 6-in-1 dose 3 |
-| **6 months** | 6-in-1 dose 4 (or 5-in-1, depending on schedule), PCV |
-| **12 months** | MMR (measles, mumps, rubella), varicella (chickenpox) |
+| **4 months** | 5-in-1 (diphtheria, tetanus, pertussis, polio, Hib) dose 2, pneumococcal (PCV) dose 1 |
+| **6 months** | 6-in-1 dose 3, pneumococcal (PCV) dose 2 |
+| **12 months** | MMR (measles, mumps, rubella) dose 1, varicella (chickenpox) dose 1 |
 
 **Paediatrician follow-ups:**
 - **Jaundice check within days of discharge.** Newborn jaundice is extremely common; the doctor checks bilirubin levels and tells you whether it's the normal kind that fades or needs treatment. Don't skip this appointment.
@@ -121,7 +120,7 @@ The Labour Day Guide covers this in [Part 9.1](../program/LABOUR-DAY-GUIDE.md). 
 - [ ] **Days 14–35:** passport collected; MOM DP/LTVP application submitted
 - [ ] **By day 42:** all three steps complete
 - [ ] Baby health insurance arranged
-- [ ] Vaccination dates in calendar (1, 2, 4, 5, 6, 12 months)
+- [ ] Vaccination dates in calendar (1, 2, 4, 6, 12 months)
 - [ ] Infant care centres shortlisted (if needed)
 
 ---

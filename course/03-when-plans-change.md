@@ -104,9 +104,9 @@ The only wrong move is freezing. A clear decision you both own beats a perfect d
 
 ---
 
-## 8. After the birth — the first handoff to fatherhood
+## 8. After the birth — the handoff to fatherhood
 
-The course's job ends at birth; your job expands. Three things worth knowing now so November doesn't ambush you:
+This chapter's job ends at birth; yours expands. Three things worth knowing now so November doesn't ambush you:
 
 - **The ward stay** (PART 8 of ../program/LABOUR-DAY-GUIDE.md): ~2 days for vaginal, ~3–4 for c-section. Baby registration via LifeSG within 42 days (Chapter 1). Jaundice checks may delay discharge — normal, expected.
 - **Feeding:** you and your wife are still deciding between full/partial/mixed breastfeeding. No position from this course — it's your family's call with your paediatrician. What's useful to know now: whatever you choose, the first week's job is *supporting the feeder* (water, food, company at 3am), not having opinions about the method.
