@@ -58,7 +58,7 @@ The seven steps in the same order — the mobility edition, one notch softer tha
 
 **Taper refinements:**
 - **Jaw-loose practice continues inside every stretch and squat.** Tight jaw = tight pelvic floor — the micro-habit is now automatic; keep checking it deliberately.
-- **The add-ons continue only if welcome** (~4 min, after step 7): quick flicks ×10, lunges with pelvic tilt 10/side, hands-and-knees rocking 2 min. If quick flicks cause leaking, heaviness, or bulging — stop the flicks, keep the release work, mention it at the 20 Oct visit.
+- **The add-ons continue only if welcome** (~4 min, after step 7): quick flicks ×10, lunges with pelvic tilt 10/side, hands-and-knees rocking 2 min. If quick flicks cause leaking, heaviness, or bulging — stop the flicks, keep the release work, mention it at the 19 Oct visit.
 
 ### The Daily Ball Block — 10–15 min, comfort-led
 
@@ -148,7 +148,7 @@ Three things worth knowing, none of them alarming:
 
 1. **This is common at 37 weeks.** A large share of babies are still in transverse or posterior head positions now and rotate during labour itself — the rotation is often what the early hours are *doing*.
 2. **There is nothing to fix and no corrective routine to add.** The program's existing asymmetric work — curb walking, hands-and-knees rocking, the deep squat — is exactly the "give the baby room" prescription. Aggressive turning protocols from the internet trade anxiety for effort; skip them.
-3. **Mention it at the 20 Oct visit** (~38w 2d) if you want the doctor's read on whether it's shifted. The birth plan doesn't change either way — head-down is head-down.
+3. **Mention it at the 19 Oct visit** (~38w 1d) if you want the doctor's read on whether it's shifted. The birth plan doesn't change either way — head-down is head-down.
 
 ---
 
@@ -166,7 +166,7 @@ Three things worth knowing, none of them alarming:
 - [ ] Labour snacks packed (bag + bedside); meals nourishing and frequent; hydration 3 L
 - [ ] Stress deliberately reduced — news, social media, draining conversations limited
 - [ ] **Rest genuinely scheduled** — naps are the program now
-- [ ] Baby's position noted, no corrective routine added; ask at the 20 Oct visit if curious
+- [ ] Baby's position noted, no corrective routine added; ask at the 19 Oct visit if curious
 
 ## ⚠️ What to Avoid This Week
 

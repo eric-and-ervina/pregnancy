@@ -28,7 +28,7 @@ Three facts from the 36w 6d checkup, translated into this week's actions:
 
 **GBS swab done, result pending.** When it lands (usually 2–4 days): *positive* → write "GBS positive — IV antibiotics in labour, aim to head in in good time" on the birth plan (see Section 4 — GBS-positive is one of the two reasons to leave earlier rather than later). *Negative* → write "GBS negative" and forget about it. Either way, the birth plan stays one page and the plan stays the same: vaginal, unmedicated, same people in the room.
 
-**Head down, face to her right.** The doctor described the position plainly, so let's take it plainly: the head is down (the only orientation that matters for a vaginal birth), and the face is turned toward her right side rather than tucked toward her spine. At 37 weeks this is an ordinary finding — babies in transverse head positions commonly rotate to face-down (occiput anterior) during labour itself, and the rotation is often what the early hours of labour are *doing*. There is no corrective exercise to add. What supports it is what you're already doing: the asymmetric pelvis work (curb walking) gives the baby room to turn, hands-and-knees rocking keeps the pelvis unloaded, and the deep squat keeps the outlet open. **Do not bolt on a "turning routine"** — aggressive inversion schedules and internet spinning protocols at 37 weeks trade anxiety for effort. Mention it at the 20 Oct visit if you want the doctor's read, but the plan doesn't change.
+**Head down, face to her right.** The doctor described the position plainly, so let's take it plainly: the head is down (the only orientation that matters for a vaginal birth), and the face is turned toward her right side rather than tucked toward her spine. At 37 weeks this is an ordinary finding — babies in transverse head positions commonly rotate to face-down (occiput anterior) during labour itself, and the rotation is often what the early hours of labour are *doing*. There is no corrective exercise to add. What supports it is what you're already doing: the asymmetric pelvis work (curb walking) gives the baby room to turn, hands-and-knees rocking keeps the pelvis unloaded, and the deep squat keeps the outlet open. **Do not bolt on a "turning routine"** — aggressive inversion schedules and internet spinning protocols at 37 weeks trade anxiety for effort. Mention it at the 19 Oct visit if you want the doctor's read, but the plan doesn't change.
 
 **Admission = the usual card.** The last paperwork mystery is solved: no separate admission letter from Dr Paul exists or is needed. She brings her usual antenatal card to TMC admissions. The hospital-bag checklist loses its last open item — and he should confirm the card is *in the bag*, not somewhere it has to be found at 3 a.m.
 
@@ -42,7 +42,7 @@ In every scenario below, **he** is the one who calls. She is busy. His job from 
 
 **Contractions 5 minutes apart, each lasting 1 minute, sustained for 1 hour → call, and go in.** This is the textbook version. Two refinements from the program:
 
-- **Confirm *your* provider's version** — at the 20 Oct visit (~38w 2d), ask Dr Paul's team directly: "What contraction pattern do you want us to head in on?" Some providers prefer 4-1-1 or 3-1-1 for first labours given the drive. Write the answer in the antenatal booklet. Until then, 5-1-1 stands.
+- **Confirm *your* provider's version** — at the 19 Oct visit (~38w 1d), ask Dr Paul's team directly: "What contraction pattern do you want us to head in on?" Some providers prefer 4-1-1 or 3-1-1 for first labours given the drive. Write the answer in the antenatal booklet. Until then, 5-1-1 stands.
 - **The rule describes active labour's *arrival*, not its approach.** You'll spend hours in early labour at home *before* 5-1-1. That's the design (Section 4), not a delay.
 
 ### Call now, whatever the clock says — the four exceptions
@@ -81,7 +81,7 @@ Early (latent) labour in a first birth commonly lasts **6–12 hours, sometimes 
 ### The two reasons to leave earlier than 5-1-1
 
 - **GBS-positive** (if Saturday's swab says so): antibiotics work best started well before delivery, so the plan is to head in in good time rather than labouring at home to the last comfortable minute.
-- **Water broke first with no contractions**: most providers want you in sooner; confirm the exact instruction at the 20 Oct visit.
+- **Water broke first with no contractions**: most providers want you in sooner; confirm the exact instruction at the 19 Oct visit.
 
 ---
 
@@ -204,7 +204,7 @@ Session 14's follow-up prompt, answered straight:
 - *"Is this an emergency, or can we talk it through?"*
 
 **📞 THE CALL — he calls, she labours**
-- 5-1-1 (or Dr Paul's version from the 20 Oct visit): 5 min apart, 1 min long, for 1 hour → go
+- 5-1-1 (or Dr Paul's version from the 19 Oct visit): 5 min apart, 1 min long, for 1 hour → go
 - Call NOW for: water breaks (note time + colour) · bright red bleeding · reduced movement · severe headache/visual changes
 
 **🏠 EARLY LABOUR (at home — the long phase)**
@@ -238,7 +238,7 @@ Session 14's follow-up prompt, answered straight:
 - [ ] **Session 14 absorbed** — both of you have walked the birth mentally, start to finish, including the two detours
 - [ ] **Birth plan: final review together, read aloud once** — GBS line added the moment Saturday's swab result lands; admission-card detail noted; one page, two copies (one filed, one in his pocket)
 - [ ] **Wall cheat sheet printed** (Section 12) — packed in the hospital bag
-- [ ] **Provider's head-in pattern confirmed** — ask at the 20 Oct visit (~38w 2d): "What contraction pattern do you want us to head in on?" Written in the antenatal booklet
+- [ ] **Provider's head-in pattern confirmed** — ask at the 19 Oct visit (~38w 1d): "What contraction pattern do you want us to head in on?" Written in the antenatal booklet
 - [ ] **GBS status filed** — positive → "head in in good time" is the plan; negative → forgotten
 - [ ] **Antenatal card confirmed in the hospital bag** (Section 2 — the closed admission-letter item)
 - [ ] Dates 6/day continue (the critical window runs to week 40); RRL 3 cups; EPO as directed with the provider sign-off from the 10 Oct visit
