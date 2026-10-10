@@ -120,6 +120,10 @@ tracking/
 - 📖 [Reading — The Honest Evidence Review (Dates, Raspberry Leaf, EPO & Natural Cervical Ripening)](weeks/week-36/reading.md) — Session 13: what actually prepares the cervix, plus the GBS swab, the Bishop score, and the 41-week conversation
 - 🏋️ [Physical — Exercise & Yoga (The Taper: Reduced Volume, Daily Perineal Massage, Partner Final Rehearsal)](weeks/week-36/physical.md)
 
+### Week 37
+- 📖 [Reading — The Birth Day Playbook](weeks/week-37/reading.md) — Session 14: the call, early labour at home, the room, transition, pushing, the moment, the two detours (induction, emergency C-section), the 5 things not to do, and a printable one-page wall cheat sheet
+- 🏋️ [Physical — Exercise & Yoga (The Deep Taper: 4 Gentle Circuit Days, Rest as the Program)](weeks/week-37/physical.md)
+
 ---
 
 *This program is for educational and supportive purposes. Always follow the guidance of your qualified prenatal care provider.*
