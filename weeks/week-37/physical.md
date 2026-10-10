@@ -2,7 +2,7 @@
 
 > **Where you are:** Week 37 (11 Oct – 17 Oct 2026) · 37w 0d → 37w 6d (D259–265) · **early term** · ~21 → 15 days to EDD (1 Nov)
 > **Program reference:** [`PROGRAM.md`](../../program/PROGRAM.md) Week 37 — Phase 4 "Final Countdown" · [`THIRD-TRIMESTER-GUIDE.md`](../../program/THIRD-TRIMESTER-GUIDE.md)
-> **👶 Baby:** ~6.5 lb / 2.9 kg — head down (per the 10 Oct visit), face toward her right side: a transverse head position that most babies rotate out of on their own, often *during* labour. Nothing to fix — see §9.
+> **👶 Baby:** ~6.5 lb / 2.9 kg — head down (per the 10 Oct visit), face toward her right side: a transverse head position that most babies rotate out of on their own, often *during* labour. Nothing to fix — see §8.
 > **🔽 New this week:** the **Birth Prep Circuit drops to 4×/week**, walking to **20–30 gentle minutes**, and the week's only real instruction is a subtraction: **nothing in this file should feel like effort.** The taper that began at week 36 deepens — rest stops being "scheduled alongside" the program and becomes the program itself. The mental rehearsal that pairs with this file is [`reading.md`](reading.md) — Session 14, the Birth Day Playbook.
 > **Safety first:** Clear this routine with your OB. Stop any movement and call your provider for bleeding, fluid leakage, regular contractions, dizziness, chest pain, calf swelling (especially one-sided), decreased baby movement, or severe headache/visual changes. Never lie flat on your back for long periods. Breathe continuously — exhale on effort, never hold your breath. The Forward-Leaning Inversion is off the menu if you have high blood pressure, significant heartburn, or your provider has flagged baby's position for special handling. **Perineal massage stops for placenta previa, active vaginal infection or herpes outbreak, unexplained bleeding or a fluid leak, or once waters have broken** — see the ⚠️ When to Call, Not Read section of [`reading.md`](reading.md).
 
@@ -38,7 +38,7 @@ Conversational pace, shorter ceiling than week 36:
 
 - Warm up 5 min easy · middle 10–20 min easy · cool down 5 min easy
 - **No distance goals, no time goals.** Pelvic pressure or back discomfort → split into two 10–15-minute walks or stop at 20 minutes. The taper explicitly permits all of it.
-- Cool hours, water carried. Curb walking stays inside the circuit (a few minutes each side) — the asymmetric pelvis work continues because it gives the baby room: head-down with the face to the right is a position that room helps (see §9).
+- Cool hours, water carried. Curb walking stays inside the circuit (a few minutes each side) — the asymmetric pelvis work continues because it gives the baby room: head-down with the face to the right is a position that room helps (see §8).
 
 ---
 

@@ -154,7 +154,7 @@ Then it's over — often suddenly — and the urge to push arrives like a gear c
 
 ## 9. The Moment — Baby Out, On Her Chest
 
-Then: the baby is out, and straight onto her chest — **skin-to-skin, immediately, uninterrupted**. This is the golden hour from the week-32 guide: the baby's first cry, the first look, her hands on wet skin, his hand on both of them. The cord keeps pulsing — **delayed cord clamping** (the birth plan's line; a minute or more while it pulses) lets the baby receive its full blood volume. The first latch often happens in this hour, unhurried, with the week-32 feeding station waiting at home for everything after.
+Then: the baby is out, and straight onto her chest — **skin-to-skin, immediately, uninterrupted**. This is the golden hour from the week-32 guide: the baby's first cry, the first look, her hands on wet skin, his hand on both of them. The cord keeps pulsing — **delayed cord clamping** (the birth plan's line; a minute or more while it pulses) lets the baby receive his full blood volume. The first latch often happens in this hour, unhurried, with the week-32 feeding station waiting at home for everything after.
 
 **The placenta** follows — usually within 5–30 minutes, often with one or two more mild contractions and a feeling of pressure. It's the third stage, it's managed by the provider, and then the birth is, medically, complete. She did it.
 
@@ -176,7 +176,7 @@ How the playbook adapts: everything in Sections 4–9 still applies — position
 
 If at any point the provider says the baby needs to come out now and vaginal birth isn't safe: **this is the plan working, not the plan failing.** What happens: consent, quick prep, spinal anaesthesia (she's awake and numb from the chest down), a drape, pressure and tugging sensations but no pain, the baby out within minutes of the incision — and then, in most cases, **the baby goes straight to her chest** while they finish. Ask for it explicitly if it's not offered: *"Can we do skin-to-skin in theatre?"* Delayed cord clamping is often still possible — ask.
 
-His job doesn't change: stay at her head, hold her hand, narrate what's happening, be the first to say *"he's here, he's beautiful."* The golden hour can still happen — skin-to-skin in recovery, the first latch within the hour. A surgical birth is still *her* birth, and the first-week guides (course chapters 8–10) were written for all of it.
+His job doesn't change: stay at her head, hold her hand, narrate what's happening, be the first to say *"he's here, he's beautiful."* The golden hour can still happen — skin-to-skin in recovery, the first latch within the hour. A surgical birth is still *her* birth, and the course's first-48-hours, her-recovery and emergencies chapters (4, 7, 10) were written for all of it.
 
 ---
 
