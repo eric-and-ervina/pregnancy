@@ -82,8 +82,7 @@ Full protocol, evidence and contraindications are in the Week 34 guide: [`../wee
 ## 🧠 4. The Mental Lineup
 
 - **HypnoBirthing: 30 min daily** — maintained, not increased. Consistency over depth.
-- **Wave-breathing visualization: 15 min daily** — the week's one new practice: each contraction as an ocean wave that builds, peaks, breaks, and recedes; you surf it, you don't fight it. Full script in [`reading.md`](reading.md) §9.
-- **Vivid positive visualization: 15 min daily** — the same reel since week 35: the dim room, his hand on her back, the baby descending, the first cry, skin-to-skin.
+- **Wave-breathing visualization: 15 min daily** — this week's visualization slot: each contraction as an ocean wave that builds, peaks, breaks, and recedes — you surf it, you don't fight it — with the vivid reel (dim room, his hand, the descent, the first cry, skin-to-skin) folded into the same 15 minutes. Full script in [`reading.md`](reading.md) §9. One slot, not two.
 - **Surrender practice: 10 min** — release the need to control timing. Baby comes when ready.
 - **Affirmations:** *"My body is ready. My baby is ready. We will meet soon."* — said out loud once a day.
 - **Vocalization: 5 min** — low "oooooh" with the mantras, inside the squat or the ball block.
@@ -118,7 +117,7 @@ The 10 Oct visit found the head down with the face toward her right side — an 
 - [ ] **Gentle movement menu as comfortable** — ball, cat-cow, child's pose, hip circles, squat as comfortable (jaw loose throughout)
 - [ ] **Perineal massage daily (5 min)** — hard stops respected; stops entirely after waters break
 - [ ] **Pelvic floor release breathing 5 min daily**
-- [ ] HypnoBirthing 30 min/day · wave-breathing visualization 15 min/day · vivid visualization 15 min/day · surrender practice · affirmations out loud
+- [ ] HypnoBirthing 30 min/day · wave-breathing visualization 15 min/day (vivid reel folded in) · surrender practice · affirmations out loud
 - [ ] Vocalization 5 min daily with the mantras
 - [ ] Dates 6/day continue, RRL 3 cups, EPO as directed
 - [ ] Small frequent meals; hydration 3 L; labour snacks by the bed and in the bag

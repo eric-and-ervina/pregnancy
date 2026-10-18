@@ -14,11 +14,11 @@
 |---|---|
 | **Session 15 — the Waiting Game** | The final education session, and it's a *mental health* session, not a technique session. The program is deliberately done adding things |
 | **The circuit is retired** | Not paused — retired. Birth ball, cat-cow, child's pose, hip circles, as comfortable. The taper's final form is *gentle movement or nothing* |
-| **The 23 Oct visit (~38w 5d)** | The last routine visit before the window where most first babies arrive. Three questions: (1) has the head's position shifted since 10 Oct? (2) "what contraction pattern do you want us to head in on?" (3) if waters break with no contractions — how soon do you want us in? |
+| **The 23 Oct visit (~38w 5d)** | A check-in near the far end of the early-term window. Three questions: (1) has the head's position shifted since 10 Oct? (2) "what contraction pattern do you want us to head in on?" (3) if waters break with no contractions — how soon do you want us in? |
 | **GBS: closed** | Negative. Written on the birth plan. Forgotten — that was always the deal |
 | **Nothing else is due** | The bag is packed, the card is in it, the cheat sheet is printed, the room setup is known, the detours are understood. There is no remaining task that makes the birth go better. This is the week to stop preparing and start *waiting well* |
 
-**A note on the programme's design.** Weeks 25–37 added something every week — a technique, a drill, a rehearsal. Week 38 deliberately adds nothing, because the evidence and the experience both say the same thing: in the last stretch, *more input raises anxiety without improving outcomes*. If the urge to "do one more thing" arrives, the correct response is Section 2, not a new purchase.
+**A note on the program's design.** Weeks 25–37 added something every week — a technique, a drill, a rehearsal. Week 38 deliberately adds nothing, because the evidence and the experience both say the same thing: in the last stretch, *more input raises anxiety without improving outcomes*. If the urge to "do one more thing" arrives, the correct response is Section 2, not a new purchase.
 
 ---
 
@@ -52,7 +52,7 @@ Session 15's first prompt, answered straight. Everything below is normal.
 
 > *"Hey — quick ask from both of us. Once labour starts we won't be sending live updates; we'll message when the baby's here and everyone's okay. Please don't text asking for news — we'll reach out. We know it's from love, and the quiet genuinely helps."*
 
-**Why this matters medically, not just socially:** every update costs her focus, and focus is the currency of labour (week 37, §4.5). Protecting it now is practice for protecting it then.
+**Why this matters medically, not just socially:** every update costs her focus, and focus is the currency of labour (week 37, §4, rule 5). Protecting it now is practice for protecting it then.
 
 ---
 
@@ -135,13 +135,13 @@ Rest now. You're nearly there, and "nearly" is allowed to take its time.
 
 ---
 
-## 9. Wave Breathing — This Week's Only New Practice
+## 9. Wave Breathing — This Week's Visualization Slot
 
-[`PROGRAM.md`](../../program/PROGRAM.md) gives week 38 one mental addition, and it's a good one:
+[`PROGRAM.md`](../../program/PROGRAM.md) gives week 38 one mental addition, and it slots into the existing 15-minute visualization practice rather than on top of it:
 
 **Wave breathing (15 min visualization daily):** eyes closed, hand on the bump — picture each contraction as an ocean wave. It builds far out, rises, peaks, breaks, and recedes into flat calm water. **You don't fight a wave; you surf it** — breath in as it builds, long exhale over the peak, rest in the flat water between. The flat water is the point: every wave *ends*. Labour is a series of waves with rest built in, not one continuous effort.
 
-Pair it with the vivid positive visualization (15 min): the room dim, his hand on her back, the baby descending, the first cry, skin-to-skin. Same reel she's run since week 35 — now with the wave metaphor carrying the hard parts.
+Fold the vivid reel into the same 15 minutes: the room dim, his hand on her back, the baby descending, the first cry, skin-to-skin — the same reel she's run since week 35, now with the wave metaphor carrying the hard parts. One slot, not two; the week's mental load doesn't grow.
 
 ---
 
@@ -165,15 +165,15 @@ No new learning, but [`PROGRAM.md`](../../program/PROGRAM.md) prescribes one las
 
 - [ ] **Session 15 absorbed together** — the waiting psychology (Section 2), not a technique to master
 - [ ] **The phone boundary set** — he owns all "any news???" traffic from today (Section 3); the boundary message sent once to the repeat offenders
-- [ ] **23 Oct visit prepped** — three questions written in the antenatal booklet: head position since 10 Oct? head-in contraction pattern? ROM-without-contractions instruction?
+- [ ] **23 Oct visit prepped** — three questions written in the antenatal booklet: head position since 10 Oct? head-in contraction pattern? ROM-without-contractions instruction? (+ nipple-stimulation sign-off if interested — Section 5)
 - [ ] **GBS negative filed on the birth plan** — done 14 Oct; the matter is closed
-- [ ] **Wave breathing practised** — 15 min/day, the wave that builds, peaks, and recedes (Section 9)
+- [ ] **Wave breathing practised** — 15 min/day: the wave that builds, peaks, and recedes, with the vivid reel folded into the same slot (Section 9)
 - [ ] **His DILATION-PLAYBOOK skim** — §§5–6, fifteen minutes, once (Section 10)
 - [ ] **The 2 AM letter saved** where she can find it at 2 AM (Section 8)
 - [ ] Labour snacks by the bed *and* in the bag; car fuelled; route to TMC known cold
 - [ ] Dates 6/day continue (window runs to week 40); RRL 3 cups; EPO as directed
 - [ ] Perineal massage daily; gentle movement only ([`physical.md`](physical.md))
-- [ ] HypnoBirthing 30 min/day; vivid visualization 15 min/day; surrender practice continues
+- [ ] HypnoBirthing 30 min/day · wave-breathing visualization 15 min/day (the vivid reel folded in) · surrender practice continues
 - [ ] Sleep protected like the mission — quiet house, his phone silent, no bedtime debriefs
 
 ---
