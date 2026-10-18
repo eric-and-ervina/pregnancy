@@ -124,6 +124,10 @@ tracking/
 - 📖 [Reading — The Birth Day Playbook](weeks/week-37/reading.md) — Session 14: the call, early labour at home, the room, transition, pushing, the moment, the two detours (induction, emergency C-section), the 5 things not to do, and a printable one-page wall cheat sheet
 - 🏋️ [Physical — Exercise & Yoga (The Deep Taper: 4 Gentle Circuit Days, Rest as the Program)](weeks/week-37/physical.md)
 
+### Week 38
+- 📖 [Reading — The Waiting Game (Session 15: the Psychology of Waiting, the "Any News???" Boundary, the Honest Evidence on Encouraging Labour, and the 2 AM Letter)](weeks/week-38/reading.md)
+- 🏋️ [Physical — Exercise & Yoga (Gentle Movement Only: the Circuit Is Retired, Rest as the Program)](weeks/week-38/physical.md)
+
 ---
 
 *This program is for educational and supportive purposes. Always follow the guidance of your qualified prenatal care provider.*
