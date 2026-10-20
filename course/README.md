@@ -66,4 +66,12 @@ Chapters 1–3 and 10 are the ones that matter *before* the birth. Chapters 4–
 
 ---
 
+## ➡️ After Chapter 7 — her longer recovery program
+
+Chapter 7 covers the first 6 weeks. For what comes after — restoring her belly and core from birth to 12 months, in gated phases (heal & connect → reconnect → rebuild → strengthen → consolidate), with the 6-week check as the gate into loaded work:
+
+**[Ervina's Postpartum Belly & Core Recovery Program](../postpartum/belly-and-core-recovery.md)**
+
+---
+
 *Written October 2026. Singapore-specific facts (birth registration, TMC packages, helplines, subsidies) verified against official sources this month — re-confirm numbers with TMC/ICA/MOM before acting, rules change.*

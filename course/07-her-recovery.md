@@ -160,6 +160,7 @@ Cleared at the 6-week check, and only then, and only when she wants to. No rush,
 
 ## Go deeper
 
+- **Her belly & core, birth → 12 months:** [../postpartum/belly-and-core-recovery.md](../postpartum/belly-and-core-recovery.md) — the phased recovery program this chapter feeds into; the 6-week check in §7 above is its main gate
 - **The labour itself:** [../program/LABOUR-DAY-GUIDE.md](../program/LABOUR-DAY-GUIDE.md) — Part 7 (golden hour), Part 8 (ward stay & going home)
 - **Her recovery red flags:** [../program/LABOUR-DAY-GUIDE.md](../program/LABOUR-DAY-GUIDE.md) — Cases ⑭ (heavy bleeding after delivery) and ⑮ (first-two-weeks maternal red flags)
 - **Food:** the **eric-and-ervina/confinement** repo (meal-plan.md, herbs shopping list) — that's where the nutrition plan lives

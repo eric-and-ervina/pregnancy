@@ -39,6 +39,8 @@ weeks/
 tracking/
   calendar.md                    ← Week-by-week pregnancy calendar (LMP → EDD)
   costs.md                       ← Week-by-week cost estimates (SGD)
+postpartum/
+  belly-and-core-recovery.md     ← ⭐ Ervina's phased postpartum belly & core recovery program (birth → 12 months)
 ```
 
 ---
@@ -53,6 +55,7 @@ tracking/
 | Read the complete 3rd-trimester guide | [`program/THIRD-TRIMESTER-GUIDE.md`](program/THIRD-TRIMESTER-GUIDE.md) |
 | **Read the labour-day husband's playbook (Thomson Medical)** | [`program/LABOUR-DAY-GUIDE.md`](program/LABOUR-DAY-GUIDE.md) |
 | **Understand dilation & how to speed it up on the day** | [`program/DILATION-PLAYBOOK.md`](program/DILATION-PLAYBOOK.md) |
+| **Restore Ervina's belly & core after the birth (phased program, birth → 12 months)** | [**`postpartum/belly-and-core-recovery.md`**](postpartum/belly-and-core-recovery.md) |
 | Start this week's physical routine | [Week 25](weeks/week-25/physical.md) → and so on for later weeks |
 | Do this week's reading | [Week 25](weeks/week-25/reading-1.md) → and so on for later weeks |
 | Track dates, milestones & gestational age | [`tracking/calendar.md`](tracking/calendar.md) |
