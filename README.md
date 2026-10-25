@@ -131,6 +131,10 @@ postpartum/
 - 📖 [Reading — The Waiting Game (Session 15: the Psychology of Waiting, the "Any News???" Boundary, the Honest Evidence on Encouraging Labour, and the 2 AM Letter)](weeks/week-38/reading.md)
 - 🏋️ [Physical — Exercise & Yoga (Gentle Movement Only: the Circuit Is Retired, Rest as the Program)](weeks/week-38/physical.md)
 
+### Week 39
+- 📖 [Reading — Full Term (Session 15's Follow-Ups: the Door Drill, the Sweep Conversation, the Release Meditation, and the "When to Actually Worry" Table)](weeks/week-39/reading.md)
+- 🏋️ [Physical — Exercise & Yoga (The Holding Pattern: Less Volume, Same Skills, Rest as the Program)](weeks/week-39/physical.md)
+
 ---
 
 *This program is for educational and supportive purposes. Always follow the guidance of your qualified prenatal care provider.*
